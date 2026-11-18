@@ -1,43 +1,42 @@
 /**
- * Busca os números das planilhas de origem e alimenta as abas de tarefa da main_control.
- * Usa toNum_ e CFG de consolidate_main_data.gs: os dois arquivos ficam no MESMO projeto.
+ * Pulls the numbers from the source spreadsheets into the task tabs of the master spreadsheet.
+ * Uses toNum_ and CFG from consolidate_main_data.gs: both files live in the SAME Apps Script project.
  *
- * 1) previewIngest(): simula e escreve o resultado em "Ingestion Log" (não grava dados).
- * 2) Se o log estiver certo, rode runDaily() (ingere e depois consolida).
- * 3) installDailyIngestTrigger(): agenda todo dia entre 6:00 e 7:00 (substitui os gatilhos antigos).
- * Se uma execução estourar o tempo (6 min), rode de novo: o script é idempotente.
+ * 1) previewIngest(): dry run; writes the result to "Ingestion Log" (writes no data).
+ * 2) If the log looks right, run runDaily() (ingests, then consolidates).
+ * 3) installDailyIngestTrigger(): schedules a run every day between 6:00 and 7:00 (replaces older triggers).
+ * If a run hits the 6-minute limit, run it again: the script is idempotent.
  */
 
-// Agentes do Brasil; quem não está aqui é tratado como China (mesma regra da planilha).
-// Só é usado se a coluna country da aba de destino não tiver a fórmula de regra.
+// Agents based in Brazil; anyone not listed is treated as China (same rule as the spreadsheet).
+// Only used when the country column of the destination tab has no rule formula to copy.
 const BR_AGENTS = ['Ana', 'Bruno', 'Carla', 'Diego', 'Elisa', 'Felipe', 'Gabriela', 'Henrique',
   'Isabela', 'João', 'Larissa', 'Marcos'];
 
-// false = linhas que já existem na aba só são atualizadas dentro da janela UPDATE_RECENT_DAYS;
-// as mais antigas são preservadas (edições manuais). true = atualiza qualquer linha.
+// false = existing rows are only updated inside the UPDATE_RECENT_DAYS window;
+// older rows are preserved (manual edits). true = any existing row may be updated.
 const UPDATE_EXISTING = false;
-// Linhas dos últimos N dias (sem contar hoje) são atualizadas pela origem a cada execução,
-// para pegar o que foi preenchido depois das 6h. Edições manuais nesses dias são sobrescritas.
-// 0 = desliga (comportamento antigo: nunca atualiza linha existente).
+// Rows from the last N days (today excluded) are refreshed from the source on every run, to pick up
+// numbers filled in after the morning run. Manual edits on those days are overwritten.
+// 0 = off (never update an existing row).
 const UPDATE_RECENT_DAYS = 3;
-// true = não insere nem atualiza o dia de hoje (pode estar incompleto); ele entra na próxima execução.
+// true = never insert or update today's rows (the day may be incomplete); they come in on the next run.
 const SKIP_TODAY = true;
-// Só insere dias dos últimos N dias (0 = sem limite). Rede de segurança contra datas digitadas
-// ao contrário na origem: elas ficam de fora e aparecem como SKIP no Ingestion Log.
-// Para um preenchimento histórico de uma fonte nova, use 0 temporariamente.
+// Only insert days from the last N days (0 = no limit). Safety net against day/month typed in the wrong
+// order at the source: those rows are left out and show up as SKIP in the Ingestion Log.
+// For a historical backfill of a new source, set it to 0 temporarily.
 const LOOKBACK_DAYS = 45;
-// Hora (fuso do projeto, São Paulo) em que o gatilho diário dispara: entre 6:00 e 7:00.
+// Hour (project time zone) when the daily trigger fires: between 6:00 and 7:00.
 const DAILY_HOUR = 6;
 
 /**
- * cols: nomes dos cabeçalhos da origem, em minúsculas. up/notUp são opcionais.
- * headerRow: linha do cabeçalho na origem (padrão 1).
- * numFmt: 'en' quando a origem usa vírgula como milhar (7,797); padrão é ponto (7.797).
- * dateFromDisplay: true lê a data como aparece na tela (dd/mm/aaaa). Use quando a origem está com
- *   localidade en_US e a equipe digita dd/mm: o Sheets transforma 03/11 em 11 de março.
- * assignedFromSource: false quando a origem NÃO tem itens atribuídos. Nas linhas que já existem,
- *   o atribuído da aba é preservado (só o concluído é atualizado); nas linhas novas,
- *   atribuído = concluído (suposição).
+ * cols: source header names, in lowercase. up/notUp are optional.
+ * headerRow: header row in the source (default 1).
+ * numFmt: 'en' when the source uses a comma as thousands separator (7,797); default is a dot (7.797).
+ * dateFromDisplay: true reads the date as displayed (dd/mm/yyyy). Use it when the source sheet is set to
+ *   the en_US locale and the team types dd/mm: Sheets silently turns 03/11 into March 11.
+ * assignedFromSource: false when the source has NO assigned-items column. On existing rows the assigned
+ *   value in the tab is preserved (only "done" is updated); on new rows, assigned = done (assumption).
  */
 const SOURCES = [
   {
@@ -52,13 +51,13 @@ const SOURCES = [
     cols: { user: 'nick name', date: 'finish', assigned: 'assigned', done: 'items done', up: 'uploaded', notUp: 'not uploaded' }
   },
   {
-    // A origem não tem coluna de itens atribuídos.
+    // The source has no assigned-items column.
     name: 'T3', dest: 'T3 - Weight&Volumes', assignedFromSource: false,
     sourceId: 'YOUR_T3_SOURCE_SHEET_ID', sourceTab: '1. Daily Efficiency',
     cols: { user: 'nick name', date: 'finish', assigned: 'completion', done: 'completion' }
   },
   {
-    // Idem T3: a origem não tem coluna de itens atribuídos.
+    // Same as T3: the source has no assigned-items column.
     name: 'T4', dest: 'T4 - CPG Brand', assignedFromSource: false,
     sourceId: 'YOUR_T4_SOURCE_SHEET_ID', sourceTab: '1. Daily Efficiency',
     cols: { user: 'nick name', date: 'finish', assigned: 'completion', done: 'completion' }
@@ -82,9 +81,9 @@ const SOURCES = [
 const INGEST_LOG = 'Ingestion Log';
 
 /**
- * Execução diária: ingere, consolida e registra quando rodou (lido pelo webapp.gs).
- * Se alguma fonte der erro, as outras seguem e a Main Data é consolidada mesmo assim;
- * o status fica "partial" e o erro é relançado no fim, para o Apps Script mandar o e-mail de falha.
+ * Daily run: ingests, consolidates and records when it ran (read by webapp.gs).
+ * If a source fails, the others still run and Main Data is consolidated anyway; the status becomes
+ * "partial" and the error is re-thrown at the end so Apps Script sends its failure e-mail.
  */
 function runDaily() {
   const lock = LockService.getScriptLock();
@@ -108,16 +107,11 @@ function runDaily() {
   }
 }
 
-// Mantido só por compatibilidade com execuções manuais antigas.
-function runWeekly() {
-  runDaily();
-}
-
 function previewIngest() {
   ingestAll(true);
 }
 
-/** Apaga os gatilhos antigos (consolidate, runWeekly, runDaily) e cria um diário entre 6:00 e 7:00. */
+/** Deletes older triggers (consolidate, runWeekly, runDaily) and creates one daily trigger, 6:00-7:00. */
 function installDailyIngestTrigger() {
   ScriptApp.getProjectTriggers()
     .filter(t => ['consolidate', 'runWeekly', 'runDaily'].indexOf(t.getHandlerFunction()) >= 0)
@@ -125,7 +119,7 @@ function installDailyIngestTrigger() {
   ScriptApp.newTrigger('runDaily').timeBased().everyDays(1).atHour(DAILY_HOUR).create();
 }
 
-/** Devolve a lista de fontes que deram erro (vazia se tudo certo). */
+/** Returns the list of sources that failed (empty when everything went fine). */
 function ingestAll(dry) {
   const now = new Date(), log = [], errors = [];
   SOURCES.forEach(s => {
@@ -137,10 +131,10 @@ function ingestAll(dry) {
 }
 
 function ingestOne_(s, dry, log, now) {
-  // ---- origem ----
+  // ---- source ----
   const srcSS = SpreadsheetApp.openById(s.sourceId);
-  const srcTz = srcSS.getSpreadsheetTimeZone();                       // datas da origem: fuso da ORIGEM
-  const destTz = SpreadsheetApp.getActive().getSpreadsheetTimeZone(); // datas gravadas: fuso do DESTINO
+  const srcTz = srcSS.getSpreadsheetTimeZone();                       // source dates: SOURCE time zone
+  const destTz = SpreadsheetApp.getActive().getSpreadsheetTimeZone(); // written dates: DESTINATION time zone
   const src = srcSS.getSheetByName(s.sourceTab);
   if (!src) throw new Error('Source tab not found: ' + s.sourceTab);
   const v = src.getDataRange().getValues();
@@ -156,7 +150,7 @@ function ingestOne_(s, dry, log, now) {
   const hasUp = !!s.cols.up && !!s.cols.notUp;
   const num = x => numOf_(x, s.numFmt);
 
-  // soma linhas repetidas do mesmo agente no mesmo dia
+  // sum repeated rows of the same agent on the same day
   const agg = {};
   for (let i = hr + 1; i < v.length; i++) {
     const r = v[i];
@@ -174,7 +168,7 @@ function ingestOne_(s, dry, log, now) {
     if (hasUp) { a.up += num(r[ix.up]); a.nu += num(r[ix.notUp]); }
   }
 
-  // ---- destino ----
+  // ---- destination ----
   const ds = SpreadsheetApp.getActive().getSheetByName(s.dest);
   if (!ds) throw new Error('Destination tab not found: ' + s.dest);
   const dv = ds.getDataRange().getValues();
@@ -188,7 +182,7 @@ function ingestOne_(s, dry, log, now) {
     if (dc[k] < 0) throw new Error('Column not found in destination: ' + k);
   });
   const doUp = hasUp && dc.up >= 0 && dc.nu >= 0;
-  const keepAs = s.assignedFromSource === false; // preserva o atribuído já existente na aba
+  const keepAs = s.assignedFromSource === false; // keep the assigned value already in the tab
 
   const rowOf = {}, canon = {};
   let last = 1;
@@ -197,7 +191,7 @@ function ingestOne_(s, dry, log, now) {
     const u = String(r[dc.user]).trim();
     if (!u) continue;
     last = i + 1;
-    if (!canon[norm_(u)]) canon[norm_(u)] = u; // grafia usada na planilha (ex.: Cátia x Catia)
+    if (!canon[norm_(u)]) canon[norm_(u)] = u; // spelling already used in the tab (e.g. Cátia vs Catia)
     const d = ymd_(r[dc.date], destTz);
     if (d) rowOf[norm_(u) + '|' + d] = i + 1;
   }
@@ -206,7 +200,7 @@ function ingestOne_(s, dry, log, now) {
   const today = Utilities.formatDate(new Date(), destTz, 'yyyy-MM-dd');
   const cutoff = LOOKBACK_DAYS > 0
     ? Utilities.formatDate(new Date(Date.now() - LOOKBACK_DAYS * 864e5), destTz, 'yyyy-MM-dd') : '0000-00-00';
-  // primeiro dia da janela de atualização (ex.: hoje 18/11 e 3 dias -> a partir de 15/11)
+  // first day of the update window (e.g. today Nov 18 and 3 days -> from Nov 15)
   const recentFrom = UPDATE_RECENT_DAYS > 0
     ? Utilities.formatDate(new Date(Date.now() - UPDATE_RECENT_DAYS * 864e5), destTz, 'yyyy-MM-dd') : '9999-99-99';
   const newRows = [];
@@ -230,7 +224,7 @@ function ingestOne_(s, dry, log, now) {
     const canUpdate = UPDATE_EXISTING || a.dt >= recentFrom;
     if (!canUpdate) {
       kept++;
-      if (dry && kept <= 3) log.push([now, s.name, 'KEPT', a.user + ' ' + a.dt + ': aba ' + cur[dc.as] + '/' + cur[dc.dn] + ' vs origem ' + a.as + '/' + a.dn + ' (aba preservada)']);
+      if (dry && kept <= 3) log.push([now, s.name, 'KEPT', a.user + ' ' + a.dt + ': tab ' + cur[dc.as] + '/' + cur[dc.dn] + ' vs source ' + a.as + '/' + a.dn + ' (tab kept)']);
       return;
     }
     upd++;
@@ -260,7 +254,7 @@ function ingestOne_(s, dry, log, now) {
     });
     ds.getRange(start, 1, block.length, w).setValues(block);
     ds.getRange(start, dc.date + 1, block.length, 1).setNumberFormat('yyyy-mm-dd');
-    // país: copia a regra (fórmula) da última linha da aba
+    // country: copy the rule (formula) from the last row of the tab
     const rule = last > 1 ? ds.getRange(last, dc.country + 1).getFormulaR1C1() : '';
     const target = ds.getRange(start, dc.country + 1, block.length, 1);
     if (rule) target.setFormulaR1C1(rule);
@@ -284,10 +278,10 @@ function ingestOne_(s, dry, log, now) {
 }
 
 function countryOf_(u) {
-  return BR_AGENTS.indexOf(u) >= 0 ? 'Brasil' : (u ? 'China' : '');
+  return BR_AGENTS.indexOf(u) >= 0 ? 'Brazil' : (u ? 'China' : '');
 }
 
-// sem acento, minúsculas: "Cátia" e "Catia" são o mesmo agente
+// accent-insensitive, lowercase: "Cátia" and "Catia" are the same agent
 function norm_(u) {
   return String(u).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
 }
@@ -302,10 +296,10 @@ const MONTHS_ = { january: 1, february: 2, march: 3, april: 4, may: 5, june: 6, 
   august: 8, september: 9, october: 10, november: 11, december: 12 };
 
 /**
- * Devolve a data como texto 'yyyy-MM-dd'.
- * - Date vindo do Sheets: formatado no fuso da planilha de onde veio (tz).
- * - Texto (2026-9-4, 04/09/2026, 28,08, "20th September"): lido direto, sem conversão de fuso.
- *   Quando não há ano, usa CFG.DEFAULT_YEAR.
+ * Returns the date as 'yyyy-MM-dd' text.
+ * - A Date coming from Sheets: formatted in the time zone of the spreadsheet it came from (tz).
+ * - Text (2026-9-4, 04/09/2026, 28,08, "20th September"): read as is, with no time zone conversion.
+ *   When there is no year, CFG.DEFAULT_YEAR is used.
  */
 function ymd_(x, tz) {
   let y, m, d, mt;
@@ -338,8 +332,8 @@ function appendLog_(rows) {
 }
 
 /**
- * Rode UMA vez (se ainda houver) para corrigir linhas antigas com =IFERROR(E2/D2,0):
- * troca por =IFERROR(E2/D2) em items_done_%.
+ * One-off fix: replaces old =IFERROR(E2/D2,0) formulas in items_done_% with =IFERROR(E2/D2),
+ * so a missing assigned value shows as blank instead of 0%.
  */
 function fixPctFormulas() {
   const ss = SpreadsheetApp.getActive();

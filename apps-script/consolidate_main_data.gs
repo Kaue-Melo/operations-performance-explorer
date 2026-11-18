@@ -1,7 +1,7 @@
 /**
- * Consolida todas as abas de tarefas na aba "Main Data" (tabela mãe).
- * Chamado pelo runDaily() de ingest_sources.gs (gatilho diário, 6:00-7:00).
- * Configure o fuso do projeto em Configurações do projeto > Fuso horário: (GMT-03:00) São Paulo.
+ * Merges every task tab into the "Main Data" tab (the master table).
+ * Called by runDaily() in ingest_sources.gs (daily trigger, 6:00-7:00).
+ * Set the project time zone in Project Settings > Time zone (e.g. (GMT-03:00) Sao Paulo).
  */
 const CFG = {
   TABS: [
@@ -11,7 +11,7 @@ const CFG = {
   ],
   OUT: 'Main Data',
   LOG: 'Consolidation Log',
-  DEFAULT_YEAR: 2026 // usado quando a data vem sem ano (ex.: "28,08")
+  DEFAULT_YEAR: 2026 // used when a date has no year (e.g. "28,08")
 };
 const HEAD = ['country', 'user', 'date', 'task', 'items_assigned', 'items_done',
   'items_done_pct', 'uploaded', 'not_uploaded'];
@@ -30,7 +30,7 @@ function consolidate() {
       up = h.indexOf('uploaded'), nu = h.indexOf('not uploaded');
     for (let i = 1; i < v.length; i++) {
       const r = v[i];
-      if (!r[u] && !r[d]) continue; // linha vazia ou só com "A fazer"
+      if (!r[u] && !r[d]) continue; // empty row, or only the "to do" column filled
       const dt = toDate_(r[d]);
       if (!r[u] || !dt) { log.push([tab, i + 1, 'Missing user or unreadable date', String(r[d])]); continue; }
       const as = toNum_(r[a]), dn = toNum_(r[e]);

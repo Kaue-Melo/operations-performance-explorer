@@ -6,7 +6,7 @@ An automated pipeline and interactive dashboard for an operations team that prep
 > **All data in this repository is fictitious.** Agent names, volumes and dates were generated for the demo.
 > Spreadsheet IDs were replaced with placeholders.
 
-**Live demo:** `https://<Kaue-Melo>.github.io/operations-performance-explorer/`
+**Live demo:** [kaue-melo.github.io/operations-performance-explorer](https://kaue-melo.github.io/operations-performance-explorer/)
 
 ![Overview tab](docs/overview.png)
 
@@ -91,7 +91,7 @@ servers. A failed source does not block the others, and Apps Script e-mails the 
 ## Stack
 
 Google Apps Script (JavaScript), Google Sheets, HtmlService, and vanilla HTML, CSS and JavaScript with no
-dependencies. Charts are drawn as inline SVG.
+dependencies or chart libraries.
 
 ---
 Built by Kauê Yuji Suga de Melo.

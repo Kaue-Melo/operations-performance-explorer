@@ -1,13 +1,13 @@
 /**
- * Publica o Operations Performance Explorer como Web App, lendo a aba "Main Data" na hora em que
- * a página é aberta. Fica no MESMO projeto de consolidate_main_data.gs e ingest_sources.gs,
- * junto com o arquivo HTML "Explorer" (Arquivos > + > HTML, nome: Explorer).
+ * Serves the Operations Performance Explorer as a Web App that reads the "Main Data" tab when the page
+ * opens. Lives in the SAME project as consolidate_main_data.gs and ingest_sources.gs, together with the
+ * HTML file "Explorer" (Files > + > HTML, name: Explorer).
  *
- * Implantar: Implantar > Nova implantação > Tipo: App da Web
- *   - Executar como: Eu (os leitores não precisam de acesso à main_control)
- *   - Quem pode acessar: qualquer pessoa em <domínio da empresa>
- * Depois de mudar este arquivo ou o Explorer: Implantar > Gerenciar implantações > Editar > Nova versão
- * (o link continua o mesmo).
+ * Deploy: Deploy > New deployment > Type: Web app
+ *   - Execute as: Me (viewers do not need access to the master spreadsheet)
+ *   - Who has access: anyone in <your company domain>
+ * After changing this file or Explorer: Deploy > Manage deployments > Edit > New version
+ * (the URL stays the same).
  */
 function doGet() {
   const t = HtmlService.createTemplateFromFile('Explorer');
@@ -18,7 +18,7 @@ function doGet() {
     .addMetaTag('viewport', 'width=device-width, initial-scale=1');
 }
 
-/** Linhas da Main Data no formato que a página usa: {country, user, date, task, a, d, u, n}. */
+/** Main Data rows in the shape the page uses: {country, user, date, task, a, d, u, n}. */
 function mainDataRows_() {
   const ss = SpreadsheetApp.getActive();
   const sh = ss.getSheetByName(CFG.OUT);
@@ -42,7 +42,7 @@ function mainDataRows_() {
   return rows;
 }
 
-/** Quando o runDaily rodou pela última vez e como terminou (gravado em ingest_sources.gs). */
+/** When runDaily last ran and how it ended (stored by ingest_sources.gs). */
 function refreshMeta_() {
   const p = PropertiesService.getScriptProperties().getProperties();
   const tz = SpreadsheetApp.getActive().getSpreadsheetTimeZone();
@@ -52,7 +52,7 @@ function refreshMeta_() {
   };
 }
 
-// JSON seguro para colar dentro de <script>: um nome com "</script>" não quebra a página.
+// JSON that is safe inside <script>: a name containing "</script>" cannot break the page.
 function safeJson_(x) {
-  return JSON.stringify(x).replace(/</g, '\\u003c').replace(/ /g, '\\u2028').replace(/ /g, '\\u2029');
+  return JSON.stringify(x).replace(/</g, '\\u003c').replace(/\u2028/g, '\\u2028').replace(/\u2029/g, '\\u2029');
 }
