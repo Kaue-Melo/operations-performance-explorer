@@ -1,0 +1,2343 @@
+country,user,date,task,items_assigned,items_done,items_done_pct,uploaded,not_uploaded
+Brazil,Ana,2026-06-01,T2 - Image Optimisation,465,434,93.3%,121,285
+Brazil,Bruno,2026-06-01,Special Tag,9935,8151,82.0%,,
+Brazil,Carla,2026-06-01,T3 - Weight&Volumes,2297,2297,100.0%,,
+Brazil,Elisa,2026-06-01,T1 - Categorization (Front End),1289,1044,81.0%,,
+Brazil,Elisa,2026-06-01,Special Tag,6033,6102,101.1%,,
+Brazil,Felipe,2026-06-01,Frontend Category,7083,7009,99.0%,,
+Brazil,Gabriela,2026-06-01,T2 - Image Optimisation,327,321,98.2%,149,147
+Brazil,Henrique,2026-06-01,T1 - Categorization (Front End),1347,1254,93.1%,,
+Brazil,Isabela,2026-06-01,T2 - Image Optimisation,0,398,,193,176
+Brazil,João,2026-06-01,Frontend Category,9793,8076,82.5%,,
+Brazil,Larissa,2026-06-01,Special Tag,5871,6300,107.3%,,
+Brazil,Larissa,2026-06-01,T4 - CPG Brand,402,402,100.0%,,
+Brazil,Marcos,2026-06-01,Backend Category,6265,5516,88.0%,,
+China,Li Wei,2026-06-01,T1 - Categorization (Front End),2978,2882,96.8%,,
+China,Zhang Min,2026-06-01,T1 - Categorization (Front End),1256,1341,106.8%,,
+China,Zhang Min,2026-06-01,T2 - Image Optimisation,225,233,103.6%,85,142
+China,Wang Fang,2026-06-01,T2 - Image Optimisation,413,451,109.2%,48,369
+China,Chen Jie,2026-06-01,T2 - Image Optimisation,260,255,98.1%,90,157
+China,Chen Jie,2026-06-01,T1 - Categorization (Front End),1065,1097,103.0%,,
+Brazil,Ana,2026-06-02,T2 - Image Optimisation,303,251,82.8%,59,188
+Brazil,Bruno,2026-06-02,Special Tag,8806,8284,94.1%,,
+Brazil,Carla,2026-06-02,T3 - Weight&Volumes,2592,2592,100.0%,,
+Brazil,Diego,2026-06-02,T3 - Weight&Volumes,1257,1257,100.0%,,
+Brazil,Diego,2026-06-02,T2 - Image Optimisation,215,198,92.1%,103,87
+Brazil,Elisa,2026-06-02,T1 - Categorization (Front End),531,511,96.2%,,
+Brazil,Elisa,2026-06-02,Special Tag,5449,5720,105.0%,,
+Brazil,Felipe,2026-06-02,Frontend Category,7401,6693,90.4%,,
+Brazil,Gabriela,2026-06-02,T2 - Image Optimisation,459,436,95.0%,177,224
+Brazil,Henrique,2026-06-02,T1 - Categorization (Front End),1793,1875,104.6%,,
+Brazil,Isabela,2026-06-02,T2 - Image Optimisation,316,333,105.4%,65,255
+Brazil,João,2026-06-02,Frontend Category,7893,6768,85.7%,,
+Brazil,Larissa,2026-06-02,Special Tag,3775,3256,86.3%,,
+Brazil,Larissa,2026-06-02,T4 - CPG Brand,644,644,100.0%,,
+Brazil,Marcos,2026-06-02,Backend Category,6252,5405,86.5%,,
+China,Li Wei,2026-06-02,T1 - Categorization (Front End),1118,1032,92.3%,,
+China,Zhang Min,2026-06-02,T1 - Categorization (Front End),1303,1359,104.3%,,
+China,Zhang Min,2026-06-02,T2 - Image Optimisation,217,247,113.8%,90,148
+China,Wang Fang,2026-06-02,T2 - Image Optimisation,395,360,91.1%,146,209
+China,Chen Jie,2026-06-02,T2 - Image Optimisation,200,186,93.0%,41,129
+China,Chen Jie,2026-06-02,T1 - Categorization (Front End),1109,1136,102.4%,,
+Brazil,Ana,2026-06-03,T2 - Image Optimisation,482,353,73.2%,127,218
+Brazil,Bruno,2026-06-03,Special Tag,10931,9423,86.2%,,
+Brazil,Carla,2026-06-03,T3 - Weight&Volumes,2380,2380,100.0%,,
+Brazil,Diego,2026-06-03,T3 - Weight&Volumes,1520,1520,100.0%,,
+Brazil,Diego,2026-06-03,T2 - Image Optimisation,191,200,104.7%,78,108
+Brazil,Elisa,2026-06-03,T1 - Categorization (Front End),1125,968,86.0%,,
+Brazil,Elisa,2026-06-03,Special Tag,4814,5141,106.8%,,
+Brazil,Felipe,2026-06-03,Frontend Category,8670,7975,92.0%,,
+Brazil,Gabriela,2026-06-03,T2 - Image Optimisation,363,379,104.4%,165,188
+Brazil,Henrique,2026-06-03,T1 - Categorization (Front End),1867,1689,90.5%,,
+Brazil,Isabela,2026-06-03,T2 - Image Optimisation,484,390,80.6%,115,240
+Brazil,João,2026-06-03,Frontend Category,9668,10156,105.0%,,
+Brazil,Larissa,2026-06-03,Special Tag,3519,3787,107.6%,,
+Brazil,Larissa,2026-06-03,T4 - CPG Brand,482,482,100.0%,,
+Brazil,Marcos,2026-06-03,Backend Category,5407,5198,96.1%,,
+China,Zhang Min,2026-06-03,T1 - Categorization (Front End),1449,1373,94.8%,,
+China,Zhang Min,2026-06-03,T2 - Image Optimisation,151,148,98.0%,58,85
+China,Wang Fang,2026-06-03,T2 - Image Optimisation,354,409,115.5%,134,250
+China,Chen Jie,2026-06-03,T2 - Image Optimisation,224,210,93.8%,94,114
+China,Chen Jie,2026-06-03,T1 - Categorization (Front End),566,464,82.0%,,
+Brazil,Ana,2026-06-04,T2 - Image Optimisation,398,343,86.2%,74,257
+Brazil,Bruno,2026-06-04,Special Tag,11123,10191,91.6%,,
+Brazil,Carla,2026-06-04,T3 - Weight&Volumes,2830,2830,100.0%,,
+Brazil,Diego,2026-06-04,T3 - Weight&Volumes,1280,1280,100.0%,,
+Brazil,Diego,2026-06-04,T2 - Image Optimisation,211,184,87.2%,51,129
+Brazil,Elisa,2026-06-04,T1 - Categorization (Front End),783,753,96.2%,,
+Brazil,Elisa,2026-06-04,Special Tag,5740,5380,93.7%,,
+Brazil,Felipe,2026-06-04,Frontend Category,9392,9396,100.0%,,
+Brazil,Gabriela,2026-06-04,T2 - Image Optimisation,376,309,82.2%,109,192
+Brazil,Henrique,2026-06-04,T1 - Categorization (Front End),1738,1531,88.1%,,
+Brazil,Isabela,2026-06-04,T2 - Image Optimisation,416,436,104.8%,169,260
+Brazil,João,2026-06-04,Frontend Category,8706,6557,75.3%,,
+Brazil,Larissa,2026-06-04,Special Tag,7004,6811,97.2%,,
+Brazil,Larissa,2026-06-04,T4 - CPG Brand,571,571,100.0%,,
+Brazil,Marcos,2026-06-04,Backend Category,5069,5427,107.1%,,
+China,Li Wei,2026-06-04,T1 - Categorization (Front End),1104,1030,93.3%,,
+China,Zhang Min,2026-06-04,T1 - Categorization (Front End),1398,1297,92.8%,,
+China,Zhang Min,2026-06-04,T2 - Image Optimisation,182,179,98.4%,81,85
+China,Wang Fang,2026-06-04,T2 - Image Optimisation,428,453,105.8%,157,269
+China,Chen Jie,2026-06-04,T2 - Image Optimisation,189,170,89.9%,81,87
+China,Chen Jie,2026-06-04,T1 - Categorization (Front End),433,395,91.2%,,
+Brazil,Ana,2026-06-05,T2 - Image Optimisation,395,343,86.8%,125,216
+Brazil,Bruno,2026-06-05,Special Tag,6081,4813,79.1%,,
+Brazil,Carla,2026-06-05,T3 - Weight&Volumes,2383,2383,100.0%,,
+Brazil,Diego,2026-06-05,T3 - Weight&Volumes,1216,1216,100.0%,,
+Brazil,Diego,2026-06-05,T2 - Image Optimisation,202,179,88.6%,44,120
+Brazil,Elisa,2026-06-05,T1 - Categorization (Front End),0,1353,,,
+Brazil,Elisa,2026-06-05,Special Tag,0,3953,,,
+Brazil,Felipe,2026-06-05,Frontend Category,9098,9379,103.1%,,
+Brazil,Gabriela,2026-06-05,T2 - Image Optimisation,412,404,98.1%,86,311
+Brazil,Henrique,2026-06-05,T1 - Categorization (Front End),2604,2667,102.4%,,
+Brazil,Isabela,2026-06-05,T2 - Image Optimisation,409,371,90.7%,70,288
+Brazil,João,2026-06-05,Frontend Category,0,7600,,,
+Brazil,Larissa,2026-06-05,Special Tag,6044,6705,110.9%,,
+Brazil,Larissa,2026-06-05,T4 - CPG Brand,638,638,100.0%,,
+Brazil,Marcos,2026-06-05,Backend Category,7215,6215,86.1%,,
+China,Li Wei,2026-06-05,T1 - Categorization (Front End),1074,1040,96.8%,,
+China,Wang Fang,2026-06-05,T2 - Image Optimisation,393,429,109.2%,140,276
+China,Chen Jie,2026-06-05,T2 - Image Optimisation,184,142,77.2%,55,81
+China,Chen Jie,2026-06-05,T1 - Categorization (Front End),224,249,111.2%,,
+Brazil,Ana,2026-06-08,T2 - Image Optimisation,389,307,78.9%,109,193
+Brazil,Bruno,2026-06-08,T3 - Weight&Volumes,2723,2723,100.0%,,
+Brazil,Carla,2026-06-08,T3 - Weight&Volumes,2086,2086,100.0%,,
+Brazil,Diego,2026-06-08,Special Tag,10344,8161,78.9%,,
+Brazil,Elisa,2026-06-08,T1 - Categorization (Front End),923,1106,119.8%,,
+Brazil,Elisa,2026-06-08,Special Tag,3412,3305,96.9%,,
+Brazil,Felipe,2026-06-08,Frontend Category,6670,6446,96.6%,,
+Brazil,Gabriela,2026-06-08,T2 - Image Optimisation,385,391,101.6%,87,272
+Brazil,Henrique,2026-06-08,T1 - Categorization (Front End),1510,1406,93.1%,,
+Brazil,Isabela,2026-06-08,T1 - Categorization (Front End),2594,2247,86.6%,,
+Brazil,João,2026-06-08,Frontend Category,6802,5085,74.8%,,
+Brazil,Larissa,2026-06-08,Special Tag,5746,5885,102.4%,,
+Brazil,Larissa,2026-06-08,T4 - CPG Brand,663,663,100.0%,,
+Brazil,Marcos,2026-06-08,Backend Category,4678,4373,93.5%,,
+China,Li Wei,2026-06-08,T1 - Categorization (Front End),1494,1068,71.5%,,
+China,Zhang Min,2026-06-08,T1 - Categorization (Front End),986,1012,102.6%,,
+China,Zhang Min,2026-06-08,T2 - Image Optimisation,236,238,100.8%,121,109
+China,Wang Fang,2026-06-08,T2 - Image Optimisation,387,420,108.5%,103,294
+China,Chen Jie,2026-06-08,T2 - Image Optimisation,267,251,94.0%,103,124
+China,Chen Jie,2026-06-08,T1 - Categorization (Front End),581,591,101.7%,,
+Brazil,Ana,2026-06-09,T2 - Image Optimisation,411,371,90.3%,132,230
+Brazil,Bruno,2026-06-09,T3 - Weight&Volumes,2554,2554,100.0%,,
+Brazil,Carla,2026-06-09,T3 - Weight&Volumes,2292,2292,100.0%,,
+Brazil,Diego,2026-06-09,Special Tag,6286,5866,93.3%,,
+Brazil,Elisa,2026-06-09,T1 - Categorization (Front End),552,517,93.7%,,
+Brazil,Elisa,2026-06-09,Special Tag,5645,5139,91.0%,,
+Brazil,Felipe,2026-06-09,Frontend Category,8511,8554,100.5%,,
+Brazil,Henrique,2026-06-09,T1 - Categorization (Front End),1317,1170,88.8%,,
+Brazil,Isabela,2026-06-09,T1 - Categorization (Front End),1575,1270,80.6%,,
+Brazil,João,2026-06-09,Frontend Category,8494,6428,75.7%,,
+Brazil,Larissa,2026-06-09,Special Tag,3882,4154,107.0%,,
+Brazil,Larissa,2026-06-09,T4 - CPG Brand,796,796,100.0%,,
+Brazil,Marcos,2026-06-09,Backend Category,5184,4759,91.8%,,
+China,Li Wei,2026-06-09,T1 - Categorization (Front End),2888,2941,101.8%,,
+China,Zhang Min,2026-06-09,T1 - Categorization (Front End),1276,1122,87.9%,,
+China,Zhang Min,2026-06-09,T2 - Image Optimisation,199,215,108.0%,84,116
+China,Wang Fang,2026-06-09,T2 - Image Optimisation,528,594,112.5%,58,535
+China,Chen Jie,2026-06-09,T2 - Image Optimisation,166,167,100.6%,68,90
+China,Chen Jie,2026-06-09,T1 - Categorization (Front End),448,371,82.8%,,
+Brazil,Ana,2026-06-10,T2 - Image Optimisation,353,280,79.3%,83,187
+Brazil,Bruno,2026-06-10,T3 - Weight&Volumes,2720,2720,100.0%,,
+Brazil,Carla,2026-06-10,T3 - Weight&Volumes,2414,2414,100.0%,,
+Brazil,Diego,2026-06-10,Special Tag,8453,6708,79.4%,,
+Brazil,Elisa,2026-06-10,T1 - Categorization (Front End),780,852,109.2%,,
+Brazil,Elisa,2026-06-10,Special Tag,4810,5026,104.5%,,
+Brazil,Felipe,2026-06-10,Frontend Category,7836,7780,99.3%,,
+Brazil,Gabriela,2026-06-10,T2 - Image Optimisation,452,413,91.4%,115,279
+Brazil,Henrique,2026-06-10,T1 - Categorization (Front End),797,775,97.2%,,
+Brazil,Isabela,2026-06-10,T1 - Categorization (Front End),1398,1193,85.3%,,
+Brazil,João,2026-06-10,Frontend Category,7371,6297,85.4%,,
+Brazil,Larissa,2026-06-10,Special Tag,4514,4668,103.4%,,
+Brazil,Larissa,2026-06-10,T4 - CPG Brand,401,401,100.0%,,
+Brazil,Marcos,2026-06-10,Backend Category,6012,6486,107.9%,,
+China,Li Wei,2026-06-10,T1 - Categorization (Front End),110,87,79.1%,,
+China,Zhang Min,2026-06-10,T1 - Categorization (Front End),1427,1448,101.5%,,
+China,Zhang Min,2026-06-10,T2 - Image Optimisation,181,152,84.0%,76,68
+China,Wang Fang,2026-06-10,T2 - Image Optimisation,389,420,108.0%,209,175
+China,Chen Jie,2026-06-10,T2 - Image Optimisation,199,156,78.4%,48,99
+China,Chen Jie,2026-06-10,T1 - Categorization (Front End),801,818,102.1%,,
+Brazil,Ana,2026-06-11,T2 - Image Optimisation,0,410,,145,257
+Brazil,Bruno,2026-06-11,T3 - Weight&Volumes,2031,2031,100.0%,,
+Brazil,Carla,2026-06-11,T3 - Weight&Volumes,2862,2862,100.0%,,
+Brazil,Diego,2026-06-11,Special Tag,0,3792,,,
+Brazil,Elisa,2026-06-11,T1 - Categorization (Front End),893,822,92.0%,,
+Brazil,Elisa,2026-06-11,Special Tag,5447,4978,91.4%,,
+Brazil,Felipe,2026-06-11,Frontend Category,6482,4905,75.7%,,
+Brazil,Gabriela,2026-06-11,T2 - Image Optimisation,430,352,81.9%,59,287
+Brazil,Henrique,2026-06-11,T1 - Categorization (Front End),1354,1318,97.3%,,
+Brazil,Isabela,2026-06-11,T1 - Categorization (Front End),1931,1690,87.5%,,
+Brazil,João,2026-06-11,Frontend Category,12553,9215,73.4%,,
+Brazil,Larissa,2026-06-11,Special Tag,6154,6710,109.0%,,
+Brazil,Larissa,2026-06-11,T4 - CPG Brand,419,419,100.0%,,
+Brazil,Marcos,2026-06-11,Backend Category,0,6325,,,
+China,Li Wei,2026-06-11,T1 - Categorization (Front End),1240,1029,83.0%,,
+China,Zhang Min,2026-06-11,T1 - Categorization (Front End),812,905,111.5%,,
+China,Zhang Min,2026-06-11,T2 - Image Optimisation,228,230,100.9%,143,67
+China,Wang Fang,2026-06-11,T2 - Image Optimisation,0,428,,191,223
+China,Chen Jie,2026-06-11,T2 - Image Optimisation,139,113,81.3%,55,53
+China,Chen Jie,2026-06-11,T1 - Categorization (Front End),663,665,100.3%,,
+Brazil,Ana,2026-06-12,T2 - Image Optimisation,348,322,92.5%,70,251
+Brazil,Bruno,2026-06-12,T3 - Weight&Volumes,2328,2328,100.0%,,
+Brazil,Carla,2026-06-12,T3 - Weight&Volumes,2368,2368,100.0%,,
+Brazil,Diego,2026-06-12,Special Tag,8656,7587,87.7%,,
+Brazil,Elisa,2026-06-12,T1 - Categorization (Front End),789,841,106.6%,,
+Brazil,Elisa,2026-06-12,Special Tag,4534,3943,87.0%,,
+Brazil,Felipe,2026-06-12,Frontend Category,7128,6471,90.8%,,
+Brazil,Gabriela,2026-06-12,T2 - Image Optimisation,313,247,78.9%,42,196
+Brazil,Henrique,2026-06-12,T1 - Categorization (Front End),941,907,96.4%,,
+Brazil,Isabela,2026-06-12,T1 - Categorization (Front End),1475,1501,101.8%,,
+Brazil,João,2026-06-12,Frontend Category,4120,3351,81.3%,,
+Brazil,Larissa,2026-06-12,Special Tag,5373,5215,97.1%,,
+Brazil,Larissa,2026-06-12,T4 - CPG Brand,374,374,100.0%,,
+Brazil,Marcos,2026-06-12,Backend Category,6165,6899,111.9%,,
+China,Li Wei,2026-06-12,T1 - Categorization (Front End),2989,3030,101.4%,,
+China,Zhang Min,2026-06-12,T1 - Categorization (Front End),467,466,99.8%,,
+China,Zhang Min,2026-06-12,T2 - Image Optimisation,173,190,109.8%,70,109
+China,Wang Fang,2026-06-12,T2 - Image Optimisation,362,333,92.0%,137,170
+Brazil,Ana,2026-06-15,Frontend Category,7736,8285,107.1%,,
+Brazil,Bruno,2026-06-15,T3 - Weight&Volumes,1912,1912,100.0%,,
+Brazil,Carla,2026-06-15,T3 - Weight&Volumes,2382,2382,100.0%,,
+Brazil,Diego,2026-06-15,Special Tag,12195,9307,76.3%,,
+Brazil,Elisa,2026-06-15,T4 - CPG Brand,653,653,100.0%,,
+Brazil,Elisa,2026-06-15,Frontend Category,4438,4548,102.5%,,
+Brazil,Felipe,2026-06-15,Frontend Category,8369,8015,95.8%,,
+Brazil,Gabriela,2026-06-15,T2 - Image Optimisation,416,367,88.2%,29,314
+Brazil,Henrique,2026-06-15,T1 - Categorization (Front End),1267,1237,97.6%,,
+Brazil,Isabela,2026-06-15,T1 - Categorization (Front End),1170,1205,103.0%,,
+Brazil,João,2026-06-15,Frontend Category,8352,8264,98.9%,,
+Brazil,Larissa,2026-06-15,Special Tag,5711,5729,100.3%,,
+Brazil,Larissa,2026-06-15,T4 - CPG Brand,662,662,100.0%,,
+Brazil,Marcos,2026-06-15,Special Tag,12485,12657,101.4%,,
+China,Li Wei,2026-06-15,T1 - Categorization (Front End),2245,2216,98.7%,,
+China,Wang Fang,2026-06-15,T2 - Image Optimisation,374,386,103.2%,97,273
+China,Chen Jie,2026-06-15,T2 - Image Optimisation,209,178,85.2%,17,154
+China,Chen Jie,2026-06-15,T1 - Categorization (Front End),0,801,,,
+Brazil,Ana,2026-06-16,Frontend Category,8907,8225,92.3%,,
+Brazil,Bruno,2026-06-16,T3 - Weight&Volumes,1897,1897,100.0%,,
+Brazil,Carla,2026-06-16,T3 - Weight&Volumes,2723,2723,100.0%,,
+Brazil,Diego,2026-06-16,Special Tag,11964,11451,95.7%,,
+Brazil,Elisa,2026-06-16,T4 - CPG Brand,476,476,100.0%,,
+Brazil,Elisa,2026-06-16,Frontend Category,4688,4086,87.2%,,
+Brazil,Felipe,2026-06-16,Frontend Category,7944,6923,87.1%,,
+Brazil,Gabriela,2026-06-16,T2 - Image Optimisation,298,226,75.8%,105,107
+Brazil,Henrique,2026-06-16,T1 - Categorization (Front End),889,891,100.2%,,
+Brazil,Isabela,2026-06-16,T1 - Categorization (Front End),1746,1901,108.9%,,
+Brazil,João,2026-06-16,Frontend Category,8532,7543,88.4%,,
+Brazil,Larissa,2026-06-16,Special Tag,4632,4886,105.5%,,
+Brazil,Larissa,2026-06-16,T4 - CPG Brand,754,754,100.0%,,
+Brazil,Marcos,2026-06-16,Special Tag,9308,10751,115.5%,,
+China,Li Wei,2026-06-16,T1 - Categorization (Front End),611,607,99.3%,,
+China,Zhang Min,2026-06-16,T1 - Categorization (Front End),991,918,92.6%,,
+China,Zhang Min,2026-06-16,T2 - Image Optimisation,199,207,104.0%,55,142
+China,Wang Fang,2026-06-16,T2 - Image Optimisation,392,419,106.9%,71,332
+China,Chen Jie,2026-06-16,T2 - Image Optimisation,180,142,78.9%,35,102
+China,Chen Jie,2026-06-16,T1 - Categorization (Front End),1175,1159,98.6%,,
+Brazil,Ana,2026-06-17,Frontend Category,7437,7684,103.3%,,
+Brazil,Bruno,2026-06-17,T3 - Weight&Volumes,2946,2946,100.0%,,
+Brazil,Carla,2026-06-17,T3 - Weight&Volumes,2708,2708,100.0%,,
+Brazil,Diego,2026-06-17,Special Tag,8092,6980,86.3%,,
+Brazil,Elisa,2026-06-17,T4 - CPG Brand,558,558,100.0%,,
+Brazil,Elisa,2026-06-17,Frontend Category,4614,3783,82.0%,,
+Brazil,Felipe,2026-06-17,Frontend Category,6232,6202,99.5%,,
+Brazil,Gabriela,2026-06-17,T2 - Image Optimisation,407,344,84.5%,97,220
+Brazil,Henrique,2026-06-17,T1 - Categorization (Front End),1608,1540,95.8%,,
+Brazil,Isabela,2026-06-17,T1 - Categorization (Front End),1207,1061,87.9%,,
+Brazil,João,2026-06-17,Frontend Category,8954,7915,88.4%,,
+Brazil,Larissa,2026-06-17,Special Tag,5073,4863,95.9%,,
+Brazil,Larissa,2026-06-17,T4 - CPG Brand,467,467,100.0%,,
+Brazil,Marcos,2026-06-17,Special Tag,10034,10378,103.4%,,
+China,Li Wei,2026-06-17,T1 - Categorization (Front End),2688,2222,82.7%,,
+China,Zhang Min,2026-06-17,T1 - Categorization (Front End),1247,1289,103.4%,,
+China,Zhang Min,2026-06-17,T2 - Image Optimisation,212,192,90.6%,87,91
+China,Wang Fang,2026-06-17,T2 - Image Optimisation,436,437,100.2%,79,330
+China,Chen Jie,2026-06-17,T2 - Image Optimisation,211,169,80.1%,68,85
+China,Chen Jie,2026-06-17,T1 - Categorization (Front End),1297,1140,87.9%,,
+Brazil,Ana,2026-06-18,Frontend Category,9884,10327,104.5%,,
+Brazil,Bruno,2026-06-18,T3 - Weight&Volumes,2545,2545,100.0%,,
+Brazil,Carla,2026-06-18,T3 - Weight&Volumes,2224,2224,100.0%,,
+Brazil,Diego,2026-06-18,Special Tag,10558,9578,90.7%,,
+Brazil,Elisa,2026-06-18,T4 - CPG Brand,720,720,100.0%,,
+Brazil,Elisa,2026-06-18,Frontend Category,5037,5358,106.4%,,
+Brazil,Felipe,2026-06-18,Frontend Category,7364,6316,85.8%,,
+Brazil,Gabriela,2026-06-18,T2 - Image Optimisation,356,349,98.0%,122,225
+Brazil,Henrique,2026-06-18,T1 - Categorization (Front End),1068,1024,95.9%,,
+Brazil,Isabela,2026-06-18,T1 - Categorization (Front End),1252,1064,85.0%,,
+Brazil,João,2026-06-18,Frontend Category,9398,8305,88.4%,,
+Brazil,Larissa,2026-06-18,Special Tag,5430,5536,102.0%,,
+Brazil,Larissa,2026-06-18,T4 - CPG Brand,476,476,100.0%,,
+Brazil,Marcos,2026-06-18,Special Tag,11749,13993,119.1%,,
+China,Li Wei,2026-06-18,T1 - Categorization (Front End),2190,1877,85.7%,,
+China,Zhang Min,2026-06-18,T1 - Categorization (Front End),646,665,102.9%,,
+China,Zhang Min,2026-06-18,T2 - Image Optimisation,146,160,109.6%,71,73
+China,Wang Fang,2026-06-18,T2 - Image Optimisation,472,476,100.8%,87,359
+China,Chen Jie,2026-06-18,T2 - Image Optimisation,250,246,98.4%,102,127
+China,Chen Jie,2026-06-18,T1 - Categorization (Front End),685,729,106.4%,,
+Brazil,Ana,2026-06-19,Frontend Category,10308,8520,82.7%,,
+Brazil,Bruno,2026-06-19,T3 - Weight&Volumes,2886,2886,100.0%,,
+Brazil,Carla,2026-06-19,T3 - Weight&Volumes,2716,2716,100.0%,,
+Brazil,Diego,2026-06-19,Special Tag,8360,6516,77.9%,,
+Brazil,Elisa,2026-06-19,T4 - CPG Brand,737,737,100.0%,,
+Brazil,Elisa,2026-06-19,Frontend Category,4487,4203,93.7%,,
+Brazil,Felipe,2026-06-19,Frontend Category,8690,9910,114.0%,,
+Brazil,Gabriela,2026-06-19,T2 - Image Optimisation,397,356,89.7%,127,204
+Brazil,Henrique,2026-06-19,T1 - Categorization (Front End),1149,1194,103.9%,,
+Brazil,Isabela,2026-06-19,T1 - Categorization (Front End),2129,2014,94.6%,,
+Brazil,João,2026-06-19,Frontend Category,5619,4682,83.3%,,
+Brazil,Larissa,2026-06-19,Special Tag,5989,5670,94.7%,,
+Brazil,Larissa,2026-06-19,T4 - CPG Brand,644,644,100.0%,,
+Brazil,Marcos,2026-06-19,Special Tag,11041,12435,112.6%,,
+China,Zhang Min,2026-06-19,T1 - Categorization (Front End),578,624,108.0%,,
+China,Zhang Min,2026-06-19,T2 - Image Optimisation,192,194,101.0%,53,126
+China,Wang Fang,2026-06-19,T2 - Image Optimisation,427,361,84.5%,105,235
+China,Chen Jie,2026-06-19,T2 - Image Optimisation,164,130,79.3%,46,73
+China,Chen Jie,2026-06-19,T1 - Categorization (Front End),1048,1130,107.8%,,
+Brazil,Ana,2026-06-22,Frontend Category,5584,6296,112.8%,,
+Brazil,Bruno,2026-06-22,T3 - Weight&Volumes,2653,2653,100.0%,,
+Brazil,Carla,2026-06-22,T3 - Weight&Volumes,2589,2589,100.0%,,
+Brazil,Diego,2026-06-22,T2 - Image Optimisation,503,401,79.7%,107,269
+Brazil,Elisa,2026-06-22,T4 - CPG Brand,673,673,100.0%,,
+Brazil,Elisa,2026-06-22,Frontend Category,3856,3816,99.0%,,
+Brazil,Felipe,2026-06-22,Frontend Category,11253,11326,100.6%,,
+Brazil,Gabriela,2026-06-22,T4 - CPG Brand,620,620,100.0%,,
+Brazil,Gabriela,2026-06-22,Special Tag,4890,5313,108.7%,,
+Brazil,Henrique,2026-06-22,T1 - Categorization (Front End),3141,2917,92.9%,,
+Brazil,Isabela,2026-06-22,T1 - Categorization (Front End),2155,2222,103.1%,,
+Brazil,João,2026-06-22,Frontend Category,9097,6843,75.2%,,
+Brazil,Marcos,2026-06-22,Special Tag,8553,8328,97.4%,,
+China,Li Wei,2026-06-22,T1 - Categorization (Front End),1057,1007,95.3%,,
+China,Zhang Min,2026-06-22,T1 - Categorization (Front End),0,451,,,
+China,Zhang Min,2026-06-22,T2 - Image Optimisation,218,214,98.2%,84,113
+China,Wang Fang,2026-06-22,T2 - Image Optimisation,312,296,94.9%,87,198
+China,Chen Jie,2026-06-22,T2 - Image Optimisation,443,446,100.7%,196,225
+Brazil,Ana,2026-06-23,Frontend Category,0,9025,,,
+Brazil,Bruno,2026-06-23,T3 - Weight&Volumes,1602,1602,100.0%,,
+Brazil,Carla,2026-06-23,T3 - Weight&Volumes,2412,2412,100.0%,,
+Brazil,Diego,2026-06-23,T2 - Image Optimisation,400,347,86.8%,140,183
+Brazil,Elisa,2026-06-23,T4 - CPG Brand,354,354,100.0%,,
+Brazil,Elisa,2026-06-23,Frontend Category,2936,3171,108.0%,,
+Brazil,Felipe,2026-06-23,Frontend Category,4937,5455,110.5%,,
+Brazil,Gabriela,2026-06-23,T4 - CPG Brand,734,734,100.0%,,
+Brazil,Gabriela,2026-06-23,Special Tag,4445,4310,97.0%,,
+Brazil,Henrique,2026-06-23,T1 - Categorization (Front End),1519,1303,85.8%,,
+Brazil,Isabela,2026-06-23,T1 - Categorization (Front End),1626,1387,85.3%,,
+Brazil,João,2026-06-23,Frontend Category,9910,8440,85.2%,,
+Brazil,Larissa,2026-06-23,Special Tag,5236,5700,108.9%,,
+Brazil,Larissa,2026-06-23,T4 - CPG Brand,598,598,100.0%,,
+Brazil,Marcos,2026-06-23,Special Tag,10748,10871,101.1%,,
+China,Li Wei,2026-06-23,T1 - Categorization (Front End),2133,1743,81.7%,,
+China,Zhang Min,2026-06-23,T1 - Categorization (Front End),0,374,,,
+China,Zhang Min,2026-06-23,T2 - Image Optimisation,247,261,105.7%,63,187
+China,Wang Fang,2026-06-23,T2 - Image Optimisation,452,416,92.0%,210,188
+China,Chen Jie,2026-06-23,T2 - Image Optimisation,330,313,94.8%,159,138
+Brazil,Ana,2026-06-24,Frontend Category,9600,9484,98.8%,,
+Brazil,Bruno,2026-06-24,T3 - Weight&Volumes,2732,2732,100.0%,,
+Brazil,Carla,2026-06-24,T3 - Weight&Volumes,2351,2351,100.0%,,
+Brazil,Diego,2026-06-24,T2 - Image Optimisation,530,516,97.4%,131,379
+Brazil,Elisa,2026-06-24,T4 - CPG Brand,761,761,100.0%,,
+Brazil,Elisa,2026-06-24,Frontend Category,4594,4250,92.5%,,
+Brazil,Felipe,2026-06-24,Frontend Category,9255,10042,108.5%,,
+Brazil,Gabriela,2026-06-24,T4 - CPG Brand,446,446,100.0%,,
+Brazil,Gabriela,2026-06-24,Special Tag,6278,5801,92.4%,,
+Brazil,Henrique,2026-06-24,T1 - Categorization (Front End),2139,2059,96.3%,,
+Brazil,Isabela,2026-06-24,T1 - Categorization (Front End),2677,2429,90.7%,,
+Brazil,João,2026-06-24,Frontend Category,6043,5019,83.1%,,
+Brazil,Larissa,2026-06-24,Special Tag,6593,6753,102.4%,,
+Brazil,Larissa,2026-06-24,T4 - CPG Brand,627,627,100.0%,,
+Brazil,Marcos,2026-06-24,Special Tag,6302,6093,96.7%,,
+China,Li Wei,2026-06-24,T1 - Categorization (Front End),1203,1241,103.2%,,
+China,Zhang Min,2026-06-24,T1 - Categorization (Front End),477,503,105.5%,,
+China,Zhang Min,2026-06-24,T2 - Image Optimisation,193,200,103.6%,76,107
+China,Wang Fang,2026-06-24,T2 - Image Optimisation,358,403,112.6%,240,156
+China,Chen Jie,2026-06-24,T2 - Image Optimisation,353,296,83.9%,100,175
+Brazil,Ana,2026-06-25,Frontend Category,7088,7029,99.2%,,
+Brazil,Bruno,2026-06-25,T3 - Weight&Volumes,2240,2240,100.0%,,
+Brazil,Carla,2026-06-25,T3 - Weight&Volumes,2097,2097,100.0%,,
+Brazil,Diego,2026-06-25,T2 - Image Optimisation,0,255,,133,111
+Brazil,Elisa,2026-06-25,T4 - CPG Brand,650,650,100.0%,,
+Brazil,Elisa,2026-06-25,Frontend Category,4082,3567,87.4%,,
+Brazil,Felipe,2026-06-25,Frontend Category,7134,6538,91.6%,,
+Brazil,Gabriela,2026-06-25,T4 - CPG Brand,664,664,100.0%,,
+Brazil,Gabriela,2026-06-25,Special Tag,3568,3566,99.9%,,
+Brazil,Henrique,2026-06-25,T1 - Categorization (Front End),1908,1825,95.6%,,
+Brazil,Isabela,2026-06-25,T1 - Categorization (Front End),2716,2376,87.5%,,
+Brazil,João,2026-06-25,Frontend Category,5035,4003,79.5%,,
+Brazil,Larissa,2026-06-25,Special Tag,5933,6039,101.8%,,
+Brazil,Larissa,2026-06-25,T4 - CPG Brand,693,693,100.0%,,
+Brazil,Marcos,2026-06-25,Special Tag,9507,10437,109.8%,,
+China,Li Wei,2026-06-25,T1 - Categorization (Front End),2073,1858,89.6%,,
+China,Zhang Min,2026-06-25,T1 - Categorization (Front End),671,736,109.7%,,
+China,Zhang Min,2026-06-25,T2 - Image Optimisation,164,162,98.8%,104,49
+China,Wang Fang,2026-06-25,T2 - Image Optimisation,420,419,99.8%,163,234
+China,Chen Jie,2026-06-25,T2 - Image Optimisation,361,290,80.3%,125,161
+Brazil,Ana,2026-06-26,Frontend Category,6695,6284,93.9%,,
+Brazil,Bruno,2026-06-26,T3 - Weight&Volumes,2726,2726,100.0%,,
+Brazil,Carla,2026-06-26,T3 - Weight&Volumes,2389,2389,100.0%,,
+Brazil,Diego,2026-06-26,T2 - Image Optimisation,392,343,87.5%,245,87
+Brazil,Elisa,2026-06-26,T4 - CPG Brand,723,723,100.0%,,
+Brazil,Elisa,2026-06-26,Frontend Category,3882,3323,85.6%,,
+Brazil,Felipe,2026-06-26,Frontend Category,11005,9572,87.0%,,
+Brazil,Henrique,2026-06-26,T1 - Categorization (Front End),1752,1468,83.8%,,
+Brazil,Isabela,2026-06-26,T1 - Categorization (Front End),1927,1616,83.9%,,
+Brazil,João,2026-06-26,Frontend Category,9823,8460,86.1%,,
+Brazil,Larissa,2026-06-26,Special Tag,4158,3748,90.1%,,
+Brazil,Larissa,2026-06-26,T4 - CPG Brand,560,560,100.0%,,
+Brazil,Marcos,2026-06-26,Special Tag,10769,10245,95.1%,,
+China,Li Wei,2026-06-26,T1 - Categorization (Front End),719,618,86.0%,,
+China,Zhang Min,2026-06-26,T1 - Categorization (Front End),1291,1275,98.8%,,
+China,Zhang Min,2026-06-26,T2 - Image Optimisation,210,182,86.7%,60,106
+China,Wang Fang,2026-06-26,T2 - Image Optimisation,321,333,103.7%,100,222
+Brazil,Ana,2026-06-29,T1 - Categorization (Front End),1169,1187,101.5%,,
+Brazil,Bruno,2026-06-29,T3 - Weight&Volumes,1926,1926,100.0%,,
+Brazil,Carla,2026-06-29,Frontend Category,8517,8129,95.4%,,
+Brazil,Diego,2026-06-29,T2 - Image Optimisation,337,296,87.8%,134,155
+Brazil,Elisa,2026-06-29,Backend Category,4000,4220,105.5%,,
+Brazil,Felipe,2026-06-29,Frontend Category,10560,10017,94.9%,,
+Brazil,Gabriela,2026-06-29,T4 - CPG Brand,441,441,100.0%,,
+Brazil,Gabriela,2026-06-29,Special Tag,5162,4969,96.3%,,
+Brazil,Henrique,2026-06-29,T1 - Categorization (Front End),1232,1068,86.7%,,
+Brazil,Isabela,2026-06-29,T1 - Categorization (Front End),2196,1848,84.2%,,
+Brazil,João,2026-06-29,Frontend Category,9333,6394,68.5%,,
+Brazil,Larissa,2026-06-29,Special Tag,4441,4324,97.4%,,
+Brazil,Larissa,2026-06-29,T4 - CPG Brand,551,551,100.0%,,
+Brazil,Marcos,2026-06-29,Special Tag,9574,9589,100.2%,,
+China,Zhang Min,2026-06-29,T1 - Categorization (Front End),217,233,107.4%,,
+China,Zhang Min,2026-06-29,T2 - Image Optimisation,180,181,100.6%,51,128
+China,Wang Fang,2026-06-29,T2 - Image Optimisation,477,469,98.3%,38,426
+China,Chen Jie,2026-06-29,T2 - Image Optimisation,460,478,103.9%,118,356
+Brazil,Ana,2026-06-30,T1 - Categorization (Front End),2293,2253,98.3%,,
+Brazil,Bruno,2026-06-30,T3 - Weight&Volumes,2471,2471,100.0%,,
+Brazil,Carla,2026-06-30,Frontend Category,9220,9208,99.9%,,
+Brazil,Diego,2026-06-30,T2 - Image Optimisation,258,239,92.6%,67,150
+Brazil,Elisa,2026-06-30,Backend Category,6104,6304,103.3%,,
+Brazil,Felipe,2026-06-30,Frontend Category,8961,7539,84.1%,,
+Brazil,Gabriela,2026-06-30,T4 - CPG Brand,513,513,100.0%,,
+Brazil,Gabriela,2026-06-30,Special Tag,6319,5310,84.0%,,
+Brazil,Henrique,2026-06-30,T1 - Categorization (Front End),2690,2656,98.7%,,
+Brazil,Isabela,2026-06-30,T1 - Categorization (Front End),1564,1477,94.4%,,
+Brazil,João,2026-06-30,Frontend Category,8087,5396,66.7%,,
+Brazil,Larissa,2026-06-30,Special Tag,6452,6664,103.3%,,
+Brazil,Larissa,2026-06-30,T4 - CPG Brand,657,657,100.0%,,
+Brazil,Marcos,2026-06-30,Special Tag,10381,8841,85.2%,,
+China,Li Wei,2026-06-30,T1 - Categorization (Front End),1776,1889,106.4%,,
+China,Zhang Min,2026-06-30,T1 - Categorization (Front End),1424,1397,98.1%,,
+China,Zhang Min,2026-06-30,T2 - Image Optimisation,215,215,100.0%,42,160
+China,Wang Fang,2026-06-30,T2 - Image Optimisation,326,336,103.1%,126,201
+China,Chen Jie,2026-06-30,T2 - Image Optimisation,444,338,76.1%,142,164
+Brazil,Ana,2026-07-01,T1 - Categorization (Front End),2616,2650,101.3%,,
+Brazil,Bruno,2026-07-01,T3 - Weight&Volumes,2657,2657,100.0%,,
+Brazil,Carla,2026-07-01,Frontend Category,9081,9398,103.5%,,
+Brazil,Diego,2026-07-01,T2 - Image Optimisation,476,453,95.2%,107,323
+Brazil,Elisa,2026-07-01,Backend Category,6833,7289,106.7%,,
+Brazil,Felipe,2026-07-01,Frontend Category,5807,6117,105.3%,,
+Brazil,Gabriela,2026-07-01,T4 - CPG Brand,710,710,100.0%,,
+Brazil,Gabriela,2026-07-01,Special Tag,5258,6105,116.1%,,
+Brazil,Henrique,2026-07-01,T1 - Categorization (Front End),1739,1749,100.6%,,
+Brazil,Isabela,2026-07-01,T1 - Categorization (Front End),1942,1951,100.5%,,
+Brazil,João,2026-07-01,Frontend Category,7706,5751,74.6%,,
+Brazil,Larissa,2026-07-01,Special Tag,6358,6207,97.6%,,
+Brazil,Larissa,2026-07-01,T4 - CPG Brand,432,432,100.0%,,
+Brazil,Marcos,2026-07-01,Special Tag,8946,8595,96.1%,,
+China,Li Wei,2026-07-01,T1 - Categorization (Front End),689,626,90.9%,,
+China,Chen Jie,2026-07-01,T2 - Image Optimisation,365,288,78.9%,115,154
+Brazil,Ana,2026-07-02,T1 - Categorization (Front End),1327,1285,96.8%,,
+Brazil,Bruno,2026-07-02,T3 - Weight&Volumes,2354,2354,100.0%,,
+Brazil,Carla,2026-07-02,Frontend Category,0,6987,,,
+Brazil,Diego,2026-07-02,T2 - Image Optimisation,412,384,93.2%,134,240
+Brazil,Elisa,2026-07-02,Backend Category,5758,6148,106.8%,,
+Brazil,Gabriela,2026-07-02,T4 - CPG Brand,844,844,100.0%,,
+Brazil,Gabriela,2026-07-02,Special Tag,4550,5082,111.7%,,
+Brazil,Henrique,2026-07-02,T1 - Categorization (Front End),945,809,85.6%,,
+Brazil,Isabela,2026-07-02,T1 - Categorization (Front End),2439,2397,98.3%,,
+Brazil,João,2026-07-02,Frontend Category,11388,10688,93.9%,,
+Brazil,Larissa,2026-07-02,Special Tag,4258,4106,96.4%,,
+Brazil,Larissa,2026-07-02,T4 - CPG Brand,893,893,100.0%,,
+Brazil,Marcos,2026-07-02,Special Tag,9174,9053,98.7%,,
+China,Li Wei,2026-07-02,T1 - Categorization (Front End),2459,2297,93.4%,,
+China,Zhang Min,2026-07-02,T1 - Categorization (Front End),503,470,93.4%,,
+China,Zhang Min,2026-07-02,T2 - Image Optimisation,147,118,80.3%,28,84
+China,Wang Fang,2026-07-02,T2 - Image Optimisation,401,428,106.7%,241,148
+China,Chen Jie,2026-07-02,T2 - Image Optimisation,345,298,86.4%,160,126
+Brazil,Ana,2026-07-03,T1 - Categorization (Front End),2249,2475,110.0%,,
+Brazil,Bruno,2026-07-03,T3 - Weight&Volumes,1899,1899,100.0%,,
+Brazil,Carla,2026-07-03,Frontend Category,8390,10009,119.3%,,
+Brazil,Diego,2026-07-03,T2 - Image Optimisation,413,418,101.2%,150,236
+Brazil,Elisa,2026-07-03,Backend Category,6500,7836,120.6%,,
+Brazil,Felipe,2026-07-03,Frontend Category,6644,6851,103.1%,,
+Brazil,Gabriela,2026-07-03,T4 - CPG Brand,453,453,100.0%,,
+Brazil,Gabriela,2026-07-03,Special Tag,4905,5218,106.4%,,
+Brazil,Henrique,2026-07-03,T1 - Categorization (Front End),1707,1483,86.9%,,
+Brazil,Isabela,2026-07-03,T1 - Categorization (Front End),2325,2159,92.9%,,
+Brazil,João,2026-07-03,Frontend Category,8925,7370,82.6%,,
+Brazil,Larissa,2026-07-03,Special Tag,5284,5662,107.2%,,
+Brazil,Larissa,2026-07-03,T4 - CPG Brand,472,472,100.0%,,
+Brazil,Marcos,2026-07-03,Special Tag,9385,9056,96.5%,,
+China,Li Wei,2026-07-03,T1 - Categorization (Front End),1288,1107,85.9%,,
+China,Zhang Min,2026-07-03,T1 - Categorization (Front End),1171,1270,108.5%,,
+China,Zhang Min,2026-07-03,T2 - Image Optimisation,232,221,95.3%,86,131
+China,Wang Fang,2026-07-03,T2 - Image Optimisation,405,414,102.2%,98,309
+China,Chen Jie,2026-07-03,T2 - Image Optimisation,397,345,86.9%,84,249
+Brazil,Ana,2026-07-06,T1 - Categorization (Front End),2494,2684,107.6%,,
+Brazil,Bruno,2026-07-06,T3 - Weight&Volumes,2515,2515,100.0%,,
+Brazil,Carla,2026-07-06,Frontend Category,10731,10961,102.1%,,
+Brazil,Diego,2026-07-06,T1 - Categorization (Front End),927,1016,109.6%,,
+Brazil,Diego,2026-07-06,Special Tag,3913,3874,99.0%,,
+Brazil,Elisa,2026-07-06,T2 - Image Optimisation,413,449,108.7%,101,337
+Brazil,Felipe,2026-07-06,Frontend Category,5561,5417,97.4%,,
+Brazil,Gabriela,2026-07-06,T4 - CPG Brand,605,605,100.0%,,
+Brazil,Gabriela,2026-07-06,Special Tag,3397,3502,103.1%,,
+Brazil,Henrique,2026-07-06,Frontend Category,8409,10085,119.9%,,
+Brazil,Isabela,2026-07-06,T1 - Categorization (Front End),2744,2291,83.5%,,
+Brazil,João,2026-07-06,Frontend Category,0,9316,,,
+Brazil,Larissa,2026-07-06,Special Tag,5796,5162,89.1%,,
+Brazil,Larissa,2026-07-06,T4 - CPG Brand,550,550,100.0%,,
+Brazil,Marcos,2026-07-06,Special Tag,12454,11774,94.5%,,
+China,Zhang Min,2026-07-06,T1 - Categorization (Front End),813,810,99.6%,,
+China,Zhang Min,2026-07-06,T2 - Image Optimisation,125,125,100.0%,41,74
+China,Wang Fang,2026-07-06,T2 - Image Optimisation,372,391,105.1%,81,282
+China,Chen Jie,2026-07-06,T2 - Image Optimisation,470,365,77.7%,183,151
+Brazil,Ana,2026-07-07,T1 - Categorization (Front End),1603,1606,100.2%,,
+Brazil,Bruno,2026-07-07,T3 - Weight&Volumes,2509,2509,100.0%,,
+Brazil,Carla,2026-07-07,Frontend Category,7305,6690,91.6%,,
+Brazil,Diego,2026-07-07,T1 - Categorization (Front End),752,664,88.3%,,
+Brazil,Diego,2026-07-07,Special Tag,4549,4028,88.5%,,
+Brazil,Elisa,2026-07-07,T2 - Image Optimisation,392,373,95.2%,77,295
+Brazil,Felipe,2026-07-07,Frontend Category,5739,5439,94.8%,,
+Brazil,Gabriela,2026-07-07,T4 - CPG Brand,591,591,100.0%,,
+Brazil,Gabriela,2026-07-07,Special Tag,5557,5353,96.3%,,
+Brazil,Henrique,2026-07-07,Frontend Category,9249,10623,114.9%,,
+Brazil,Isabela,2026-07-07,T1 - Categorization (Front End),1416,1202,84.9%,,
+Brazil,Larissa,2026-07-07,Special Tag,5141,4671,90.9%,,
+Brazil,Larissa,2026-07-07,T4 - CPG Brand,770,770,100.0%,,
+Brazil,Marcos,2026-07-07,Special Tag,6623,7182,108.4%,,
+China,Li Wei,2026-07-07,T1 - Categorization (Front End),751,777,103.5%,,
+China,Li Wei,2026-07-07,T2 - Image Optimisation,181,163,90.1%,45,112
+China,Zhang Min,2026-07-07,T1 - Categorization (Front End),1417,1336,94.3%,,
+China,Zhang Min,2026-07-07,T2 - Image Optimisation,221,194,87.8%,110,68
+China,Wang Fang,2026-07-07,T2 - Image Optimisation,0,504,,160,304
+China,Chen Jie,2026-07-07,T2 - Image Optimisation,257,262,101.9%,120,136
+Brazil,Ana,2026-07-08,T1 - Categorization (Front End),2181,2240,102.7%,,
+Brazil,Bruno,2026-07-08,T3 - Weight&Volumes,2241,2241,100.0%,,
+Brazil,Carla,2026-07-08,Frontend Category,8677,7980,92.0%,,
+Brazil,Diego,2026-07-08,T1 - Categorization (Front End),686,663,96.6%,,
+Brazil,Diego,2026-07-08,Special Tag,5134,4279,83.3%,,
+Brazil,Elisa,2026-07-08,T2 - Image Optimisation,295,299,101.4%,124,164
+Brazil,Felipe,2026-07-08,Frontend Category,6533,5859,89.7%,,
+Brazil,Gabriela,2026-07-08,T4 - CPG Brand,709,709,100.0%,,
+Brazil,Gabriela,2026-07-08,Special Tag,4814,4828,100.3%,,
+Brazil,Henrique,2026-07-08,Frontend Category,8422,7702,91.5%,,
+Brazil,Isabela,2026-07-08,T1 - Categorization (Front End),1419,1097,77.3%,,
+Brazil,João,2026-07-08,Frontend Category,8520,8159,95.8%,,
+Brazil,Larissa,2026-07-08,Special Tag,4983,5750,115.4%,,
+Brazil,Larissa,2026-07-08,T4 - CPG Brand,721,721,100.0%,,
+Brazil,Marcos,2026-07-08,Special Tag,8937,9664,108.1%,,
+China,Li Wei,2026-07-08,T1 - Categorization (Front End),808,776,96.0%,,
+China,Li Wei,2026-07-08,T2 - Image Optimisation,0,171,,60,99
+China,Zhang Min,2026-07-08,T1 - Categorization (Front End),827,902,109.1%,,
+China,Zhang Min,2026-07-08,T2 - Image Optimisation,178,166,93.3%,54,102
+China,Wang Fang,2026-07-08,T2 - Image Optimisation,425,385,90.6%,113,261
+China,Chen Jie,2026-07-08,T2 - Image Optimisation,349,304,87.1%,110,170
+Brazil,Ana,2026-07-09,T1 - Categorization (Front End),1442,1209,83.8%,,
+Brazil,Bruno,2026-07-09,T3 - Weight&Volumes,2221,2221,100.0%,,
+Brazil,Carla,2026-07-09,Frontend Category,7671,7374,96.1%,,
+Brazil,Diego,2026-07-09,T1 - Categorization (Front End),543,502,92.4%,,
+Brazil,Diego,2026-07-09,Special Tag,5643,4652,82.4%,,
+Brazil,Elisa,2026-07-09,T2 - Image Optimisation,453,464,102.4%,48,396
+Brazil,Felipe,2026-07-09,Frontend Category,7571,7710,101.8%,,
+Brazil,Gabriela,2026-07-09,T4 - CPG Brand,678,678,100.0%,,
+Brazil,Gabriela,2026-07-09,Special Tag,5769,5189,89.9%,,
+Brazil,Henrique,2026-07-09,Frontend Category,7287,8672,119.0%,,
+Brazil,Isabela,2026-07-09,T1 - Categorization (Front End),1013,889,87.8%,,
+Brazil,João,2026-07-09,Frontend Category,8936,8905,99.7%,,
+Brazil,Larissa,2026-07-09,Special Tag,3157,2992,94.8%,,
+Brazil,Larissa,2026-07-09,T4 - CPG Brand,706,706,100.0%,,
+Brazil,Marcos,2026-07-09,Special Tag,8042,8620,107.2%,,
+China,Li Wei,2026-07-09,T1 - Categorization (Front End),1124,1148,102.1%,,
+China,Li Wei,2026-07-09,T2 - Image Optimisation,201,184,91.5%,56,120
+China,Zhang Min,2026-07-09,T1 - Categorization (Front End),1491,1295,86.9%,,
+China,Zhang Min,2026-07-09,T2 - Image Optimisation,197,150,76.1%,39,104
+China,Wang Fang,2026-07-09,T2 - Image Optimisation,404,375,92.8%,69,293
+China,Chen Jie,2026-07-09,T2 - Image Optimisation,444,417,93.9%,157,254
+Brazil,Ana,2026-07-10,T1 - Categorization (Front End),2031,1919,94.5%,,
+Brazil,Bruno,2026-07-10,T3 - Weight&Volumes,2464,2464,100.0%,,
+Brazil,Carla,2026-07-10,Frontend Category,5713,5176,90.6%,,
+Brazil,Diego,2026-07-10,T1 - Categorization (Front End),1111,1134,102.1%,,
+Brazil,Diego,2026-07-10,Special Tag,3778,3164,83.7%,,
+Brazil,Elisa,2026-07-10,T2 - Image Optimisation,379,299,78.9%,68,216
+Brazil,Felipe,2026-07-10,Frontend Category,8322,7692,92.4%,,
+Brazil,Gabriela,2026-07-10,T4 - CPG Brand,693,693,100.0%,,
+Brazil,Gabriela,2026-07-10,Special Tag,5293,5089,96.1%,,
+Brazil,Henrique,2026-07-10,Frontend Category,7236,7460,103.1%,,
+Brazil,Isabela,2026-07-10,T1 - Categorization (Front End),3148,2565,81.5%,,
+Brazil,João,2026-07-10,Frontend Category,6441,5820,90.4%,,
+Brazil,Larissa,2026-07-10,Special Tag,3355,3250,96.9%,,
+Brazil,Larissa,2026-07-10,T4 - CPG Brand,359,359,100.0%,,
+Brazil,Marcos,2026-07-10,Special Tag,7365,7582,102.9%,,
+China,Li Wei,2026-07-10,T1 - Categorization (Front End),1680,1764,105.0%,,
+China,Li Wei,2026-07-10,T2 - Image Optimisation,180,135,75.0%,14,118
+China,Zhang Min,2026-07-10,T1 - Categorization (Front End),1450,1380,95.2%,,
+China,Zhang Min,2026-07-10,T2 - Image Optimisation,236,256,108.5%,48,205
+China,Wang Fang,2026-07-10,T2 - Image Optimisation,480,502,104.6%,318,141
+China,Chen Jie,2026-07-10,T2 - Image Optimisation,414,266,64.3%,141,122
+Brazil,Ana,2026-07-13,Special Tag,9561,10860,113.6%,,
+Brazil,Bruno,2026-07-13,T3 - Weight&Volumes,2652,2652,100.0%,,
+Brazil,Carla,2026-07-13,Frontend Category,9299,8702,93.6%,,
+Brazil,Diego,2026-07-13,T1 - Categorization (Front End),447,448,100.2%,,
+Brazil,Diego,2026-07-13,Special Tag,0,5375,,,
+Brazil,Elisa,2026-07-13,T2 - Image Optimisation,295,321,108.8%,152,140
+Brazil,Felipe,2026-07-13,Frontend Category,5964,6336,106.2%,,
+Brazil,Gabriela,2026-07-13,T4 - CPG Brand,746,746,100.0%,,
+Brazil,Gabriela,2026-07-13,Special Tag,5536,5606,101.3%,,
+Brazil,Henrique,2026-07-13,Frontend Category,9196,8866,96.4%,,
+Brazil,Isabela,2026-07-13,T1 - Categorization (Front End),1295,1273,98.3%,,
+Brazil,João,2026-07-13,Frontend Category,9696,8410,86.7%,,
+Brazil,Larissa,2026-07-13,Special Tag,6438,6329,98.3%,,
+Brazil,Larissa,2026-07-13,T4 - CPG Brand,890,890,100.0%,,
+Brazil,Marcos,2026-07-13,Special Tag,10964,10782,98.3%,,
+China,Li Wei,2026-07-13,T1 - Categorization (Front End),528,433,82.0%,,
+China,Li Wei,2026-07-13,T2 - Image Optimisation,201,196,97.5%,64,129
+China,Zhang Min,2026-07-13,T1 - Categorization (Front End),797,683,85.7%,,
+China,Zhang Min,2026-07-13,T2 - Image Optimisation,237,226,95.4%,76,138
+China,Chen Jie,2026-07-13,T2 - Image Optimisation,457,390,85.3%,121,246
+Brazil,Ana,2026-07-14,Special Tag,6679,6517,97.6%,,
+Brazil,Bruno,2026-07-14,T3 - Weight&Volumes,2459,2459,100.0%,,
+Brazil,Carla,2026-07-14,Frontend Category,11568,10440,90.2%,,
+Brazil,Diego,2026-07-14,T1 - Categorization (Front End),391,357,91.3%,,
+Brazil,Diego,2026-07-14,Special Tag,4463,3674,82.3%,,
+Brazil,Elisa,2026-07-14,T2 - Image Optimisation,403,414,102.7%,200,174
+Brazil,Felipe,2026-07-14,Frontend Category,9375,9090,97.0%,,
+Brazil,Gabriela,2026-07-14,T4 - CPG Brand,617,617,100.0%,,
+Brazil,Gabriela,2026-07-14,Special Tag,6168,6051,98.1%,,
+Brazil,Henrique,2026-07-14,Frontend Category,8511,8280,97.3%,,
+Brazil,Isabela,2026-07-14,T1 - Categorization (Front End),2596,2071,79.8%,,
+Brazil,João,2026-07-14,Frontend Category,7191,6750,93.9%,,
+Brazil,Larissa,2026-07-14,Special Tag,6388,6433,100.7%,,
+Brazil,Larissa,2026-07-14,T4 - CPG Brand,557,557,100.0%,,
+Brazil,Marcos,2026-07-14,Special Tag,9954,10923,109.7%,,
+China,Li Wei,2026-07-14,T1 - Categorization (Front End),1403,1445,103.0%,,
+China,Li Wei,2026-07-14,T2 - Image Optimisation,0,210,,72,117
+China,Zhang Min,2026-07-14,T1 - Categorization (Front End),1092,1036,94.9%,,
+China,Zhang Min,2026-07-14,T2 - Image Optimisation,252,260,103.2%,81,159
+China,Wang Fang,2026-07-14,T1 - Categorization (Front End),1385,1499,108.2%,,
+China,Chen Jie,2026-07-14,T2 - Image Optimisation,330,308,93.3%,119,174
+Brazil,Bruno,2026-07-15,T3 - Weight&Volumes,2930,2930,100.0%,,
+Brazil,Carla,2026-07-15,Frontend Category,5900,6380,108.1%,,
+Brazil,Diego,2026-07-15,T1 - Categorization (Front End),1099,1114,101.4%,,
+Brazil,Diego,2026-07-15,Special Tag,3398,2489,73.2%,,
+Brazil,Elisa,2026-07-15,T2 - Image Optimisation,518,496,95.8%,104,381
+Brazil,Felipe,2026-07-15,Frontend Category,8300,7940,95.7%,,
+Brazil,Gabriela,2026-07-15,T4 - CPG Brand,593,593,100.0%,,
+Brazil,Gabriela,2026-07-15,Special Tag,4869,4765,97.9%,,
+Brazil,Henrique,2026-07-15,Frontend Category,6544,7146,109.2%,,
+Brazil,Isabela,2026-07-15,T1 - Categorization (Front End),3721,3477,93.4%,,
+Brazil,João,2026-07-15,Frontend Category,0,6943,,,
+Brazil,Larissa,2026-07-15,Special Tag,6919,6201,89.6%,,
+Brazil,Larissa,2026-07-15,T4 - CPG Brand,653,653,100.0%,,
+Brazil,Marcos,2026-07-15,Special Tag,7153,7279,101.8%,,
+China,Li Wei,2026-07-15,T1 - Categorization (Front End),1376,1344,97.7%,,
+China,Li Wei,2026-07-15,T2 - Image Optimisation,184,193,104.9%,35,144
+China,Zhang Min,2026-07-15,T1 - Categorization (Front End),1311,1328,101.3%,,
+China,Zhang Min,2026-07-15,T2 - Image Optimisation,194,200,103.1%,79,109
+China,Wang Fang,2026-07-15,T1 - Categorization (Front End),2278,2475,108.6%,,
+China,Chen Jie,2026-07-15,T2 - Image Optimisation,285,261,91.6%,103,150
+Brazil,Ana,2026-07-16,Special Tag,8406,8815,104.9%,,
+Brazil,Bruno,2026-07-16,T3 - Weight&Volumes,2366,2366,100.0%,,
+Brazil,Carla,2026-07-16,Frontend Category,7622,7782,102.1%,,
+Brazil,Diego,2026-07-16,T1 - Categorization (Front End),1297,1505,116.0%,,
+Brazil,Diego,2026-07-16,Special Tag,3813,3212,84.2%,,
+Brazil,Elisa,2026-07-16,T2 - Image Optimisation,408,379,92.9%,142,206
+Brazil,Felipe,2026-07-16,Frontend Category,6956,6920,99.5%,,
+Brazil,Gabriela,2026-07-16,T4 - CPG Brand,579,579,100.0%,,
+Brazil,Gabriela,2026-07-16,Special Tag,5342,5121,95.9%,,
+Brazil,Henrique,2026-07-16,Frontend Category,6339,5787,91.3%,,
+Brazil,Isabela,2026-07-16,T1 - Categorization (Front End),1929,1644,85.2%,,
+Brazil,Larissa,2026-07-16,Special Tag,3533,3805,107.7%,,
+Brazil,Larissa,2026-07-16,T4 - CPG Brand,502,502,100.0%,,
+Brazil,Marcos,2026-07-16,Special Tag,11417,11508,100.8%,,
+China,Li Wei,2026-07-16,T1 - Categorization (Front End),1275,1078,84.5%,,
+China,Li Wei,2026-07-16,T2 - Image Optimisation,170,164,96.5%,43,106
+China,Zhang Min,2026-07-16,T1 - Categorization (Front End),461,474,102.8%,,
+China,Zhang Min,2026-07-16,T2 - Image Optimisation,200,250,125.0%,119,123
+China,Wang Fang,2026-07-16,T1 - Categorization (Front End),1884,1841,97.7%,,
+China,Chen Jie,2026-07-16,T2 - Image Optimisation,464,457,98.5%,176,236
+Brazil,Ana,2026-07-17,Special Tag,9297,10815,116.3%,,
+Brazil,Bruno,2026-07-17,T3 - Weight&Volumes,2311,2311,100.0%,,
+Brazil,Carla,2026-07-17,Frontend Category,7450,7533,101.1%,,
+Brazil,Diego,2026-07-17,T1 - Categorization (Front End),1331,1334,100.2%,,
+Brazil,Diego,2026-07-17,Special Tag,2579,2466,95.6%,,
+Brazil,Elisa,2026-07-17,T2 - Image Optimisation,393,391,99.5%,171,193
+Brazil,Felipe,2026-07-17,Frontend Category,6732,7047,104.7%,,
+Brazil,Gabriela,2026-07-17,T4 - CPG Brand,536,536,100.0%,,
+Brazil,Gabriela,2026-07-17,Special Tag,4771,5009,105.0%,,
+Brazil,Henrique,2026-07-17,Frontend Category,5660,5878,103.9%,,
+Brazil,João,2026-07-17,Frontend Category,0,6652,,,
+Brazil,Larissa,2026-07-17,Special Tag,5123,5110,99.7%,,
+Brazil,Larissa,2026-07-17,T4 - CPG Brand,665,665,100.0%,,
+Brazil,Marcos,2026-07-17,Special Tag,10474,10484,100.1%,,
+China,Li Wei,2026-07-17,T1 - Categorization (Front End),1006,967,96.1%,,
+China,Li Wei,2026-07-17,T2 - Image Optimisation,192,177,92.2%,48,117
+China,Zhang Min,2026-07-17,T1 - Categorization (Front End),504,485,96.2%,,
+China,Zhang Min,2026-07-17,T2 - Image Optimisation,168,156,92.9%,57,94
+China,Wang Fang,2026-07-17,T1 - Categorization (Front End),2542,2451,96.4%,,
+China,Chen Jie,2026-07-17,T2 - Image Optimisation,423,341,80.6%,115,191
+Brazil,Ana,2026-07-20,Special Tag,11202,12624,112.7%,,
+Brazil,Bruno,2026-07-20,T2 - Image Optimisation,208,212,101.9%,108,87
+Brazil,Bruno,2026-07-20,Backend Category,3241,2785,85.9%,,
+Brazil,Carla,2026-07-20,Frontend Category,5991,5258,87.8%,,
+Brazil,Diego,2026-07-20,T1 - Categorization (Front End),1145,1157,101.0%,,
+Brazil,Diego,2026-07-20,Special Tag,5987,5256,87.8%,,
+Brazil,Elisa,2026-07-20,T4 - CPG Brand,433,433,100.0%,,
+Brazil,Elisa,2026-07-20,Special Tag,6325,5118,80.9%,,
+Brazil,Felipe,2026-07-20,Frontend Category,6809,6670,98.0%,,
+Brazil,Gabriela,2026-07-20,T4 - CPG Brand,605,605,100.0%,,
+Brazil,Gabriela,2026-07-20,Special Tag,3858,4300,111.5%,,
+Brazil,Henrique,2026-07-20,Frontend Category,9349,9522,101.9%,,
+Brazil,Isabela,2026-07-20,T4 - CPG Brand,1467,1467,100.0%,,
+Brazil,João,2026-07-20,Frontend Category,10711,9761,91.1%,,
+Brazil,Larissa,2026-07-20,T3 - Weight&Volumes,2931,2931,100.0%,,
+Brazil,Marcos,2026-07-20,Special Tag,8024,8702,108.4%,,
+China,Zhang Min,2026-07-20,T1 - Categorization (Front End),616,559,90.7%,,
+China,Zhang Min,2026-07-20,T2 - Image Optimisation,211,234,110.9%,70,158
+China,Wang Fang,2026-07-20,T1 - Categorization (Front End),1857,1829,98.5%,,
+China,Chen Jie,2026-07-20,T2 - Image Optimisation,353,339,96.0%,134,180
+Brazil,Ana,2026-07-21,Special Tag,8947,8970,100.3%,,
+Brazil,Bruno,2026-07-21,T2 - Image Optimisation,173,140,80.9%,50,76
+Brazil,Bruno,2026-07-21,Backend Category,2712,1787,65.9%,,
+Brazil,Carla,2026-07-21,Frontend Category,7449,7099,95.3%,,
+Brazil,Diego,2026-07-21,T1 - Categorization (Front End),786,784,99.7%,,
+Brazil,Diego,2026-07-21,Special Tag,4788,3705,77.4%,,
+Brazil,Elisa,2026-07-21,T4 - CPG Brand,582,582,100.0%,,
+Brazil,Elisa,2026-07-21,Special Tag,6466,7011,108.4%,,
+Brazil,Felipe,2026-07-21,Frontend Category,8514,8614,101.2%,,
+Brazil,Henrique,2026-07-21,Frontend Category,7589,7433,97.9%,,
+Brazil,Isabela,2026-07-21,T4 - CPG Brand,1018,1018,100.0%,,
+Brazil,João,2026-07-21,Frontend Category,7259,6917,95.3%,,
+Brazil,Larissa,2026-07-21,T3 - Weight&Volumes,2698,2698,100.0%,,
+Brazil,Marcos,2026-07-21,Special Tag,0,5567,,,
+China,Li Wei,2026-07-21,T1 - Categorization (Front End),379,325,85.8%,,
+China,Li Wei,2026-07-21,T2 - Image Optimisation,222,218,98.2%,90,108
+China,Zhang Min,2026-07-21,T1 - Categorization (Front End),864,936,108.3%,,
+China,Zhang Min,2026-07-21,T2 - Image Optimisation,154,152,98.7%,81,64
+China,Wang Fang,2026-07-21,T1 - Categorization (Front End),2133,2360,110.6%,,
+China,Chen Jie,2026-07-21,T2 - Image Optimisation,350,324,92.6%,112,194
+Brazil,Ana,2026-07-22,Special Tag,9407,8899,94.6%,,
+Brazil,Bruno,2026-07-22,T2 - Image Optimisation,245,248,101.2%,54,193
+Brazil,Bruno,2026-07-22,Backend Category,3046,2838,93.2%,,
+Brazil,Carla,2026-07-22,Frontend Category,6956,7806,112.2%,,
+Brazil,Diego,2026-07-22,T1 - Categorization (Front End),177,185,104.5%,,
+Brazil,Diego,2026-07-22,Special Tag,3800,3369,88.7%,,
+Brazil,Felipe,2026-07-22,Frontend Category,10161,10306,101.4%,,
+Brazil,Gabriela,2026-07-22,T4 - CPG Brand,439,439,100.0%,,
+Brazil,Gabriela,2026-07-22,Special Tag,4802,4861,101.2%,,
+Brazil,Larissa,2026-07-22,T3 - Weight&Volumes,2358,2358,100.0%,,
+Brazil,Marcos,2026-07-22,Special Tag,8487,9228,108.7%,,
+China,Li Wei,2026-07-22,T1 - Categorization (Front End),790,693,87.7%,,
+China,Li Wei,2026-07-22,T2 - Image Optimisation,128,123,96.1%,31,90
+China,Zhang Min,2026-07-22,T1 - Categorization (Front End),798,789,98.9%,,
+China,Zhang Min,2026-07-22,T2 - Image Optimisation,0,220,,42,160
+China,Wang Fang,2026-07-22,T1 - Categorization (Front End),1874,2039,108.8%,,
+China,Chen Jie,2026-07-22,T2 - Image Optimisation,503,363,72.2%,107,225
+Brazil,Ana,2026-07-23,Special Tag,10172,8867,87.2%,,
+Brazil,Bruno,2026-07-23,T2 - Image Optimisation,154,139,90.3%,85,51
+Brazil,Bruno,2026-07-23,Backend Category,2728,2398,87.9%,,
+Brazil,Carla,2026-07-23,Frontend Category,0,6130,,,
+Brazil,Diego,2026-07-23,T1 - Categorization (Front End),1554,1482,95.4%,,
+Brazil,Diego,2026-07-23,Special Tag,4322,3635,84.1%,,
+Brazil,Elisa,2026-07-23,T4 - CPG Brand,548,548,100.0%,,
+Brazil,Elisa,2026-07-23,Special Tag,5689,5168,90.8%,,
+Brazil,Felipe,2026-07-23,Frontend Category,10160,10163,100.0%,,
+Brazil,Gabriela,2026-07-23,T4 - CPG Brand,739,739,100.0%,,
+Brazil,Gabriela,2026-07-23,Special Tag,6849,7051,102.9%,,
+Brazil,Henrique,2026-07-23,Frontend Category,0,8174,,,
+Brazil,Isabela,2026-07-23,T4 - CPG Brand,1046,1046,100.0%,,
+Brazil,João,2026-07-23,Frontend Category,11135,7137,64.1%,,
+Brazil,Larissa,2026-07-23,T3 - Weight&Volumes,2015,2015,100.0%,,
+Brazil,Marcos,2026-07-23,Special Tag,9305,8402,90.3%,,
+China,Li Wei,2026-07-23,T1 - Categorization (Front End),1207,1091,90.4%,,
+China,Li Wei,2026-07-23,T2 - Image Optimisation,221,221,100.0%,71,144
+China,Zhang Min,2026-07-23,T1 - Categorization (Front End),1280,1457,113.8%,,
+China,Zhang Min,2026-07-23,T2 - Image Optimisation,162,157,96.9%,45,99
+China,Wang Fang,2026-07-23,T1 - Categorization (Front End),517,576,111.4%,,
+China,Chen Jie,2026-07-23,T2 - Image Optimisation,370,328,88.6%,83,232
+Brazil,Ana,2026-07-24,Special Tag,8029,8902,110.9%,,
+Brazil,Bruno,2026-07-24,T2 - Image Optimisation,230,222,96.5%,68,153
+Brazil,Bruno,2026-07-24,Backend Category,2350,2495,106.2%,,
+Brazil,Carla,2026-07-24,Frontend Category,9857,11143,113.0%,,
+Brazil,Diego,2026-07-24,T1 - Categorization (Front End),389,462,118.8%,,
+Brazil,Diego,2026-07-24,Special Tag,6024,5473,90.9%,,
+Brazil,Elisa,2026-07-24,T4 - CPG Brand,534,534,100.0%,,
+Brazil,Elisa,2026-07-24,Special Tag,4729,4426,93.6%,,
+Brazil,Felipe,2026-07-24,Frontend Category,7224,6369,88.2%,,
+Brazil,Henrique,2026-07-24,Frontend Category,8737,10389,118.9%,,
+Brazil,Isabela,2026-07-24,T4 - CPG Brand,1037,1037,100.0%,,
+Brazil,João,2026-07-24,Frontend Category,8135,7049,86.7%,,
+Brazil,Larissa,2026-07-24,T3 - Weight&Volumes,2685,2685,100.0%,,
+Brazil,Marcos,2026-07-24,Special Tag,8792,8892,101.1%,,
+China,Zhang Min,2026-07-24,T1 - Categorization (Front End),1020,893,87.5%,,
+China,Zhang Min,2026-07-24,T2 - Image Optimisation,195,192,98.5%,57,134
+China,Wang Fang,2026-07-24,T1 - Categorization (Front End),1800,1776,98.7%,,
+China,Chen Jie,2026-07-24,T2 - Image Optimisation,442,392,88.7%,143,229
+Brazil,Ana,2026-07-27,Special Tag,10408,9779,94.0%,,
+Brazil,Bruno,2026-07-27,Frontend Category,9514,8960,94.2%,,
+Brazil,Carla,2026-07-27,Frontend Category,7753,7124,91.9%,,
+Brazil,Diego,2026-07-27,T1 - Categorization (Front End),783,742,94.8%,,
+Brazil,Diego,2026-07-27,Special Tag,6396,5524,86.4%,,
+Brazil,Elisa,2026-07-27,T4 - CPG Brand,769,769,100.0%,,
+Brazil,Elisa,2026-07-27,Special Tag,6259,6297,100.6%,,
+Brazil,Felipe,2026-07-27,Frontend Category,8317,8438,101.5%,,
+Brazil,Gabriela,2026-07-27,T4 - CPG Brand,569,569,100.0%,,
+Brazil,Gabriela,2026-07-27,Special Tag,0,3861,,,
+Brazil,Isabela,2026-07-27,T4 - CPG Brand,1203,1203,100.0%,,
+Brazil,João,2026-07-27,Frontend Category,10477,8615,82.2%,,
+Brazil,Larissa,2026-07-27,Backend Category,3310,3052,92.2%,,
+Brazil,Larissa,2026-07-27,T2 - Image Optimisation,223,196,87.9%,47,137
+Brazil,Marcos,2026-07-27,Special Tag,12313,13115,106.5%,,
+China,Li Wei,2026-07-27,T1 - Categorization (Front End),911,904,99.2%,,
+China,Li Wei,2026-07-27,T2 - Image Optimisation,193,163,84.5%,71,77
+China,Zhang Min,2026-07-27,T1 - Categorization (Front End),1174,1018,86.7%,,
+China,Zhang Min,2026-07-27,T2 - Image Optimisation,144,155,107.6%,75,79
+China,Wang Fang,2026-07-27,T2 - Image Optimisation,471,493,104.7%,229,232
+China,Chen Jie,2026-07-27,T2 - Image Optimisation,485,338,69.7%,139,179
+Brazil,Bruno,2026-07-28,Frontend Category,7647,7012,91.7%,,
+Brazil,Carla,2026-07-28,Frontend Category,5833,4683,80.3%,,
+Brazil,Diego,2026-07-28,T1 - Categorization (Front End),516,445,86.2%,,
+Brazil,Diego,2026-07-28,Special Tag,4775,4037,84.5%,,
+Brazil,Elisa,2026-07-28,T4 - CPG Brand,519,519,100.0%,,
+Brazil,Elisa,2026-07-28,Special Tag,4559,3909,85.7%,,
+Brazil,Felipe,2026-07-28,Frontend Category,8501,8176,96.2%,,
+Brazil,Gabriela,2026-07-28,T4 - CPG Brand,742,742,100.0%,,
+Brazil,Gabriela,2026-07-28,Special Tag,3410,3605,105.7%,,
+Brazil,Henrique,2026-07-28,T1 - Categorization (Front End),2169,2124,97.9%,,
+Brazil,Isabela,2026-07-28,T4 - CPG Brand,1255,1255,100.0%,,
+Brazil,João,2026-07-28,Frontend Category,8156,7781,95.4%,,
+Brazil,Larissa,2026-07-28,Backend Category,3270,2821,86.3%,,
+Brazil,Larissa,2026-07-28,T2 - Image Optimisation,156,160,102.6%,36,108
+Brazil,Marcos,2026-07-28,Special Tag,11335,11013,97.2%,,
+China,Li Wei,2026-07-28,T1 - Categorization (Front End),697,584,83.8%,,
+China,Li Wei,2026-07-28,T2 - Image Optimisation,135,128,94.8%,49,72
+China,Zhang Min,2026-07-28,T1 - Categorization (Front End),610,555,91.0%,,
+China,Zhang Min,2026-07-28,T2 - Image Optimisation,196,188,95.9%,71,113
+China,Wang Fang,2026-07-28,T2 - Image Optimisation,453,403,89.0%,134,230
+China,Chen Jie,2026-07-28,T2 - Image Optimisation,460,449,97.6%,219,193
+Brazil,Ana,2026-07-29,Special Tag,11710,10376,88.6%,,
+Brazil,Bruno,2026-07-29,Frontend Category,8697,6904,79.4%,,
+Brazil,Carla,2026-07-29,Frontend Category,9755,9929,101.8%,,
+Brazil,Diego,2026-07-29,T1 - Categorization (Front End),520,544,104.6%,,
+Brazil,Diego,2026-07-29,Special Tag,5879,6208,105.6%,,
+Brazil,Elisa,2026-07-29,T4 - CPG Brand,687,687,100.0%,,
+Brazil,Elisa,2026-07-29,Special Tag,3815,3579,93.8%,,
+Brazil,Felipe,2026-07-29,Frontend Category,5860,5288,90.2%,,
+Brazil,Gabriela,2026-07-29,T4 - CPG Brand,391,391,100.0%,,
+Brazil,Gabriela,2026-07-29,Special Tag,3777,3049,80.7%,,
+Brazil,Henrique,2026-07-29,T1 - Categorization (Front End),3093,2769,89.5%,,
+Brazil,Isabela,2026-07-29,T4 - CPG Brand,1836,1836,100.0%,,
+Brazil,João,2026-07-29,Frontend Category,9035,8376,92.7%,,
+Brazil,Larissa,2026-07-29,Backend Category,2811,2950,104.9%,,
+Brazil,Larissa,2026-07-29,T2 - Image Optimisation,183,155,84.7%,63,81
+Brazil,Marcos,2026-07-29,Special Tag,12665,14396,113.7%,,
+China,Li Wei,2026-07-29,T1 - Categorization (Front End),840,762,90.7%,,
+China,Li Wei,2026-07-29,T2 - Image Optimisation,175,147,84.0%,69,71
+China,Zhang Min,2026-07-29,T1 - Categorization (Front End),395,410,103.8%,,
+China,Zhang Min,2026-07-29,T2 - Image Optimisation,186,214,115.1%,71,124
+China,Wang Fang,2026-07-29,T2 - Image Optimisation,398,403,101.3%,116,258
+China,Chen Jie,2026-07-29,T2 - Image Optimisation,448,347,77.5%,125,215
+Brazil,Ana,2026-07-30,Special Tag,9487,9582,101.0%,,
+Brazil,Bruno,2026-07-30,Frontend Category,5005,4814,96.2%,,
+Brazil,Carla,2026-07-30,Frontend Category,10619,9686,91.2%,,
+Brazil,Diego,2026-07-30,T1 - Categorization (Front End),212,223,105.2%,,
+Brazil,Diego,2026-07-30,Special Tag,4868,4566,93.8%,,
+Brazil,Elisa,2026-07-30,T4 - CPG Brand,607,607,100.0%,,
+Brazil,Elisa,2026-07-30,Special Tag,5390,4147,76.9%,,
+Brazil,Felipe,2026-07-30,Frontend Category,7390,6303,85.3%,,
+Brazil,Gabriela,2026-07-30,T4 - CPG Brand,427,427,100.0%,,
+Brazil,Gabriela,2026-07-30,Special Tag,3953,3797,96.1%,,
+Brazil,Henrique,2026-07-30,T1 - Categorization (Front End),2220,2153,97.0%,,
+Brazil,Isabela,2026-07-30,T4 - CPG Brand,1466,1466,100.0%,,
+Brazil,João,2026-07-30,Frontend Category,7257,6176,85.1%,,
+Brazil,Larissa,2026-07-30,Backend Category,2694,2805,104.1%,,
+Brazil,Larissa,2026-07-30,T2 - Image Optimisation,215,233,108.4%,119,106
+Brazil,Marcos,2026-07-30,Special Tag,8860,8271,93.4%,,
+China,Li Wei,2026-07-30,T1 - Categorization (Front End),1376,1298,94.3%,,
+China,Li Wei,2026-07-30,T2 - Image Optimisation,210,170,81.0%,73,81
+China,Zhang Min,2026-07-30,T1 - Categorization (Front End),971,1012,104.2%,,
+China,Zhang Min,2026-07-30,T2 - Image Optimisation,209,236,112.9%,137,98
+China,Chen Jie,2026-07-30,T2 - Image Optimisation,397,385,97.0%,102,268
+Brazil,Ana,2026-07-31,Special Tag,9276,8871,95.6%,,
+Brazil,Bruno,2026-07-31,Frontend Category,6590,6698,101.6%,,
+Brazil,Carla,2026-07-31,Frontend Category,8636,8082,93.6%,,
+Brazil,Diego,2026-07-31,T1 - Categorization (Front End),1620,1672,103.2%,,
+Brazil,Diego,2026-07-31,Special Tag,2575,2215,86.0%,,
+Brazil,Elisa,2026-07-31,T4 - CPG Brand,585,585,100.0%,,
+Brazil,Elisa,2026-07-31,Special Tag,4971,4284,86.2%,,
+Brazil,Felipe,2026-07-31,Frontend Category,5731,5976,104.3%,,
+Brazil,Gabriela,2026-07-31,T4 - CPG Brand,694,694,100.0%,,
+Brazil,Gabriela,2026-07-31,Special Tag,6708,6398,95.4%,,
+Brazil,Henrique,2026-07-31,T1 - Categorization (Front End),1792,1575,87.9%,,
+Brazil,Isabela,2026-07-31,T4 - CPG Brand,1271,1271,100.0%,,
+Brazil,João,2026-07-31,Frontend Category,8261,6728,81.4%,,
+Brazil,Larissa,2026-07-31,Backend Category,2869,2504,87.3%,,
+Brazil,Larissa,2026-07-31,T2 - Image Optimisation,0,173,,39,127
+Brazil,Marcos,2026-07-31,Special Tag,10099,9245,91.5%,,
+China,Li Wei,2026-07-31,T1 - Categorization (Front End),1049,960,91.5%,,
+China,Li Wei,2026-07-31,T2 - Image Optimisation,195,181,92.8%,45,129
+China,Zhang Min,2026-07-31,T1 - Categorization (Front End),1033,1058,102.4%,,
+China,Zhang Min,2026-07-31,T2 - Image Optimisation,222,179,80.6%,48,115
+China,Wang Fang,2026-07-31,T2 - Image Optimisation,491,462,94.1%,71,370
+China,Chen Jie,2026-07-31,T2 - Image Optimisation,504,497,98.6%,181,292
+Brazil,Ana,2026-08-03,Backend Category,5916,5485,92.7%,,
+Brazil,Bruno,2026-08-03,T2 - Image Optimisation,420,374,89.0%,161,207
+Brazil,Carla,2026-08-03,T4 - CPG Brand,367,367,100.0%,,
+Brazil,Carla,2026-08-03,Backend Category,2962,2636,89.0%,,
+Brazil,Diego,2026-08-03,T3 - Weight&Volumes,2395,2395,100.0%,,
+Brazil,Elisa,2026-08-03,T4 - CPG Brand,519,519,100.0%,,
+Brazil,Elisa,2026-08-03,Special Tag,5400,5479,101.5%,,
+Brazil,Felipe,2026-08-03,Frontend Category,9116,9558,104.8%,,
+Brazil,Gabriela,2026-08-03,T3 - Weight&Volumes,2587,2587,100.0%,,
+Brazil,Henrique,2026-08-03,T1 - Categorization (Front End),2930,2660,90.8%,,
+Brazil,Isabela,2026-08-03,T4 - CPG Brand,690,690,100.0%,,
+Brazil,João,2026-08-03,Frontend Category,8921,8594,96.3%,,
+Brazil,Larissa,2026-08-03,Frontend Category,7782,6741,86.6%,,
+Brazil,Marcos,2026-08-03,Backend Category,2397,2157,90.0%,,
+Brazil,Marcos,2026-08-03,T1 - Categorization (Front End),1164,1113,95.6%,,
+China,Li Wei,2026-08-03,T1 - Categorization (Front End),1107,1102,99.5%,,
+China,Li Wei,2026-08-03,T2 - Image Optimisation,149,121,81.2%,37,76
+China,Zhang Min,2026-08-03,T1 - Categorization (Front End),898,982,109.4%,,
+China,Zhang Min,2026-08-03,T2 - Image Optimisation,194,200,103.1%,82,109
+China,Wang Fang,2026-08-03,T2 - Image Optimisation,459,513,111.8%,285,188
+China,Chen Jie,2026-08-03,T2 - Image Optimisation,425,314,73.9%,105,189
+Brazil,Ana,2026-08-04,Backend Category,6167,5959,96.6%,,
+Brazil,Bruno,2026-08-04,T2 - Image Optimisation,483,441,91.3%,155,267
+Brazil,Carla,2026-08-04,T4 - CPG Brand,435,435,100.0%,,
+Brazil,Carla,2026-08-04,Backend Category,2615,2444,93.5%,,
+Brazil,Diego,2026-08-04,T3 - Weight&Volumes,2491,2491,100.0%,,
+Brazil,Elisa,2026-08-04,T4 - CPG Brand,935,935,100.0%,,
+Brazil,Elisa,2026-08-04,Special Tag,3469,3505,101.0%,,
+Brazil,Felipe,2026-08-04,Frontend Category,8131,7788,95.8%,,
+Brazil,Gabriela,2026-08-04,T3 - Weight&Volumes,2545,2545,100.0%,,
+Brazil,Henrique,2026-08-04,T1 - Categorization (Front End),2634,2595,98.5%,,
+Brazil,Isabela,2026-08-04,T4 - CPG Brand,1483,1483,100.0%,,
+Brazil,João,2026-08-04,Frontend Category,6845,6176,90.2%,,
+Brazil,Larissa,2026-08-04,Frontend Category,6012,5964,99.2%,,
+Brazil,Marcos,2026-08-04,Backend Category,3008,3029,100.7%,,
+Brazil,Marcos,2026-08-04,T1 - Categorization (Front End),1178,1195,101.4%,,
+China,Li Wei,2026-08-04,T1 - Categorization (Front End),1297,1411,108.8%,,
+China,Li Wei,2026-08-04,T2 - Image Optimisation,134,136,101.5%,67,66
+China,Zhang Min,2026-08-04,T1 - Categorization (Front End),509,459,90.2%,,
+China,Zhang Min,2026-08-04,T2 - Image Optimisation,178,181,101.7%,87,78
+China,Wang Fang,2026-08-04,T2 - Image Optimisation,409,369,90.2%,166,200
+China,Chen Jie,2026-08-04,T2 - Image Optimisation,479,406,84.8%,164,202
+Brazil,Ana,2026-08-05,Backend Category,7023,6435,91.6%,,
+Brazil,Bruno,2026-08-05,T2 - Image Optimisation,456,497,109.0%,231,253
+Brazil,Carla,2026-08-05,T4 - CPG Brand,493,493,100.0%,,
+Brazil,Carla,2026-08-05,Backend Category,2535,1814,71.6%,,
+Brazil,Elisa,2026-08-05,T4 - CPG Brand,542,542,100.0%,,
+Brazil,Elisa,2026-08-05,Special Tag,4042,4104,101.5%,,
+Brazil,Felipe,2026-08-05,Frontend Category,6357,5262,82.8%,,
+Brazil,Gabriela,2026-08-05,T3 - Weight&Volumes,2557,2557,100.0%,,
+Brazil,Henrique,2026-08-05,T1 - Categorization (Front End),2916,2456,84.2%,,
+Brazil,Isabela,2026-08-05,T4 - CPG Brand,1187,1187,100.0%,,
+Brazil,João,2026-08-05,Frontend Category,10554,8275,78.4%,,
+Brazil,Larissa,2026-08-05,Frontend Category,0,6756,,,
+Brazil,Marcos,2026-08-05,Backend Category,2952,2736,92.7%,,
+Brazil,Marcos,2026-08-05,T1 - Categorization (Front End),1067,971,91.0%,,
+China,Li Wei,2026-08-05,T1 - Categorization (Front End),990,915,92.4%,,
+China,Li Wei,2026-08-05,T2 - Image Optimisation,237,168,70.9%,20,137
+China,Zhang Min,2026-08-05,T1 - Categorization (Front End),476,447,93.9%,,
+China,Zhang Min,2026-08-05,T2 - Image Optimisation,167,161,96.4%,28,123
+China,Wang Fang,2026-08-05,T2 - Image Optimisation,351,371,105.7%,155,207
+China,Chen Jie,2026-08-05,T2 - Image Optimisation,457,427,93.4%,175,238
+Brazil,Bruno,2026-08-06,T2 - Image Optimisation,321,316,98.4%,47,252
+Brazil,Carla,2026-08-06,T4 - CPG Brand,683,683,100.0%,,
+Brazil,Carla,2026-08-06,Backend Category,3164,2410,76.2%,,
+Brazil,Diego,2026-08-06,T3 - Weight&Volumes,2195,2195,100.0%,,
+Brazil,Elisa,2026-08-06,T4 - CPG Brand,542,542,100.0%,,
+Brazil,Elisa,2026-08-06,Special Tag,4317,4563,105.7%,,
+Brazil,Felipe,2026-08-06,Frontend Category,8913,9978,111.9%,,
+Brazil,Gabriela,2026-08-06,T3 - Weight&Volumes,2539,2539,100.0%,,
+Brazil,Henrique,2026-08-06,T1 - Categorization (Front End),2216,2343,105.7%,,
+Brazil,Isabela,2026-08-06,T4 - CPG Brand,919,919,100.0%,,
+Brazil,João,2026-08-06,Frontend Category,6512,5857,89.9%,,
+Brazil,Larissa,2026-08-06,Frontend Category,7902,7416,93.8%,,
+Brazil,Marcos,2026-08-06,Backend Category,0,2413,,,
+Brazil,Marcos,2026-08-06,T1 - Categorization (Front End),148,137,92.6%,,
+China,Li Wei,2026-08-06,T1 - Categorization (Front End),457,436,95.4%,,
+China,Li Wei,2026-08-06,T2 - Image Optimisation,180,147,81.7%,57,75
+China,Zhang Min,2026-08-06,T1 - Categorization (Front End),452,437,96.7%,,
+China,Zhang Min,2026-08-06,T2 - Image Optimisation,191,197,103.1%,69,123
+China,Wang Fang,2026-08-06,T2 - Image Optimisation,474,449,94.7%,204,211
+China,Chen Jie,2026-08-06,T2 - Image Optimisation,414,314,75.8%,141,149
+Brazil,Ana,2026-08-07,Backend Category,5300,5325,100.5%,,
+Brazil,Bruno,2026-08-07,T2 - Image Optimisation,491,430,87.6%,205,212
+Brazil,Carla,2026-08-07,T4 - CPG Brand,570,570,100.0%,,
+Brazil,Carla,2026-08-07,Backend Category,3392,2732,80.5%,,
+Brazil,Diego,2026-08-07,T3 - Weight&Volumes,2819,2819,100.0%,,
+Brazil,Elisa,2026-08-07,T4 - CPG Brand,632,632,100.0%,,
+Brazil,Elisa,2026-08-07,Special Tag,6280,5800,92.4%,,
+Brazil,Felipe,2026-08-07,Frontend Category,4539,4400,96.9%,,
+Brazil,Gabriela,2026-08-07,T3 - Weight&Volumes,2722,2722,100.0%,,
+Brazil,Henrique,2026-08-07,T1 - Categorization (Front End),2477,1968,79.5%,,
+Brazil,Isabela,2026-08-07,T4 - CPG Brand,1273,1273,100.0%,,
+Brazil,João,2026-08-07,Frontend Category,8414,8611,102.3%,,
+Brazil,Larissa,2026-08-07,Frontend Category,8123,7553,93.0%,,
+Brazil,Marcos,2026-08-07,Backend Category,3252,2952,90.8%,,
+Brazil,Marcos,2026-08-07,T1 - Categorization (Front End),773,735,95.1%,,
+China,Li Wei,2026-08-07,T1 - Categorization (Front End),482,481,99.8%,,
+China,Li Wei,2026-08-07,T2 - Image Optimisation,226,207,91.6%,72,121
+China,Zhang Min,2026-08-07,T1 - Categorization (Front End),962,852,88.6%,,
+China,Zhang Min,2026-08-07,T2 - Image Optimisation,0,173,,52,105
+China,Wang Fang,2026-08-07,T2 - Image Optimisation,347,360,103.7%,160,173
+China,Chen Jie,2026-08-07,T2 - Image Optimisation,378,348,92.1%,64,261
+Brazil,Ana,2026-08-10,Backend Category,6650,7331,110.2%,,
+Brazil,Bruno,2026-08-10,Special Tag,9604,8287,86.3%,,
+Brazil,Diego,2026-08-10,T3 - Weight&Volumes,2614,2614,100.0%,,
+Brazil,Elisa,2026-08-10,Frontend Category,8278,7372,89.1%,,
+Brazil,Felipe,2026-08-10,Frontend Category,7807,7320,93.8%,,
+Brazil,Gabriela,2026-08-10,T3 - Weight&Volumes,2242,2242,100.0%,,
+Brazil,Henrique,2026-08-10,T1 - Categorization (Front End),1995,1845,92.5%,,
+Brazil,Isabela,2026-08-10,T4 - CPG Brand,1249,1249,100.0%,,
+Brazil,João,2026-08-10,Frontend Category,3942,3202,81.2%,,
+Brazil,Larissa,2026-08-10,Frontend Category,8252,7360,89.2%,,
+Brazil,Marcos,2026-08-10,Backend Category,3775,3479,92.2%,,
+Brazil,Marcos,2026-08-10,T1 - Categorization (Front End),1230,1114,90.6%,,
+China,Li Wei,2026-08-10,T1 - Categorization (Front End),1182,1142,96.6%,,
+China,Li Wei,2026-08-10,T2 - Image Optimisation,172,136,79.1%,21,112
+China,Zhang Min,2026-08-10,T2 - Image Optimisation,476,538,113.0%,208,311
+China,Wang Fang,2026-08-10,T1 - Categorization (Front End),1549,1636,105.6%,,
+Brazil,Ana,2026-08-11,Backend Category,3370,3174,94.2%,,
+Brazil,Bruno,2026-08-11,Special Tag,13997,13848,98.9%,,
+Brazil,Carla,2026-08-11,Special Tag,9831,9032,91.9%,,
+Brazil,Diego,2026-08-11,T3 - Weight&Volumes,2538,2538,100.0%,,
+Brazil,Elisa,2026-08-11,Frontend Category,8352,8482,101.6%,,
+Brazil,Felipe,2026-08-11,Frontend Category,6732,6212,92.3%,,
+Brazil,Gabriela,2026-08-11,T3 - Weight&Volumes,2451,2451,100.0%,,
+Brazil,Henrique,2026-08-11,T1 - Categorization (Front End),1149,1008,87.7%,,
+Brazil,Isabela,2026-08-11,T4 - CPG Brand,872,872,100.0%,,
+Brazil,João,2026-08-11,Frontend Category,8851,7158,80.9%,,
+Brazil,Larissa,2026-08-11,Frontend Category,8123,7622,93.8%,,
+China,Li Wei,2026-08-11,T1 - Categorization (Front End),1006,980,97.4%,,
+China,Li Wei,2026-08-11,T2 - Image Optimisation,218,188,86.2%,43,140
+China,Zhang Min,2026-08-11,T2 - Image Optimisation,410,352,85.9%,142,181
+China,Wang Fang,2026-08-11,T1 - Categorization (Front End),955,988,103.5%,,
+China,Chen Jie,2026-08-11,T2 - Image Optimisation,495,438,88.5%,178,243
+Brazil,Ana,2026-08-12,Backend Category,6340,5559,87.7%,,
+Brazil,Bruno,2026-08-12,Special Tag,8532,6967,81.7%,,
+Brazil,Carla,2026-08-12,Special Tag,10985,11239,102.3%,,
+Brazil,Diego,2026-08-12,T3 - Weight&Volumes,2054,2054,100.0%,,
+Brazil,Elisa,2026-08-12,Frontend Category,8681,9362,107.8%,,
+Brazil,Gabriela,2026-08-12,T3 - Weight&Volumes,3148,3148,100.0%,,
+Brazil,Henrique,2026-08-12,T1 - Categorization (Front End),0,2299,,,
+Brazil,Isabela,2026-08-12,T4 - CPG Brand,1374,1374,100.0%,,
+Brazil,João,2026-08-12,Frontend Category,8096,6385,78.9%,,
+Brazil,Larissa,2026-08-12,Frontend Category,0,8773,,,
+Brazil,Marcos,2026-08-12,Backend Category,3321,2946,88.7%,,
+Brazil,Marcos,2026-08-12,T1 - Categorization (Front End),1174,1163,99.1%,,
+China,Li Wei,2026-08-12,T1 - Categorization (Front End),0,780,,,
+China,Li Wei,2026-08-12,T2 - Image Optimisation,192,184,95.8%,63,120
+China,Zhang Min,2026-08-12,T2 - Image Optimisation,397,383,96.5%,149,232
+China,Wang Fang,2026-08-12,T1 - Categorization (Front End),2471,2512,101.7%,,
+China,Chen Jie,2026-08-12,T2 - Image Optimisation,301,244,81.1%,90,138
+Brazil,Bruno,2026-08-13,Special Tag,11446,10140,88.6%,,
+Brazil,Diego,2026-08-13,T3 - Weight&Volumes,2240,2240,100.0%,,
+Brazil,Elisa,2026-08-13,Frontend Category,7235,6146,84.9%,,
+Brazil,Felipe,2026-08-13,Frontend Category,6879,6685,97.2%,,
+Brazil,Gabriela,2026-08-13,T3 - Weight&Volumes,2275,2275,100.0%,,
+Brazil,Henrique,2026-08-13,T1 - Categorization (Front End),823,909,110.4%,,
+Brazil,Isabela,2026-08-13,T4 - CPG Brand,1111,1111,100.0%,,
+Brazil,João,2026-08-13,Frontend Category,8683,6913,79.6%,,
+Brazil,Larissa,2026-08-13,Frontend Category,8099,7136,88.1%,,
+Brazil,Marcos,2026-08-13,Backend Category,0,3220,,,
+Brazil,Marcos,2026-08-13,T1 - Categorization (Front End),1290,1372,106.4%,,
+China,Li Wei,2026-08-13,T1 - Categorization (Front End),1034,856,82.8%,,
+China,Li Wei,2026-08-13,T2 - Image Optimisation,202,173,85.6%,83,87
+China,Zhang Min,2026-08-13,T2 - Image Optimisation,422,407,96.4%,60,328
+China,Wang Fang,2026-08-13,T1 - Categorization (Front End),2204,1994,90.5%,,
+China,Chen Jie,2026-08-13,T2 - Image Optimisation,396,319,80.6%,154,143
+Brazil,Ana,2026-08-14,Backend Category,7447,7085,95.1%,,
+Brazil,Bruno,2026-08-14,Special Tag,10114,8594,85.0%,,
+Brazil,Carla,2026-08-14,Special Tag,9606,9965,103.7%,,
+Brazil,Elisa,2026-08-14,Frontend Category,8163,7956,97.5%,,
+Brazil,Felipe,2026-08-14,Frontend Category,10106,9971,98.7%,,
+Brazil,Gabriela,2026-08-14,T3 - Weight&Volumes,2214,2214,100.0%,,
+Brazil,Isabela,2026-08-14,T4 - CPG Brand,965,965,100.0%,,
+Brazil,João,2026-08-14,Frontend Category,11368,10010,88.1%,,
+Brazil,Larissa,2026-08-14,Frontend Category,8831,7945,90.0%,,
+Brazil,Marcos,2026-08-14,Backend Category,2965,2363,79.7%,,
+Brazil,Marcos,2026-08-14,T1 - Categorization (Front End),933,854,91.5%,,
+China,Li Wei,2026-08-14,T1 - Categorization (Front End),834,651,78.1%,,
+China,Li Wei,2026-08-14,T2 - Image Optimisation,207,205,99.0%,76,112
+China,Zhang Min,2026-08-14,T2 - Image Optimisation,458,503,109.8%,156,324
+China,Wang Fang,2026-08-14,T1 - Categorization (Front End),1893,1761,93.0%,,
+China,Chen Jie,2026-08-14,T2 - Image Optimisation,374,335,89.6%,75,248
+Brazil,Ana,2026-08-17,Backend Category,5707,6075,106.4%,,
+Brazil,Bruno,2026-08-17,T4 - CPG Brand,509,509,100.0%,,
+Brazil,Bruno,2026-08-17,Backend Category,2917,2206,75.6%,,
+Brazil,Carla,2026-08-17,Special Tag,11369,11114,97.8%,,
+Brazil,Diego,2026-08-17,T3 - Weight&Volumes,2373,2373,100.0%,,
+Brazil,Elisa,2026-08-17,Frontend Category,3766,3520,93.5%,,
+Brazil,Felipe,2026-08-17,Frontend Category,0,9360,,,
+Brazil,Gabriela,2026-08-17,T3 - Weight&Volumes,2087,2087,100.0%,,
+Brazil,Henrique,2026-08-17,T1 - Categorization (Front End),1909,1802,94.4%,,
+Brazil,Isabela,2026-08-17,T4 - CPG Brand,1041,1041,100.0%,,
+Brazil,João,2026-08-17,T4 - CPG Brand,1110,1110,100.0%,,
+Brazil,Larissa,2026-08-17,Frontend Category,7221,7653,106.0%,,
+Brazil,Marcos,2026-08-17,Special Tag,8603,8461,98.3%,,
+China,Li Wei,2026-08-17,T1 - Categorization (Front End),1464,1433,97.9%,,
+China,Li Wei,2026-08-17,T2 - Image Optimisation,212,174,82.1%,72,95
+China,Wang Fang,2026-08-17,T2 - Image Optimisation,368,349,94.8%,110,228
+China,Chen Jie,2026-08-17,T2 - Image Optimisation,559,489,87.5%,153,308
+Brazil,Ana,2026-08-18,Backend Category,5841,5461,93.5%,,
+Brazil,Bruno,2026-08-18,T4 - CPG Brand,721,721,100.0%,,
+Brazil,Bruno,2026-08-18,Backend Category,2701,2285,84.6%,,
+Brazil,Carla,2026-08-18,Special Tag,8909,7810,87.7%,,
+Brazil,Diego,2026-08-18,T3 - Weight&Volumes,2190,2190,100.0%,,
+Brazil,Elisa,2026-08-18,Frontend Category,9193,8251,89.8%,,
+Brazil,Felipe,2026-08-18,Frontend Category,7830,7220,92.2%,,
+Brazil,Gabriela,2026-08-18,T3 - Weight&Volumes,2139,2139,100.0%,,
+Brazil,Henrique,2026-08-18,T1 - Categorization (Front End),1498,1445,96.5%,,
+Brazil,Isabela,2026-08-18,T4 - CPG Brand,1218,1218,100.0%,,
+Brazil,João,2026-08-18,T4 - CPG Brand,1048,1048,100.0%,,
+Brazil,Larissa,2026-08-18,Frontend Category,8682,7573,87.2%,,
+Brazil,Marcos,2026-08-18,Special Tag,10314,11784,114.3%,,
+China,Li Wei,2026-08-18,T1 - Categorization (Front End),1392,1390,99.9%,,
+China,Li Wei,2026-08-18,T2 - Image Optimisation,187,162,86.6%,54,104
+China,Zhang Min,2026-08-18,T2 - Image Optimisation,453,424,93.6%,225,165
+China,Wang Fang,2026-08-18,T2 - Image Optimisation,400,365,91.2%,198,154
+China,Chen Jie,2026-08-18,T2 - Image Optimisation,395,323,81.8%,111,181
+Brazil,Ana,2026-08-19,Backend Category,5790,5336,92.2%,,
+Brazil,Bruno,2026-08-19,T4 - CPG Brand,767,767,100.0%,,
+Brazil,Bruno,2026-08-19,Backend Category,3238,3009,92.9%,,
+Brazil,Carla,2026-08-19,Special Tag,9016,9591,106.4%,,
+Brazil,Diego,2026-08-19,T3 - Weight&Volumes,2301,2301,100.0%,,
+Brazil,Elisa,2026-08-19,Frontend Category,7186,5669,78.9%,,
+Brazil,Felipe,2026-08-19,Frontend Category,8849,8777,99.2%,,
+Brazil,Gabriela,2026-08-19,T3 - Weight&Volumes,2480,2480,100.0%,,
+Brazil,Henrique,2026-08-19,T1 - Categorization (Front End),1606,1274,79.3%,,
+Brazil,João,2026-08-19,T4 - CPG Brand,1226,1226,100.0%,,
+Brazil,Larissa,2026-08-19,Frontend Category,6390,7856,122.9%,,
+Brazil,Marcos,2026-08-19,Special Tag,11428,11943,104.5%,,
+China,Li Wei,2026-08-19,T1 - Categorization (Front End),1739,1600,92.0%,,
+China,Li Wei,2026-08-19,T2 - Image Optimisation,204,198,97.1%,96,92
+China,Zhang Min,2026-08-19,T2 - Image Optimisation,473,458,96.8%,112,326
+China,Wang Fang,2026-08-19,T2 - Image Optimisation,368,410,111.4%,195,197
+China,Chen Jie,2026-08-19,T2 - Image Optimisation,464,445,95.9%,222,218
+Brazil,Ana,2026-08-20,Backend Category,4414,4662,105.6%,,
+Brazil,Bruno,2026-08-20,T4 - CPG Brand,532,532,100.0%,,
+Brazil,Bruno,2026-08-20,Backend Category,2907,2151,74.0%,,
+Brazil,Carla,2026-08-20,Special Tag,9344,9502,101.7%,,
+Brazil,Diego,2026-08-20,T3 - Weight&Volumes,2558,2558,100.0%,,
+Brazil,Elisa,2026-08-20,Frontend Category,9237,8683,94.0%,,
+Brazil,Felipe,2026-08-20,Frontend Category,6397,5531,86.5%,,
+Brazil,Gabriela,2026-08-20,T3 - Weight&Volumes,2546,2546,100.0%,,
+Brazil,Henrique,2026-08-20,T1 - Categorization (Front End),1918,1609,83.9%,,
+Brazil,Isabela,2026-08-20,T4 - CPG Brand,988,988,100.0%,,
+Brazil,João,2026-08-20,T4 - CPG Brand,1300,1300,100.0%,,
+Brazil,Larissa,2026-08-20,Frontend Category,8099,8334,102.9%,,
+Brazil,Marcos,2026-08-20,Special Tag,8148,7762,95.3%,,
+China,Li Wei,2026-08-20,T1 - Categorization (Front End),1157,873,75.5%,,
+China,Li Wei,2026-08-20,T2 - Image Optimisation,242,230,95.0%,76,146
+China,Zhang Min,2026-08-20,T2 - Image Optimisation,410,430,104.9%,88,328
+China,Wang Fang,2026-08-20,T2 - Image Optimisation,430,382,88.8%,172,195
+China,Chen Jie,2026-08-20,T2 - Image Optimisation,388,310,79.9%,70,228
+Brazil,Ana,2026-08-21,Backend Category,0,5845,,,
+Brazil,Bruno,2026-08-21,T4 - CPG Brand,687,687,100.0%,,
+Brazil,Bruno,2026-08-21,Backend Category,3216,2646,82.3%,,
+Brazil,Carla,2026-08-21,Special Tag,11920,12210,102.4%,,
+Brazil,Diego,2026-08-21,T3 - Weight&Volumes,2619,2619,100.0%,,
+Brazil,Elisa,2026-08-21,Frontend Category,9500,8984,94.6%,,
+Brazil,Felipe,2026-08-21,Frontend Category,8882,7995,90.0%,,
+Brazil,Gabriela,2026-08-21,T3 - Weight&Volumes,1896,1896,100.0%,,
+Brazil,Henrique,2026-08-21,T1 - Categorization (Front End),2495,2436,97.6%,,
+Brazil,Isabela,2026-08-21,T4 - CPG Brand,1447,1447,100.0%,,
+Brazil,João,2026-08-21,T4 - CPG Brand,1006,1006,100.0%,,
+Brazil,Larissa,2026-08-21,Frontend Category,9629,9549,99.2%,,
+Brazil,Marcos,2026-08-21,Special Tag,10643,10623,99.8%,,
+China,Li Wei,2026-08-21,T1 - Categorization (Front End),849,751,88.5%,,
+China,Li Wei,2026-08-21,T2 - Image Optimisation,239,231,96.7%,120,104
+China,Zhang Min,2026-08-21,T2 - Image Optimisation,448,473,105.6%,230,197
+China,Wang Fang,2026-08-21,T2 - Image Optimisation,338,390,115.4%,154,226
+Brazil,Ana,2026-08-24,Backend Category,6380,6186,97.0%,,
+Brazil,Bruno,2026-08-24,T1 - Categorization (Front End),0,870,,,
+Brazil,Bruno,2026-08-24,Frontend Category,4013,3524,87.8%,,
+Brazil,Carla,2026-08-24,Special Tag,8535,7713,90.4%,,
+Brazil,Diego,2026-08-24,T3 - Weight&Volumes,2645,2645,100.0%,,
+Brazil,Elisa,2026-08-24,Frontend Category,8436,7652,90.7%,,
+Brazil,Felipe,2026-08-24,Frontend Category,8235,8071,98.0%,,
+Brazil,Gabriela,2026-08-24,T3 - Weight&Volumes,2622,2622,100.0%,,
+Brazil,Henrique,2026-08-24,T3 - Weight&Volumes,2575,2575,100.0%,,
+Brazil,Isabela,2026-08-24,T4 - CPG Brand,1236,1236,100.0%,,
+Brazil,João,2026-08-24,T4 - CPG Brand,1048,1048,100.0%,,
+Brazil,Larissa,2026-08-24,T3 - Weight&Volumes,2944,2944,100.0%,,
+Brazil,Marcos,2026-08-24,T1 - Categorization (Front End),510,503,98.6%,,
+Brazil,Marcos,2026-08-24,T3 - Weight&Volumes,1146,1146,100.0%,,
+China,Li Wei,2026-08-24,T1 - Categorization (Front End),930,891,95.8%,,
+China,Li Wei,2026-08-24,T2 - Image Optimisation,236,209,88.6%,69,135
+China,Zhang Min,2026-08-24,T2 - Image Optimisation,319,278,87.1%,46,221
+China,Wang Fang,2026-08-24,T2 - Image Optimisation,291,295,101.4%,109,162
+China,Chen Jie,2026-08-24,T2 - Image Optimisation,449,393,87.5%,109,268
+Brazil,Ana,2026-08-25,Backend Category,6711,6729,100.3%,,
+Brazil,Bruno,2026-08-25,T1 - Categorization (Front End),560,437,78.0%,,
+Brazil,Bruno,2026-08-25,Frontend Category,4577,4480,97.9%,,
+Brazil,Carla,2026-08-25,Special Tag,11359,11952,105.2%,,
+Brazil,Diego,2026-08-25,T3 - Weight&Volumes,3048,3048,100.0%,,
+Brazil,Elisa,2026-08-25,Frontend Category,7297,7568,103.7%,,
+Brazil,Felipe,2026-08-25,Frontend Category,0,7156,,,
+Brazil,Gabriela,2026-08-25,T3 - Weight&Volumes,2631,2631,100.0%,,
+Brazil,Henrique,2026-08-25,T3 - Weight&Volumes,2765,2765,100.0%,,
+Brazil,Isabela,2026-08-25,T4 - CPG Brand,1030,1030,100.0%,,
+Brazil,João,2026-08-25,T4 - CPG Brand,1484,1484,100.0%,,
+Brazil,Larissa,2026-08-25,T3 - Weight&Volumes,2625,2625,100.0%,,
+Brazil,Marcos,2026-08-25,T1 - Categorization (Front End),836,783,93.7%,,
+Brazil,Marcos,2026-08-25,T3 - Weight&Volumes,1085,1085,100.0%,,
+China,Li Wei,2026-08-25,T1 - Categorization (Front End),1578,1613,102.2%,,
+China,Li Wei,2026-08-25,T2 - Image Optimisation,246,204,82.9%,94,92
+China,Zhang Min,2026-08-25,T2 - Image Optimisation,411,427,103.9%,117,297
+China,Wang Fang,2026-08-25,T2 - Image Optimisation,510,545,106.9%,152,383
+China,Chen Jie,2026-08-25,T2 - Image Optimisation,363,316,87.1%,138,149
+Brazil,Ana,2026-08-26,Backend Category,6125,6247,102.0%,,
+Brazil,Bruno,2026-08-26,T1 - Categorization (Front End),786,726,92.4%,,
+Brazil,Bruno,2026-08-26,Frontend Category,3539,3381,95.5%,,
+Brazil,Carla,2026-08-26,Special Tag,9097,9635,105.9%,,
+Brazil,Elisa,2026-08-26,Frontend Category,7953,8017,100.8%,,
+Brazil,Gabriela,2026-08-26,T3 - Weight&Volumes,2672,2672,100.0%,,
+Brazil,Henrique,2026-08-26,T3 - Weight&Volumes,2185,2185,100.0%,,
+Brazil,Isabela,2026-08-26,T4 - CPG Brand,1654,1654,100.0%,,
+Brazil,João,2026-08-26,T4 - CPG Brand,1198,1198,100.0%,,
+Brazil,Larissa,2026-08-26,T3 - Weight&Volumes,2436,2436,100.0%,,
+Brazil,Marcos,2026-08-26,T1 - Categorization (Front End),958,952,99.4%,,
+Brazil,Marcos,2026-08-26,T3 - Weight&Volumes,997,997,100.0%,,
+China,Li Wei,2026-08-26,T1 - Categorization (Front End),778,741,95.2%,,
+China,Li Wei,2026-08-26,T2 - Image Optimisation,212,183,86.3%,62,112
+China,Zhang Min,2026-08-26,T2 - Image Optimisation,381,454,119.2%,133,289
+China,Wang Fang,2026-08-26,T2 - Image Optimisation,383,395,103.1%,145,246
+Brazil,Ana,2026-08-27,Backend Category,6683,6836,102.3%,,
+Brazil,Bruno,2026-08-27,T1 - Categorization (Front End),531,417,78.5%,,
+Brazil,Bruno,2026-08-27,Frontend Category,3584,3611,100.8%,,
+Brazil,Carla,2026-08-27,Special Tag,10294,10035,97.5%,,
+Brazil,Diego,2026-08-27,T3 - Weight&Volumes,2379,2379,100.0%,,
+Brazil,Elisa,2026-08-27,Frontend Category,7726,7826,101.3%,,
+Brazil,Felipe,2026-08-27,Frontend Category,8742,6758,77.3%,,
+Brazil,Gabriela,2026-08-27,T3 - Weight&Volumes,2633,2633,100.0%,,
+Brazil,Henrique,2026-08-27,T3 - Weight&Volumes,2485,2485,100.0%,,
+Brazil,Isabela,2026-08-27,T4 - CPG Brand,1437,1437,100.0%,,
+Brazil,João,2026-08-27,T4 - CPG Brand,959,959,100.0%,,
+Brazil,Larissa,2026-08-27,T3 - Weight&Volumes,3021,3021,100.0%,,
+Brazil,Marcos,2026-08-27,T1 - Categorization (Front End),1057,1012,95.7%,,
+Brazil,Marcos,2026-08-27,T3 - Weight&Volumes,1319,1319,100.0%,,
+China,Li Wei,2026-08-27,T1 - Categorization (Front End),665,565,85.0%,,
+China,Li Wei,2026-08-27,T2 - Image Optimisation,198,193,97.5%,87,88
+China,Zhang Min,2026-08-27,T2 - Image Optimisation,322,331,102.8%,120,193
+China,Wang Fang,2026-08-27,T2 - Image Optimisation,435,428,98.4%,102,325
+China,Chen Jie,2026-08-27,T2 - Image Optimisation,349,343,98.3%,90,243
+Brazil,Ana,2026-08-28,Backend Category,4851,4479,92.3%,,
+Brazil,Bruno,2026-08-28,T1 - Categorization (Front End),723,612,84.6%,,
+Brazil,Bruno,2026-08-28,Frontend Category,4714,4282,90.8%,,
+Brazil,Carla,2026-08-28,Special Tag,7523,7429,98.8%,,
+Brazil,Diego,2026-08-28,T3 - Weight&Volumes,2415,2415,100.0%,,
+Brazil,Elisa,2026-08-28,Frontend Category,5801,5170,89.1%,,
+Brazil,Felipe,2026-08-28,Frontend Category,7124,6336,88.9%,,
+Brazil,Gabriela,2026-08-28,T3 - Weight&Volumes,2307,2307,100.0%,,
+Brazil,Henrique,2026-08-28,T3 - Weight&Volumes,2566,2566,100.0%,,
+Brazil,Isabela,2026-08-28,T4 - CPG Brand,1303,1303,100.0%,,
+Brazil,João,2026-08-28,T4 - CPG Brand,837,837,100.0%,,
+Brazil,Larissa,2026-08-28,T3 - Weight&Volumes,2366,2366,100.0%,,
+Brazil,Marcos,2026-08-28,T1 - Categorization (Front End),138,119,86.2%,,
+Brazil,Marcos,2026-08-28,T3 - Weight&Volumes,1134,1134,100.0%,,
+China,Li Wei,2026-08-28,T1 - Categorization (Front End),975,886,90.9%,,
+China,Li Wei,2026-08-28,T2 - Image Optimisation,201,180,89.6%,75,92
+China,Wang Fang,2026-08-28,T2 - Image Optimisation,396,366,92.4%,82,262
+China,Chen Jie,2026-08-28,T2 - Image Optimisation,408,378,92.6%,53,300
+Brazil,Ana,2026-08-31,Backend Category,5474,5421,99.0%,,
+Brazil,Bruno,2026-08-31,T1 - Categorization (Front End),937,709,75.7%,,
+Brazil,Bruno,2026-08-31,Frontend Category,2294,2397,104.5%,,
+Brazil,Carla,2026-08-31,Backend Category,3549,2770,78.1%,,
+Brazil,Carla,2026-08-31,Frontend Category,4222,4065,96.3%,,
+Brazil,Elisa,2026-08-31,Frontend Category,8711,8140,93.4%,,
+Brazil,Gabriela,2026-08-31,T3 - Weight&Volumes,3180,3180,100.0%,,
+Brazil,Henrique,2026-08-31,T3 - Weight&Volumes,2619,2619,100.0%,,
+Brazil,Isabela,2026-08-31,Special Tag,9805,9106,92.9%,,
+Brazil,João,2026-08-31,T4 - CPG Brand,1222,1222,100.0%,,
+Brazil,Larissa,2026-08-31,T3 - Weight&Volumes,2349,2349,100.0%,,
+Brazil,Marcos,2026-08-31,T1 - Categorization (Front End),501,466,93.0%,,
+Brazil,Marcos,2026-08-31,T3 - Weight&Volumes,1245,1245,100.0%,,
+China,Li Wei,2026-08-31,T1 - Categorization (Front End),619,556,89.8%,,
+China,Li Wei,2026-08-31,T2 - Image Optimisation,224,199,88.8%,60,125
+China,Zhang Min,2026-08-31,T2 - Image Optimisation,323,311,96.3%,86,216
+China,Wang Fang,2026-08-31,T2 - Image Optimisation,416,431,103.6%,154,245
+China,Chen Jie,2026-08-31,T2 - Image Optimisation,482,477,99.0%,121,339
+Brazil,Ana,2026-09-01,Backend Category,6631,7337,110.6%,,
+Brazil,Bruno,2026-09-01,T1 - Categorization (Front End),810,706,87.2%,,
+Brazil,Bruno,2026-09-01,Frontend Category,4987,4633,92.9%,,
+Brazil,Carla,2026-09-01,Backend Category,3007,2341,77.9%,,
+Brazil,Carla,2026-09-01,Frontend Category,3357,3010,89.7%,,
+Brazil,Diego,2026-09-01,T3 - Weight&Volumes,2554,2554,100.0%,,
+Brazil,Elisa,2026-09-01,Frontend Category,7579,7890,104.1%,,
+Brazil,Felipe,2026-09-01,Frontend Category,8542,9698,113.5%,,
+Brazil,Gabriela,2026-09-01,T3 - Weight&Volumes,2283,2283,100.0%,,
+Brazil,Henrique,2026-09-01,T3 - Weight&Volumes,2319,2319,100.0%,,
+Brazil,Isabela,2026-09-01,Special Tag,10994,10177,92.6%,,
+Brazil,João,2026-09-01,T4 - CPG Brand,1633,1633,100.0%,,
+Brazil,Larissa,2026-09-01,T3 - Weight&Volumes,1764,1764,100.0%,,
+Brazil,Marcos,2026-09-01,T1 - Categorization (Front End),734,623,84.9%,,
+Brazil,Marcos,2026-09-01,T3 - Weight&Volumes,1479,1479,100.0%,,
+China,Li Wei,2026-09-01,T1 - Categorization (Front End),738,649,87.9%,,
+China,Li Wei,2026-09-01,T2 - Image Optimisation,207,174,84.1%,32,128
+China,Zhang Min,2026-09-01,T2 - Image Optimisation,421,371,88.1%,125,245
+China,Wang Fang,2026-09-01,T2 - Image Optimisation,407,413,101.5%,97,303
+China,Chen Jie,2026-09-01,T2 - Image Optimisation,438,385,87.9%,150,220
+Brazil,Bruno,2026-09-02,T1 - Categorization (Front End),1092,918,84.1%,,
+Brazil,Bruno,2026-09-02,Frontend Category,5360,5844,109.0%,,
+Brazil,Carla,2026-09-02,Backend Category,2516,2407,95.7%,,
+Brazil,Carla,2026-09-02,Frontend Category,4157,3979,95.7%,,
+Brazil,Diego,2026-09-02,T3 - Weight&Volumes,2378,2378,100.0%,,
+Brazil,Elisa,2026-09-02,Frontend Category,10118,11063,109.3%,,
+Brazil,Felipe,2026-09-02,Frontend Category,7923,7698,97.2%,,
+Brazil,Gabriela,2026-09-02,T3 - Weight&Volumes,2270,2270,100.0%,,
+Brazil,Henrique,2026-09-02,T3 - Weight&Volumes,2775,2775,100.0%,,
+Brazil,Isabela,2026-09-02,Special Tag,10757,10536,97.9%,,
+Brazil,João,2026-09-02,T4 - CPG Brand,1055,1055,100.0%,,
+Brazil,Larissa,2026-09-02,T3 - Weight&Volumes,2591,2591,100.0%,,
+Brazil,Marcos,2026-09-02,T1 - Categorization (Front End),1232,1059,86.0%,,
+Brazil,Marcos,2026-09-02,T3 - Weight&Volumes,1209,1209,100.0%,,
+China,Li Wei,2026-09-02,T1 - Categorization (Front End),1196,1178,98.5%,,
+China,Li Wei,2026-09-02,T2 - Image Optimisation,211,191,90.5%,69,112
+China,Zhang Min,2026-09-02,T2 - Image Optimisation,0,419,,162,221
+China,Wang Fang,2026-09-02,T2 - Image Optimisation,395,402,101.8%,151,227
+China,Chen Jie,2026-09-02,T2 - Image Optimisation,332,309,93.1%,122,167
+Brazil,Ana,2026-09-03,Backend Category,6075,5721,94.2%,,
+Brazil,Bruno,2026-09-03,T1 - Categorization (Front End),751,701,93.3%,,
+Brazil,Bruno,2026-09-03,Frontend Category,5082,4821,94.9%,,
+Brazil,Carla,2026-09-03,Backend Category,2588,2563,99.0%,,
+Brazil,Carla,2026-09-03,Frontend Category,3874,4098,105.8%,,
+Brazil,Diego,2026-09-03,T3 - Weight&Volumes,2365,2365,100.0%,,
+Brazil,Elisa,2026-09-03,Frontend Category,6929,6387,92.2%,,
+Brazil,Felipe,2026-09-03,Frontend Category,6394,6214,97.2%,,
+Brazil,Henrique,2026-09-03,T3 - Weight&Volumes,2575,2575,100.0%,,
+Brazil,Isabela,2026-09-03,Special Tag,7283,7658,105.1%,,
+Brazil,João,2026-09-03,T4 - CPG Brand,1645,1645,100.0%,,
+Brazil,Larissa,2026-09-03,T3 - Weight&Volumes,2380,2380,100.0%,,
+China,Li Wei,2026-09-03,T1 - Categorization (Front End),607,631,104.0%,,
+China,Li Wei,2026-09-03,T2 - Image Optimisation,210,212,101.0%,124,78
+China,Zhang Min,2026-09-03,T2 - Image Optimisation,355,397,111.8%,176,200
+China,Chen Jie,2026-09-03,T2 - Image Optimisation,367,308,83.9%,162,143
+Brazil,Ana,2026-09-04,Backend Category,6102,5281,86.5%,,
+Brazil,Bruno,2026-09-04,T1 - Categorization (Front End),472,451,95.6%,,
+Brazil,Bruno,2026-09-04,Frontend Category,4662,4664,100.0%,,
+Brazil,Carla,2026-09-04,Backend Category,3103,2653,85.5%,,
+Brazil,Carla,2026-09-04,Frontend Category,3241,3128,96.5%,,
+Brazil,Diego,2026-09-04,T3 - Weight&Volumes,2154,2154,100.0%,,
+Brazil,Elisa,2026-09-04,Frontend Category,8104,7944,98.0%,,
+Brazil,Felipe,2026-09-04,Frontend Category,7622,8361,109.7%,,
+Brazil,Gabriela,2026-09-04,T3 - Weight&Volumes,2614,2614,100.0%,,
+Brazil,Henrique,2026-09-04,T3 - Weight&Volumes,2692,2692,100.0%,,
+Brazil,Isabela,2026-09-04,Special Tag,10721,9121,85.1%,,
+Brazil,João,2026-09-04,T4 - CPG Brand,1274,1274,100.0%,,
+Brazil,Marcos,2026-09-04,T1 - Categorization (Front End),801,711,88.8%,,
+Brazil,Marcos,2026-09-04,T3 - Weight&Volumes,1181,1181,100.0%,,
+China,Li Wei,2026-09-04,T1 - Categorization (Front End),1004,847,84.4%,,
+China,Li Wei,2026-09-04,T2 - Image Optimisation,214,203,94.9%,74,122
+China,Zhang Min,2026-09-04,T2 - Image Optimisation,437,426,97.5%,139,279
+China,Wang Fang,2026-09-04,T2 - Image Optimisation,333,354,106.3%,243,97
+China,Chen Jie,2026-09-04,T2 - Image Optimisation,386,305,79.0%,107,186
+Brazil,Bruno,2026-09-07,T1 - Categorization (Front End),1328,968,72.9%,,
+Brazil,Bruno,2026-09-07,Frontend Category,4911,5420,110.4%,,
+Brazil,Carla,2026-09-07,Backend Category,2995,2911,97.2%,,
+Brazil,Carla,2026-09-07,Frontend Category,3662,3722,101.6%,,
+Brazil,Diego,2026-09-07,T3 - Weight&Volumes,2854,2854,100.0%,,
+Brazil,Elisa,2026-09-07,Frontend Category,8327,7356,88.3%,,
+Brazil,Felipe,2026-09-07,T2 - Image Optimisation,184,183,99.5%,21,150
+Brazil,Felipe,2026-09-07,T1 - Categorization (Front End),972,1018,104.7%,,
+Brazil,Gabriela,2026-09-07,Frontend Category,7382,6690,90.6%,,
+Brazil,Henrique,2026-09-07,T3 - Weight&Volumes,2546,2546,100.0%,,
+Brazil,João,2026-09-07,T4 - CPG Brand,1324,1324,100.0%,,
+Brazil,Larissa,2026-09-07,T3 - Weight&Volumes,2152,2152,100.0%,,
+Brazil,Marcos,2026-09-07,T1 - Categorization (Front End),1507,1364,90.5%,,
+Brazil,Marcos,2026-09-07,T3 - Weight&Volumes,1190,1190,100.0%,,
+China,Li Wei,2026-09-07,T1 - Categorization (Front End),50,47,94.0%,,
+China,Li Wei,2026-09-07,T2 - Image Optimisation,212,178,84.0%,62,104
+China,Zhang Min,2026-09-07,T2 - Image Optimisation,355,377,106.2%,183,156
+China,Wang Fang,2026-09-07,T2 - Image Optimisation,336,340,101.2%,145,164
+China,Chen Jie,2026-09-07,T2 - Image Optimisation,313,266,85.0%,65,180
+Brazil,Ana,2026-09-08,Backend Category,0,7753,,,
+Brazil,Bruno,2026-09-08,T1 - Categorization (Front End),1104,1049,95.0%,,
+Brazil,Bruno,2026-09-08,Frontend Category,2223,1869,84.1%,,
+Brazil,Carla,2026-09-08,Backend Category,2925,2375,81.2%,,
+Brazil,Carla,2026-09-08,Frontend Category,0,2916,,,
+Brazil,Diego,2026-09-08,T3 - Weight&Volumes,2155,2155,100.0%,,
+Brazil,Elisa,2026-09-08,Frontend Category,9521,9128,95.9%,,
+Brazil,Felipe,2026-09-08,T2 - Image Optimisation,153,159,103.9%,85,67
+Brazil,Felipe,2026-09-08,T1 - Categorization (Front End),483,540,111.8%,,
+Brazil,Gabriela,2026-09-08,Frontend Category,7679,6894,89.8%,,
+Brazil,Henrique,2026-09-08,T3 - Weight&Volumes,2777,2777,100.0%,,
+Brazil,Isabela,2026-09-08,Special Tag,10485,8726,83.2%,,
+Brazil,João,2026-09-08,T4 - CPG Brand,1039,1039,100.0%,,
+Brazil,Larissa,2026-09-08,T3 - Weight&Volumes,2079,2079,100.0%,,
+Brazil,Marcos,2026-09-08,T1 - Categorization (Front End),775,797,102.8%,,
+Brazil,Marcos,2026-09-08,T3 - Weight&Volumes,1080,1080,100.0%,,
+China,Li Wei,2026-09-08,T1 - Categorization (Front End),921,793,86.1%,,
+China,Li Wei,2026-09-08,T2 - Image Optimisation,168,150,89.3%,40,102
+China,Zhang Min,2026-09-08,T2 - Image Optimisation,447,382,85.5%,120,258
+China,Wang Fang,2026-09-08,T2 - Image Optimisation,339,373,110.0%,226,116
+China,Chen Jie,2026-09-08,T2 - Image Optimisation,382,321,84.0%,130,189
+Brazil,Ana,2026-09-09,Backend Category,6199,6294,101.5%,,
+Brazil,Bruno,2026-09-09,T1 - Categorization (Front End),0,1218,,,
+Brazil,Bruno,2026-09-09,Frontend Category,3016,3051,101.2%,,
+Brazil,Carla,2026-09-09,Backend Category,0,2241,,,
+Brazil,Carla,2026-09-09,Frontend Category,4059,4145,102.1%,,
+Brazil,Diego,2026-09-09,T3 - Weight&Volumes,2230,2230,100.0%,,
+Brazil,Elisa,2026-09-09,Frontend Category,7833,7658,97.8%,,
+Brazil,Felipe,2026-09-09,T2 - Image Optimisation,166,153,92.2%,48,98
+Brazil,Felipe,2026-09-09,T1 - Categorization (Front End),1140,1047,91.8%,,
+Brazil,Gabriela,2026-09-09,Frontend Category,7142,6611,92.6%,,
+Brazil,Henrique,2026-09-09,T3 - Weight&Volumes,2339,2339,100.0%,,
+Brazil,Isabela,2026-09-09,Special Tag,14886,13557,91.1%,,
+Brazil,João,2026-09-09,T4 - CPG Brand,1165,1165,100.0%,,
+Brazil,Larissa,2026-09-09,T3 - Weight&Volumes,2940,2940,100.0%,,
+Brazil,Marcos,2026-09-09,T1 - Categorization (Front End),549,574,104.6%,,
+Brazil,Marcos,2026-09-09,T3 - Weight&Volumes,1242,1242,100.0%,,
+China,Li Wei,2026-09-09,T1 - Categorization (Front End),737,715,97.0%,,
+China,Li Wei,2026-09-09,T2 - Image Optimisation,158,111,70.3%,8,97
+China,Zhang Min,2026-09-09,T2 - Image Optimisation,0,509,,139,367
+China,Wang Fang,2026-09-09,T2 - Image Optimisation,488,581,119.1%,108,432
+China,Chen Jie,2026-09-09,T2 - Image Optimisation,395,350,88.6%,28,310
+Brazil,Ana,2026-09-10,Backend Category,5756,4619,80.2%,,
+Brazil,Bruno,2026-09-10,T1 - Categorization (Front End),800,702,87.8%,,
+Brazil,Bruno,2026-09-10,Frontend Category,4124,3971,96.3%,,
+Brazil,Carla,2026-09-10,Backend Category,2777,2545,91.6%,,
+Brazil,Carla,2026-09-10,Frontend Category,4309,4730,109.8%,,
+Brazil,Diego,2026-09-10,T3 - Weight&Volumes,2541,2541,100.0%,,
+Brazil,Elisa,2026-09-10,Frontend Category,8590,10025,116.7%,,
+Brazil,Felipe,2026-09-10,T2 - Image Optimisation,178,166,93.3%,45,105
+Brazil,Felipe,2026-09-10,T1 - Categorization (Front End),724,644,89.0%,,
+Brazil,Gabriela,2026-09-10,Frontend Category,7822,6933,88.6%,,
+Brazil,Henrique,2026-09-10,T3 - Weight&Volumes,2137,2137,100.0%,,
+Brazil,Isabela,2026-09-10,Special Tag,10860,10380,95.6%,,
+Brazil,João,2026-09-10,T4 - CPG Brand,941,941,100.0%,,
+Brazil,Larissa,2026-09-10,T3 - Weight&Volumes,2411,2411,100.0%,,
+Brazil,Marcos,2026-09-10,T1 - Categorization (Front End),159,158,99.4%,,
+Brazil,Marcos,2026-09-10,T3 - Weight&Volumes,1076,1076,100.0%,,
+China,Li Wei,2026-09-10,T1 - Categorization (Front End),557,644,115.6%,,
+China,Li Wei,2026-09-10,T2 - Image Optimisation,164,173,105.5%,60,106
+China,Zhang Min,2026-09-10,T2 - Image Optimisation,404,364,90.1%,144,216
+China,Wang Fang,2026-09-10,T2 - Image Optimisation,424,405,95.5%,164,224
+China,Chen Jie,2026-09-10,T2 - Image Optimisation,354,319,90.1%,181,111
+Brazil,Ana,2026-09-11,Backend Category,5277,4716,89.4%,,
+Brazil,Bruno,2026-09-11,T1 - Categorization (Front End),848,784,92.5%,,
+Brazil,Bruno,2026-09-11,Frontend Category,3889,3639,93.6%,,
+Brazil,Carla,2026-09-11,Backend Category,3531,2970,84.1%,,
+Brazil,Carla,2026-09-11,Frontend Category,3203,3254,101.6%,,
+Brazil,Diego,2026-09-11,T3 - Weight&Volumes,3046,3046,100.0%,,
+Brazil,Elisa,2026-09-11,Frontend Category,7553,7690,101.8%,,
+Brazil,Felipe,2026-09-11,T2 - Image Optimisation,202,179,88.6%,72,95
+Brazil,Felipe,2026-09-11,T1 - Categorization (Front End),1213,1193,98.4%,,
+Brazil,Gabriela,2026-09-11,Frontend Category,9187,8251,89.8%,,
+Brazil,Henrique,2026-09-11,T3 - Weight&Volumes,2645,2645,100.0%,,
+Brazil,Isabela,2026-09-11,Special Tag,12639,12580,99.5%,,
+Brazil,João,2026-09-11,T4 - CPG Brand,1391,1391,100.0%,,
+Brazil,Larissa,2026-09-11,T3 - Weight&Volumes,2573,2573,100.0%,,
+Brazil,Marcos,2026-09-11,T1 - Categorization (Front End),635,552,86.9%,,
+Brazil,Marcos,2026-09-11,T3 - Weight&Volumes,1220,1220,100.0%,,
+China,Li Wei,2026-09-11,T1 - Categorization (Front End),1085,1064,98.1%,,
+China,Li Wei,2026-09-11,T2 - Image Optimisation,142,141,99.3%,54,84
+China,Zhang Min,2026-09-11,T2 - Image Optimisation,469,435,92.8%,36,392
+China,Wang Fang,2026-09-11,T2 - Image Optimisation,368,322,87.5%,132,162
+Brazil,Ana,2026-09-14,Backend Category,5799,4409,76.0%,,
+Brazil,Bruno,2026-09-14,T1 - Categorization (Front End),1269,1054,83.1%,,
+Brazil,Bruno,2026-09-14,Frontend Category,5166,5351,103.6%,,
+Brazil,Carla,2026-09-14,Backend Category,3445,3254,94.5%,,
+Brazil,Carla,2026-09-14,Frontend Category,3906,3974,101.7%,,
+Brazil,Diego,2026-09-14,T3 - Weight&Volumes,2537,2537,100.0%,,
+Brazil,Felipe,2026-09-14,T2 - Image Optimisation,0,140,,49,78
+Brazil,Felipe,2026-09-14,T1 - Categorization (Front End),947,827,87.3%,,
+Brazil,Gabriela,2026-09-14,Frontend Category,0,6528,,,
+Brazil,Henrique,2026-09-14,T3 - Weight&Volumes,2893,2893,100.0%,,
+Brazil,Isabela,2026-09-14,Special Tag,10529,8971,85.2%,,
+Brazil,João,2026-09-14,T4 - CPG Brand,1225,1225,100.0%,,
+Brazil,Marcos,2026-09-14,Frontend Category,3083,2943,95.5%,,
+Brazil,Marcos,2026-09-14,Backend Category,3549,3832,108.0%,,
+China,Li Wei,2026-09-14,T1 - Categorization (Front End),50,46,92.0%,,
+China,Li Wei,2026-09-14,T2 - Image Optimisation,174,140,80.5%,47,84
+China,Zhang Min,2026-09-14,T2 - Image Optimisation,460,482,104.8%,82,384
+China,Wang Fang,2026-09-14,T2 - Image Optimisation,426,437,102.6%,175,255
+China,Chen Jie,2026-09-14,T2 - Image Optimisation,494,565,114.4%,260,285
+Brazil,Ana,2026-09-15,Backend Category,6527,5842,89.5%,,
+Brazil,Bruno,2026-09-15,T1 - Categorization (Front End),1173,1061,90.5%,,
+Brazil,Bruno,2026-09-15,Frontend Category,3961,3541,89.4%,,
+Brazil,Carla,2026-09-15,Backend Category,3456,3209,92.9%,,
+Brazil,Carla,2026-09-15,Frontend Category,2974,2919,98.2%,,
+Brazil,Diego,2026-09-15,T3 - Weight&Volumes,2114,2114,100.0%,,
+Brazil,Elisa,2026-09-15,Frontend Category,7061,6305,89.3%,,
+Brazil,Felipe,2026-09-15,T2 - Image Optimisation,171,181,105.8%,66,101
+Brazil,Felipe,2026-09-15,T1 - Categorization (Front End),733,681,92.9%,,
+Brazil,Gabriela,2026-09-15,Frontend Category,7417,7326,98.8%,,
+Brazil,Henrique,2026-09-15,T3 - Weight&Volumes,2687,2687,100.0%,,
+Brazil,Isabela,2026-09-15,Special Tag,9504,8731,91.9%,,
+Brazil,João,2026-09-15,T4 - CPG Brand,1569,1569,100.0%,,
+Brazil,Larissa,2026-09-15,T2 - Image Optimisation,223,237,106.3%,125,99
+Brazil,Larissa,2026-09-15,Frontend Category,3949,4151,105.1%,,
+Brazil,Marcos,2026-09-15,Frontend Category,4181,3768,90.1%,,
+Brazil,Marcos,2026-09-15,Backend Category,3338,3088,92.5%,,
+China,Li Wei,2026-09-15,T1 - Categorization (Front End),812,760,93.6%,,
+China,Li Wei,2026-09-15,T2 - Image Optimisation,216,182,84.3%,53,123
+China,Zhang Min,2026-09-15,T2 - Image Optimisation,401,380,94.8%,77,291
+China,Wang Fang,2026-09-15,T2 - Image Optimisation,283,293,103.5%,73,219
+China,Chen Jie,2026-09-15,T2 - Image Optimisation,444,421,94.8%,145,235
+Brazil,Bruno,2026-09-16,T1 - Categorization (Front End),0,554,,,
+Brazil,Bruno,2026-09-16,Frontend Category,4531,4099,90.5%,,
+Brazil,Carla,2026-09-16,Backend Category,2767,2543,91.9%,,
+Brazil,Carla,2026-09-16,Frontend Category,4016,4503,112.1%,,
+Brazil,Diego,2026-09-16,T3 - Weight&Volumes,2734,2734,100.0%,,
+Brazil,Elisa,2026-09-16,Frontend Category,0,7792,,,
+Brazil,Felipe,2026-09-16,T2 - Image Optimisation,229,242,105.7%,73,161
+Brazil,Felipe,2026-09-16,T1 - Categorization (Front End),50,41,82.0%,,
+Brazil,Gabriela,2026-09-16,Frontend Category,5551,4519,81.4%,,
+Brazil,Henrique,2026-09-16,T3 - Weight&Volumes,2317,2317,100.0%,,
+Brazil,Isabela,2026-09-16,Special Tag,12027,10862,90.3%,,
+Brazil,João,2026-09-16,T4 - CPG Brand,1043,1043,100.0%,,
+Brazil,Larissa,2026-09-16,T2 - Image Optimisation,230,210,91.3%,55,134
+Brazil,Larissa,2026-09-16,Frontend Category,3862,3596,93.1%,,
+Brazil,Marcos,2026-09-16,Frontend Category,4309,3995,92.7%,,
+Brazil,Marcos,2026-09-16,Backend Category,2851,3125,109.6%,,
+China,Li Wei,2026-09-16,T1 - Categorization (Front End),1158,1117,96.5%,,
+China,Li Wei,2026-09-16,T2 - Image Optimisation,158,146,92.4%,34,105
+China,Zhang Min,2026-09-16,T2 - Image Optimisation,331,353,106.6%,129,189
+China,Wang Fang,2026-09-16,T2 - Image Optimisation,362,349,96.4%,112,235
+China,Chen Jie,2026-09-16,T2 - Image Optimisation,261,239,91.6%,49,176
+Brazil,Ana,2026-09-17,Backend Category,5097,4619,90.6%,,
+Brazil,Bruno,2026-09-17,T1 - Categorization (Front End),853,724,84.9%,,
+Brazil,Bruno,2026-09-17,Frontend Category,3417,3034,88.8%,,
+Brazil,Carla,2026-09-17,Backend Category,3684,2704,73.4%,,
+Brazil,Carla,2026-09-17,Frontend Category,4730,4736,100.1%,,
+Brazil,Diego,2026-09-17,T3 - Weight&Volumes,2906,2906,100.0%,,
+Brazil,Elisa,2026-09-17,Frontend Category,8401,8507,101.3%,,
+Brazil,Felipe,2026-09-17,T2 - Image Optimisation,170,166,97.6%,71,80
+Brazil,Felipe,2026-09-17,T1 - Categorization (Front End),947,945,99.8%,,
+Brazil,Gabriela,2026-09-17,Frontend Category,5923,5733,96.8%,,
+Brazil,Isabela,2026-09-17,Special Tag,9479,7878,83.1%,,
+Brazil,João,2026-09-17,T4 - CPG Brand,900,900,100.0%,,
+Brazil,Larissa,2026-09-17,T2 - Image Optimisation,171,191,111.7%,103,71
+Brazil,Larissa,2026-09-17,Frontend Category,3579,3435,96.0%,,
+Brazil,Marcos,2026-09-17,Frontend Category,2264,2452,108.3%,,
+Brazil,Marcos,2026-09-17,Backend Category,2711,2736,100.9%,,
+China,Li Wei,2026-09-17,T1 - Categorization (Front End),728,641,88.0%,,
+China,Li Wei,2026-09-17,T2 - Image Optimisation,234,210,89.7%,57,140
+China,Zhang Min,2026-09-17,T2 - Image Optimisation,471,561,119.1%,199,333
+China,Wang Fang,2026-09-17,T2 - Image Optimisation,480,470,97.9%,223,232
+China,Chen Jie,2026-09-17,T2 - Image Optimisation,502,376,74.9%,117,222
+Brazil,Ana,2026-09-18,Backend Category,4549,4757,104.6%,,
+Brazil,Bruno,2026-09-18,T1 - Categorization (Front End),467,415,88.9%,,
+Brazil,Bruno,2026-09-18,Frontend Category,3461,3037,87.7%,,
+Brazil,Carla,2026-09-18,Backend Category,3939,3847,97.7%,,
+Brazil,Carla,2026-09-18,Frontend Category,5045,4397,87.2%,,
+Brazil,Diego,2026-09-18,T3 - Weight&Volumes,2924,2924,100.0%,,
+Brazil,Elisa,2026-09-18,Frontend Category,7977,7907,99.1%,,
+Brazil,Felipe,2026-09-18,T2 - Image Optimisation,215,252,117.2%,48,198
+Brazil,Felipe,2026-09-18,T1 - Categorization (Front End),370,413,111.6%,,
+Brazil,Gabriela,2026-09-18,Frontend Category,8635,6881,79.7%,,
+Brazil,Henrique,2026-09-18,T3 - Weight&Volumes,2555,2555,100.0%,,
+Brazil,Isabela,2026-09-18,Special Tag,12648,10834,85.7%,,
+Brazil,João,2026-09-18,T4 - CPG Brand,967,967,100.0%,,
+Brazil,Larissa,2026-09-18,T2 - Image Optimisation,198,202,102.0%,46,136
+Brazil,Larissa,2026-09-18,Frontend Category,5017,5091,101.5%,,
+Brazil,Marcos,2026-09-18,Frontend Category,4497,4354,96.8%,,
+Brazil,Marcos,2026-09-18,Backend Category,2935,2922,99.6%,,
+China,Li Wei,2026-09-18,T1 - Categorization (Front End),1547,1397,90.3%,,
+China,Li Wei,2026-09-18,T2 - Image Optimisation,226,180,79.6%,54,121
+China,Zhang Min,2026-09-18,T2 - Image Optimisation,462,493,106.7%,83,370
+China,Wang Fang,2026-09-18,T2 - Image Optimisation,450,523,116.2%,221,299
+China,Chen Jie,2026-09-18,T2 - Image Optimisation,371,281,75.7%,48,232
+Brazil,Ana,2026-09-21,Backend Category,6395,6730,105.2%,,
+Brazil,Bruno,2026-09-21,T1 - Categorization (Front End),326,332,101.8%,,
+Brazil,Bruno,2026-09-21,Frontend Category,3842,3331,86.7%,,
+Brazil,Carla,2026-09-21,Backend Category,3465,3281,94.7%,,
+Brazil,Carla,2026-09-21,Frontend Category,4846,4357,89.9%,,
+Brazil,Diego,2026-09-21,T3 - Weight&Volumes,2751,2751,100.0%,,
+Brazil,Elisa,2026-09-21,Backend Category,5149,5356,104.0%,,
+Brazil,Felipe,2026-09-21,T4 - CPG Brand,1141,1141,100.0%,,
+Brazil,Gabriela,2026-09-21,Frontend Category,7791,6865,88.1%,,
+Brazil,Henrique,2026-09-21,T3 - Weight&Volumes,2316,2316,100.0%,,
+Brazil,Isabela,2026-09-21,T3 - Weight&Volumes,2062,2062,100.0%,,
+Brazil,Larissa,2026-09-21,T3 - Weight&Volumes,3228,3228,100.0%,,
+Brazil,Marcos,2026-09-21,Frontend Category,0,2958,,,
+Brazil,Marcos,2026-09-21,Backend Category,3556,3216,90.4%,,
+China,Li Wei,2026-09-21,T1 - Categorization (Front End),2214,2392,108.0%,,
+China,Zhang Min,2026-09-21,T2 - Image Optimisation,347,356,102.6%,144,177
+China,Wang Fang,2026-09-21,T2 - Image Optimisation,450,405,90.0%,125,264
+China,Chen Jie,2026-09-21,T2 - Image Optimisation,520,453,87.1%,100,350
+Brazil,Ana,2026-09-22,Backend Category,7007,6507,92.9%,,
+Brazil,Bruno,2026-09-22,T1 - Categorization (Front End),1109,990,89.3%,,
+Brazil,Bruno,2026-09-22,Frontend Category,4434,4557,102.8%,,
+Brazil,Carla,2026-09-22,Backend Category,2568,2218,86.4%,,
+Brazil,Carla,2026-09-22,Frontend Category,3230,3141,97.2%,,
+Brazil,Diego,2026-09-22,T3 - Weight&Volumes,2666,2666,100.0%,,
+Brazil,Elisa,2026-09-22,Backend Category,6594,7272,110.3%,,
+Brazil,Felipe,2026-09-22,T4 - CPG Brand,841,841,100.0%,,
+Brazil,Gabriela,2026-09-22,Frontend Category,7461,6199,83.1%,,
+Brazil,Isabela,2026-09-22,T3 - Weight&Volumes,2785,2785,100.0%,,
+Brazil,João,2026-09-22,T4 - CPG Brand,1709,1709,100.0%,,
+Brazil,Larissa,2026-09-22,T3 - Weight&Volumes,2722,2722,100.0%,,
+Brazil,Marcos,2026-09-22,Frontend Category,4373,4211,96.3%,,
+Brazil,Marcos,2026-09-22,Backend Category,3268,3336,102.1%,,
+China,Zhang Min,2026-09-22,T2 - Image Optimisation,432,384,88.9%,146,209
+China,Wang Fang,2026-09-22,T2 - Image Optimisation,391,405,103.6%,32,372
+China,Chen Jie,2026-09-22,T2 - Image Optimisation,442,437,98.9%,233,195
+Brazil,Ana,2026-09-23,Backend Category,6393,5470,85.6%,,
+Brazil,Bruno,2026-09-23,T1 - Categorization (Front End),1124,1022,90.9%,,
+Brazil,Bruno,2026-09-23,Frontend Category,0,3569,,,
+Brazil,Carla,2026-09-23,Backend Category,2689,2456,91.3%,,
+Brazil,Carla,2026-09-23,Frontend Category,4416,4383,99.3%,,
+Brazil,Diego,2026-09-23,T3 - Weight&Volumes,2440,2440,100.0%,,
+Brazil,Elisa,2026-09-23,Backend Category,4201,4253,101.2%,,
+Brazil,Felipe,2026-09-23,T4 - CPG Brand,1287,1287,100.0%,,
+Brazil,Gabriela,2026-09-23,Frontend Category,6599,5970,90.5%,,
+Brazil,Henrique,2026-09-23,T3 - Weight&Volumes,2765,2765,100.0%,,
+Brazil,Isabela,2026-09-23,T3 - Weight&Volumes,2668,2668,100.0%,,
+Brazil,João,2026-09-23,T4 - CPG Brand,1124,1124,100.0%,,
+Brazil,Larissa,2026-09-23,T3 - Weight&Volumes,2403,2403,100.0%,,
+Brazil,Marcos,2026-09-23,Frontend Category,3516,2826,80.4%,,
+Brazil,Marcos,2026-09-23,Backend Category,3443,3180,92.4%,,
+China,Li Wei,2026-09-23,T1 - Categorization (Front End),1521,1427,93.8%,,
+China,Zhang Min,2026-09-23,T2 - Image Optimisation,490,485,99.0%,175,289
+China,Wang Fang,2026-09-23,T2 - Image Optimisation,463,425,91.8%,147,253
+China,Chen Jie,2026-09-23,T2 - Image Optimisation,379,279,73.6%,51,200
+Brazil,Ana,2026-09-24,Backend Category,5299,5386,101.6%,,
+Brazil,Carla,2026-09-24,Backend Category,2250,1824,81.1%,,
+Brazil,Carla,2026-09-24,Frontend Category,5107,4430,86.7%,,
+Brazil,Diego,2026-09-24,T3 - Weight&Volumes,2668,2668,100.0%,,
+Brazil,Elisa,2026-09-24,Backend Category,6202,6102,98.4%,,
+Brazil,Felipe,2026-09-24,T4 - CPG Brand,1178,1178,100.0%,,
+Brazil,Gabriela,2026-09-24,Frontend Category,0,8886,,,
+Brazil,Henrique,2026-09-24,T3 - Weight&Volumes,2530,2530,100.0%,,
+Brazil,Isabela,2026-09-24,T3 - Weight&Volumes,2136,2136,100.0%,,
+Brazil,João,2026-09-24,T4 - CPG Brand,1405,1405,100.0%,,
+Brazil,Larissa,2026-09-24,T3 - Weight&Volumes,2321,2321,100.0%,,
+Brazil,Marcos,2026-09-24,Frontend Category,5298,5425,102.4%,,
+Brazil,Marcos,2026-09-24,Backend Category,2862,2867,100.2%,,
+China,Li Wei,2026-09-24,T1 - Categorization (Front End),1997,1826,91.4%,,
+China,Wang Fang,2026-09-24,T2 - Image Optimisation,363,371,102.2%,218,147
+China,Chen Jie,2026-09-24,T2 - Image Optimisation,488,463,94.9%,142,316
+Brazil,Ana,2026-09-25,Backend Category,6187,5976,96.6%,,
+Brazil,Bruno,2026-09-25,T1 - Categorization (Front End),906,755,83.3%,,
+Brazil,Bruno,2026-09-25,Frontend Category,5355,4992,93.2%,,
+Brazil,Carla,2026-09-25,Backend Category,3160,2466,78.0%,,
+Brazil,Carla,2026-09-25,Frontend Category,4443,4311,97.0%,,
+Brazil,Elisa,2026-09-25,Backend Category,3041,3057,100.5%,,
+Brazil,Felipe,2026-09-25,T4 - CPG Brand,622,622,100.0%,,
+Brazil,Gabriela,2026-09-25,Frontend Category,0,7304,,,
+Brazil,Henrique,2026-09-25,T3 - Weight&Volumes,2276,2276,100.0%,,
+Brazil,Isabela,2026-09-25,T3 - Weight&Volumes,2422,2422,100.0%,,
+Brazil,João,2026-09-25,T4 - CPG Brand,1458,1458,100.0%,,
+Brazil,Larissa,2026-09-25,T3 - Weight&Volumes,2780,2780,100.0%,,
+Brazil,Marcos,2026-09-25,Frontend Category,3590,3323,92.6%,,
+Brazil,Marcos,2026-09-25,Backend Category,2578,2530,98.1%,,
+China,Li Wei,2026-09-25,T1 - Categorization (Front End),1172,897,76.5%,,
+China,Zhang Min,2026-09-25,T2 - Image Optimisation,278,287,103.2%,75,210
+China,Wang Fang,2026-09-25,T2 - Image Optimisation,439,353,80.4%,146,177
+China,Chen Jie,2026-09-25,T2 - Image Optimisation,390,330,84.6%,129,184
+Brazil,Ana,2026-09-28,T4 - CPG Brand,664,664,100.0%,,
+Brazil,Ana,2026-09-28,T3 - Weight&Volumes,716,716,100.0%,,
+Brazil,Bruno,2026-09-28,T1 - Categorization (Front End),435,412,94.7%,,
+Brazil,Bruno,2026-09-28,Frontend Category,5322,5196,97.6%,,
+Brazil,Carla,2026-09-28,Backend Category,2659,1615,60.7%,,
+Brazil,Carla,2026-09-28,Frontend Category,4204,4297,102.2%,,
+Brazil,Diego,2026-09-28,T3 - Weight&Volumes,1989,1989,100.0%,,
+Brazil,Elisa,2026-09-28,Frontend Category,5723,5819,101.7%,,
+Brazil,Elisa,2026-09-28,Backend Category,3653,3667,100.4%,,
+Brazil,Felipe,2026-09-28,Special Tag,10261,8693,84.7%,,
+Brazil,Gabriela,2026-09-28,Frontend Category,8743,7461,85.3%,,
+Brazil,Henrique,2026-09-28,T3 - Weight&Volumes,2484,2484,100.0%,,
+Brazil,Isabela,2026-09-28,T3 - Weight&Volumes,2363,2363,100.0%,,
+Brazil,João,2026-09-28,T4 - CPG Brand,959,959,100.0%,,
+Brazil,Larissa,2026-09-28,Special Tag,10774,11361,105.4%,,
+Brazil,Marcos,2026-09-28,Backend Category,6553,6337,96.7%,,
+China,Li Wei,2026-09-28,T1 - Categorization (Front End),1067,914,85.7%,,
+China,Zhang Min,2026-09-28,T2 - Image Optimisation,217,213,98.2%,46,147
+China,Zhang Min,2026-09-28,T1 - Categorization (Front End),713,742,104.1%,,
+China,Wang Fang,2026-09-28,T2 - Image Optimisation,532,562,105.6%,44,516
+China,Chen Jie,2026-09-28,T2 - Image Optimisation,162,132,81.5%,43,85
+China,Chen Jie,2026-09-28,T1 - Categorization (Front End),937,908,96.9%,,
+Brazil,Ana,2026-09-29,T4 - CPG Brand,770,770,100.0%,,
+Brazil,Ana,2026-09-29,T3 - Weight&Volumes,1138,1138,100.0%,,
+Brazil,Bruno,2026-09-29,T1 - Categorization (Front End),1022,993,97.2%,,
+Brazil,Bruno,2026-09-29,Frontend Category,3330,2830,85.0%,,
+Brazil,Carla,2026-09-29,Backend Category,2781,2478,89.1%,,
+Brazil,Carla,2026-09-29,Frontend Category,4658,4761,102.2%,,
+Brazil,Diego,2026-09-29,T3 - Weight&Volumes,3154,3154,100.0%,,
+Brazil,Elisa,2026-09-29,Frontend Category,5656,4889,86.4%,,
+Brazil,Elisa,2026-09-29,Backend Category,2844,2972,104.5%,,
+Brazil,Felipe,2026-09-29,Special Tag,10401,9108,87.6%,,
+Brazil,Gabriela,2026-09-29,Frontend Category,10583,9522,90.0%,,
+Brazil,Henrique,2026-09-29,T3 - Weight&Volumes,2567,2567,100.0%,,
+Brazil,Isabela,2026-09-29,T3 - Weight&Volumes,2442,2442,100.0%,,
+Brazil,João,2026-09-29,T4 - CPG Brand,1261,1261,100.0%,,
+Brazil,Larissa,2026-09-29,Special Tag,9029,10378,114.9%,,
+Brazil,Marcos,2026-09-29,Backend Category,6819,5041,73.9%,,
+China,Li Wei,2026-09-29,T1 - Categorization (Front End),1199,1032,86.1%,,
+China,Zhang Min,2026-09-29,T2 - Image Optimisation,188,214,113.8%,58,145
+China,Zhang Min,2026-09-29,T1 - Categorization (Front End),410,378,92.2%,,
+China,Wang Fang,2026-09-29,T2 - Image Optimisation,469,524,111.7%,245,270
+China,Chen Jie,2026-09-29,T2 - Image Optimisation,258,243,94.2%,61,170
+China,Chen Jie,2026-09-29,T1 - Categorization (Front End),1011,905,89.5%,,
+Brazil,Ana,2026-09-30,T4 - CPG Brand,585,585,100.0%,,
+Brazil,Ana,2026-09-30,T3 - Weight&Volumes,1092,1092,100.0%,,
+Brazil,Bruno,2026-09-30,T1 - Categorization (Front End),902,596,66.1%,,
+Brazil,Bruno,2026-09-30,Frontend Category,4132,4035,97.7%,,
+Brazil,Carla,2026-09-30,Backend Category,3164,2582,81.6%,,
+Brazil,Carla,2026-09-30,Frontend Category,2564,2632,102.7%,,
+Brazil,Diego,2026-09-30,T3 - Weight&Volumes,2830,2830,100.0%,,
+Brazil,Elisa,2026-09-30,Frontend Category,2741,3017,110.1%,,
+Brazil,Elisa,2026-09-30,Backend Category,2829,2990,105.7%,,
+Brazil,Gabriela,2026-09-30,Frontend Category,4816,5084,105.6%,,
+Brazil,Henrique,2026-09-30,T3 - Weight&Volumes,2542,2542,100.0%,,
+Brazil,Isabela,2026-09-30,T3 - Weight&Volumes,2339,2339,100.0%,,
+Brazil,Larissa,2026-09-30,Special Tag,11068,10944,98.9%,,
+Brazil,Marcos,2026-09-30,Backend Category,6532,6641,101.7%,,
+China,Li Wei,2026-09-30,T1 - Categorization (Front End),989,876,88.6%,,
+China,Zhang Min,2026-09-30,T2 - Image Optimisation,152,155,102.0%,57,89
+China,Zhang Min,2026-09-30,T1 - Categorization (Front End),486,398,81.9%,,
+China,Wang Fang,2026-09-30,T2 - Image Optimisation,437,425,97.3%,108,284
+China,Chen Jie,2026-09-30,T2 - Image Optimisation,126,104,82.5%,35,67
+China,Chen Jie,2026-09-30,T1 - Categorization (Front End),397,336,84.6%,,
+Brazil,Ana,2026-10-01,T4 - CPG Brand,502,502,100.0%,,
+Brazil,Ana,2026-10-01,T3 - Weight&Volumes,1178,1178,100.0%,,
+Brazil,Bruno,2026-10-01,T1 - Categorization (Front End),832,664,79.8%,,
+Brazil,Bruno,2026-10-01,Frontend Category,3332,3012,90.4%,,
+Brazil,Carla,2026-10-01,Backend Category,2889,2882,99.8%,,
+Brazil,Carla,2026-10-01,Frontend Category,5206,5962,114.5%,,
+Brazil,Diego,2026-10-01,T3 - Weight&Volumes,2562,2562,100.0%,,
+Brazil,Elisa,2026-10-01,Frontend Category,4618,4157,90.0%,,
+Brazil,Elisa,2026-10-01,Backend Category,0,2640,,,
+Brazil,Felipe,2026-10-01,Special Tag,12120,10674,88.1%,,
+Brazil,Gabriela,2026-10-01,Frontend Category,7524,7030,93.4%,,
+Brazil,Henrique,2026-10-01,T3 - Weight&Volumes,2582,2582,100.0%,,
+Brazil,Isabela,2026-10-01,T3 - Weight&Volumes,2645,2645,100.0%,,
+Brazil,João,2026-10-01,T4 - CPG Brand,1110,1110,100.0%,,
+Brazil,Larissa,2026-10-01,Special Tag,11916,12107,101.6%,,
+China,Li Wei,2026-10-01,T1 - Categorization (Front End),1946,1695,87.1%,,
+China,Zhang Min,2026-10-01,T2 - Image Optimisation,213,221,103.8%,91,124
+China,Zhang Min,2026-10-01,T1 - Categorization (Front End),550,508,92.4%,,
+China,Wang Fang,2026-10-01,T2 - Image Optimisation,415,428,103.1%,104,298
+China,Chen Jie,2026-10-01,T2 - Image Optimisation,219,187,85.4%,124,56
+China,Chen Jie,2026-10-01,T1 - Categorization (Front End),910,980,107.7%,,
+Brazil,Ana,2026-10-02,T4 - CPG Brand,556,556,100.0%,,
+Brazil,Ana,2026-10-02,T3 - Weight&Volumes,1284,1284,100.0%,,
+Brazil,Bruno,2026-10-02,T1 - Categorization (Front End),1164,1253,107.6%,,
+Brazil,Bruno,2026-10-02,Frontend Category,5303,4974,93.8%,,
+Brazil,Carla,2026-10-02,Backend Category,0,2747,,,
+Brazil,Carla,2026-10-02,Frontend Category,2624,2725,103.8%,,
+Brazil,Diego,2026-10-02,T3 - Weight&Volumes,3198,3198,100.0%,,
+Brazil,Elisa,2026-10-02,Frontend Category,4005,3997,99.8%,,
+Brazil,Elisa,2026-10-02,Backend Category,2669,2571,96.3%,,
+Brazil,Felipe,2026-10-02,Special Tag,0,6924,,,
+Brazil,Gabriela,2026-10-02,Frontend Category,6074,5524,90.9%,,
+Brazil,Henrique,2026-10-02,T3 - Weight&Volumes,2614,2614,100.0%,,
+Brazil,Isabela,2026-10-02,T3 - Weight&Volumes,2125,2125,100.0%,,
+Brazil,João,2026-10-02,T4 - CPG Brand,1342,1342,100.0%,,
+Brazil,Larissa,2026-10-02,Special Tag,9241,8852,95.8%,,
+Brazil,Marcos,2026-10-02,Backend Category,5425,5331,98.3%,,
+China,Li Wei,2026-10-02,T1 - Categorization (Front End),0,846,,,
+China,Zhang Min,2026-10-02,T2 - Image Optimisation,198,197,99.5%,99,86
+China,Zhang Min,2026-10-02,T1 - Categorization (Front End),596,556,93.3%,,
+China,Wang Fang,2026-10-02,T2 - Image Optimisation,302,300,99.3%,96,174
+China,Chen Jie,2026-10-02,T2 - Image Optimisation,178,137,77.0%,61,67
+China,Chen Jie,2026-10-02,T1 - Categorization (Front End),294,290,98.6%,,
+Brazil,Ana,2026-10-05,T4 - CPG Brand,408,408,100.0%,,
+Brazil,Ana,2026-10-05,T3 - Weight&Volumes,1399,1399,100.0%,,
+Brazil,Carla,2026-10-05,Backend Category,2830,2700,95.4%,,
+Brazil,Carla,2026-10-05,Frontend Category,4553,4525,99.4%,,
+Brazil,Diego,2026-10-05,T3 - Weight&Volumes,2285,2285,100.0%,,
+Brazil,Elisa,2026-10-05,Frontend Category,3862,3490,90.4%,,
+Brazil,Elisa,2026-10-05,Backend Category,3173,3054,96.2%,,
+Brazil,Felipe,2026-10-05,Special Tag,7216,5994,83.1%,,
+Brazil,Gabriela,2026-10-05,Frontend Category,8720,7803,89.5%,,
+Brazil,Henrique,2026-10-05,T3 - Weight&Volumes,2550,2550,100.0%,,
+Brazil,João,2026-10-05,Frontend Category,9807,6718,68.5%,,
+Brazil,Larissa,2026-10-05,Special Tag,11345,12519,110.3%,,
+Brazil,Marcos,2026-10-05,Backend Category,5680,5347,94.1%,,
+China,Li Wei,2026-10-05,T2 - Image Optimisation,398,335,84.2%,143,187
+China,Zhang Min,2026-10-05,T1 - Categorization (Front End),1100,1041,94.6%,,
+China,Zhang Min,2026-10-05,T2 - Image Optimisation,0,248,,83,159
+China,Wang Fang,2026-10-05,T1 - Categorization (Front End),932,1033,110.8%,,
+China,Wang Fang,2026-10-05,T2 - Image Optimisation,151,153,101.3%,62,84
+China,Chen Jie,2026-10-05,T2 - Image Optimisation,185,165,89.2%,76,87
+China,Chen Jie,2026-10-05,T1 - Categorization (Front End),729,715,98.1%,,
+Brazil,Ana,2026-10-06,T4 - CPG Brand,556,556,100.0%,,
+Brazil,Ana,2026-10-06,T3 - Weight&Volumes,1443,1443,100.0%,,
+Brazil,Bruno,2026-10-06,T1 - Categorization (Front End),1062,956,90.0%,,
+Brazil,Bruno,2026-10-06,Frontend Category,4084,3514,86.0%,,
+Brazil,Carla,2026-10-06,Backend Category,3321,2946,88.7%,,
+Brazil,Carla,2026-10-06,Frontend Category,2979,2750,92.3%,,
+Brazil,Diego,2026-10-06,T3 - Weight&Volumes,2570,2570,100.0%,,
+Brazil,Elisa,2026-10-06,Frontend Category,0,2871,,,
+Brazil,Elisa,2026-10-06,Backend Category,2470,2528,102.3%,,
+Brazil,Gabriela,2026-10-06,Frontend Category,5600,4444,79.4%,,
+Brazil,Henrique,2026-10-06,T3 - Weight&Volumes,2219,2219,100.0%,,
+Brazil,Isabela,2026-10-06,Backend Category,5958,5911,99.2%,,
+Brazil,Larissa,2026-10-06,Special Tag,11001,9997,90.9%,,
+Brazil,Marcos,2026-10-06,Backend Category,5904,5442,92.2%,,
+China,Li Wei,2026-10-06,T2 - Image Optimisation,391,330,84.4%,220,94
+China,Zhang Min,2026-10-06,T1 - Categorization (Front End),1058,1078,101.9%,,
+China,Zhang Min,2026-10-06,T2 - Image Optimisation,190,188,98.9%,99,73
+China,Wang Fang,2026-10-06,T1 - Categorization (Front End),826,754,91.3%,,
+China,Wang Fang,2026-10-06,T2 - Image Optimisation,206,197,95.6%,27,161
+China,Chen Jie,2026-10-06,T2 - Image Optimisation,191,181,94.8%,99,72
+China,Chen Jie,2026-10-06,T1 - Categorization (Front End),359,321,89.4%,,
+Brazil,Ana,2026-10-07,T4 - CPG Brand,452,452,100.0%,,
+Brazil,Ana,2026-10-07,T3 - Weight&Volumes,1289,1289,100.0%,,
+Brazil,Bruno,2026-10-07,T1 - Categorization (Front End),1290,1164,90.2%,,
+Brazil,Bruno,2026-10-07,Frontend Category,3318,3169,95.5%,,
+Brazil,Diego,2026-10-07,T3 - Weight&Volumes,2469,2469,100.0%,,
+Brazil,Elisa,2026-10-07,Frontend Category,4505,4612,102.4%,,
+Brazil,Elisa,2026-10-07,Backend Category,3322,3307,99.5%,,
+Brazil,Felipe,2026-10-07,Special Tag,9701,8955,92.3%,,
+Brazil,Gabriela,2026-10-07,Frontend Category,8648,7169,82.9%,,
+Brazil,Henrique,2026-10-07,T3 - Weight&Volumes,2489,2489,100.0%,,
+Brazil,Isabela,2026-10-07,Backend Category,6368,5613,88.1%,,
+Brazil,João,2026-10-07,Frontend Category,5421,4292,79.2%,,
+Brazil,Larissa,2026-10-07,Special Tag,10522,9294,88.3%,,
+Brazil,Marcos,2026-10-07,Backend Category,5758,5501,95.5%,,
+China,Li Wei,2026-10-07,T2 - Image Optimisation,370,346,93.5%,172,163
+China,Zhang Min,2026-10-07,T1 - Categorization (Front End),450,459,102.0%,,
+China,Zhang Min,2026-10-07,T2 - Image Optimisation,203,181,89.2%,61,106
+China,Wang Fang,2026-10-07,T1 - Categorization (Front End),1090,1200,110.1%,,
+China,Wang Fang,2026-10-07,T2 - Image Optimisation,225,199,88.4%,74,120
+China,Chen Jie,2026-10-07,T2 - Image Optimisation,186,157,84.4%,79,68
+China,Chen Jie,2026-10-07,T1 - Categorization (Front End),506,521,103.0%,,
+Brazil,Ana,2026-10-08,T4 - CPG Brand,778,778,100.0%,,
+Brazil,Ana,2026-10-08,T3 - Weight&Volumes,877,877,100.0%,,
+Brazil,Bruno,2026-10-08,T1 - Categorization (Front End),991,777,78.4%,,
+Brazil,Bruno,2026-10-08,Frontend Category,2988,2976,99.6%,,
+Brazil,Carla,2026-10-08,Backend Category,3818,3350,87.7%,,
+Brazil,Carla,2026-10-08,Frontend Category,4773,5204,109.0%,,
+Brazil,Diego,2026-10-08,T3 - Weight&Volumes,2981,2981,100.0%,,
+Brazil,Elisa,2026-10-08,Frontend Category,4006,3563,88.9%,,
+Brazil,Elisa,2026-10-08,Backend Category,3014,3189,105.8%,,
+Brazil,Felipe,2026-10-08,Special Tag,7970,7124,89.4%,,
+Brazil,Gabriela,2026-10-08,Frontend Category,7951,7123,89.6%,,
+Brazil,Henrique,2026-10-08,T3 - Weight&Volumes,3073,3073,100.0%,,
+Brazil,Isabela,2026-10-08,Backend Category,6790,6411,94.4%,,
+Brazil,João,2026-10-08,Frontend Category,7825,7209,92.1%,,
+Brazil,Larissa,2026-10-08,Special Tag,11281,11248,99.7%,,
+Brazil,Marcos,2026-10-08,Backend Category,5459,5429,99.5%,,
+China,Li Wei,2026-10-08,T2 - Image Optimisation,367,358,97.5%,75,266
+China,Zhang Min,2026-10-08,T1 - Categorization (Front End),935,849,90.8%,,
+China,Zhang Min,2026-10-08,T2 - Image Optimisation,272,271,99.6%,97,164
+China,Wang Fang,2026-10-08,T1 - Categorization (Front End),845,906,107.2%,,
+China,Wang Fang,2026-10-08,T2 - Image Optimisation,183,188,102.7%,83,97
+China,Chen Jie,2026-10-08,T2 - Image Optimisation,145,131,90.3%,73,50
+China,Chen Jie,2026-10-08,T1 - Categorization (Front End),1247,1123,90.1%,,
+Brazil,Ana,2026-10-09,T4 - CPG Brand,666,666,100.0%,,
+Brazil,Ana,2026-10-09,T3 - Weight&Volumes,1330,1330,100.0%,,
+Brazil,Bruno,2026-10-09,T1 - Categorization (Front End),935,811,86.7%,,
+Brazil,Bruno,2026-10-09,Frontend Category,3119,2857,91.6%,,
+Brazil,Carla,2026-10-09,Backend Category,3226,2809,87.1%,,
+Brazil,Carla,2026-10-09,Frontend Category,2855,2618,91.7%,,
+Brazil,Elisa,2026-10-09,Frontend Category,3495,3705,106.0%,,
+Brazil,Elisa,2026-10-09,Backend Category,2981,3352,112.4%,,
+Brazil,Felipe,2026-10-09,Special Tag,8652,7750,89.6%,,
+Brazil,Gabriela,2026-10-09,Frontend Category,7827,6112,78.1%,,
+Brazil,Henrique,2026-10-09,T3 - Weight&Volumes,3174,3174,100.0%,,
+Brazil,Isabela,2026-10-09,Backend Category,6568,7098,108.1%,,
+Brazil,João,2026-10-09,Frontend Category,7721,6597,85.4%,,
+Brazil,Larissa,2026-10-09,Special Tag,8976,9517,106.0%,,
+Brazil,Marcos,2026-10-09,Backend Category,0,5193,,,
+China,Li Wei,2026-10-09,T2 - Image Optimisation,450,385,85.6%,171,204
+China,Zhang Min,2026-10-09,T1 - Categorization (Front End),1164,1183,101.6%,,
+China,Zhang Min,2026-10-09,T2 - Image Optimisation,258,271,105.0%,53,195
+China,Wang Fang,2026-10-09,T1 - Categorization (Front End),812,880,108.4%,,
+China,Wang Fang,2026-10-09,T2 - Image Optimisation,180,185,102.8%,27,150
+China,Chen Jie,2026-10-09,T2 - Image Optimisation,218,173,79.4%,52,111
+China,Chen Jie,2026-10-09,T1 - Categorization (Front End),1048,1031,98.4%,,
+Brazil,Ana,2026-10-12,Special Tag,9190,10347,112.6%,,
+Brazil,Bruno,2026-10-12,T1 - Categorization (Front End),1360,1086,79.9%,,
+Brazil,Bruno,2026-10-12,Frontend Category,4404,4068,92.4%,,
+Brazil,Carla,2026-10-12,Backend Category,3052,3120,102.2%,,
+Brazil,Carla,2026-10-12,Frontend Category,3567,3416,95.8%,,
+Brazil,Diego,2026-10-12,T3 - Weight&Volumes,2571,2571,100.0%,,
+Brazil,Elisa,2026-10-12,T3 - Weight&Volumes,2842,2842,100.0%,,
+Brazil,Felipe,2026-10-12,Special Tag,8993,8507,94.6%,,
+Brazil,Gabriela,2026-10-12,Frontend Category,10069,9392,93.3%,,
+Brazil,Henrique,2026-10-12,T3 - Weight&Volumes,2685,2685,100.0%,,
+Brazil,Isabela,2026-10-12,Backend Category,5366,4900,91.3%,,
+Brazil,João,2026-10-12,Frontend Category,10205,8931,87.5%,,
+Brazil,Larissa,2026-10-12,Special Tag,14890,15365,103.2%,,
+Brazil,Marcos,2026-10-12,Backend Category,6134,5768,94.0%,,
+China,Li Wei,2026-10-12,T1 - Categorization (Front End),1978,1769,89.4%,,
+China,Zhang Min,2026-10-12,T1 - Categorization (Front End),0,161,,,
+China,Zhang Min,2026-10-12,T2 - Image Optimisation,172,169,98.3%,52,111
+China,Wang Fang,2026-10-12,T1 - Categorization (Front End),1224,1295,105.8%,,
+China,Wang Fang,2026-10-12,T2 - Image Optimisation,200,238,119.0%,92,122
+China,Chen Jie,2026-10-12,T1 - Categorization (Front End),1816,1850,101.9%,,
+Brazil,Ana,2026-10-13,Special Tag,6394,6314,98.7%,,
+Brazil,Bruno,2026-10-13,T1 - Categorization (Front End),984,881,89.5%,,
+Brazil,Bruno,2026-10-13,Frontend Category,4474,4423,98.9%,,
+Brazil,Carla,2026-10-13,Backend Category,2924,2627,89.8%,,
+Brazil,Carla,2026-10-13,Frontend Category,4674,4382,93.8%,,
+Brazil,Diego,2026-10-13,T3 - Weight&Volumes,2713,2713,100.0%,,
+Brazil,Elisa,2026-10-13,T3 - Weight&Volumes,2330,2330,100.0%,,
+Brazil,Felipe,2026-10-13,Special Tag,8447,7043,83.4%,,
+Brazil,Gabriela,2026-10-13,Frontend Category,9922,6352,64.0%,,
+Brazil,Henrique,2026-10-13,T3 - Weight&Volumes,2293,2293,100.0%,,
+Brazil,Isabela,2026-10-13,Backend Category,7047,6677,94.7%,,
+Brazil,João,2026-10-13,Frontend Category,6241,4200,67.3%,,
+Brazil,Larissa,2026-10-13,Special Tag,7261,6533,90.0%,,
+Brazil,Marcos,2026-10-13,Backend Category,5281,5140,97.3%,,
+China,Li Wei,2026-10-13,T1 - Categorization (Front End),1059,1068,100.8%,,
+China,Zhang Min,2026-10-13,T1 - Categorization (Front End),1154,1117,96.8%,,
+China,Zhang Min,2026-10-13,T2 - Image Optimisation,220,211,95.9%,77,114
+China,Wang Fang,2026-10-13,T1 - Categorization (Front End),413,440,106.5%,,
+China,Wang Fang,2026-10-13,T2 - Image Optimisation,0,239,,68,169
+China,Chen Jie,2026-10-13,T1 - Categorization (Front End),1531,1580,103.2%,,
+Brazil,Ana,2026-10-14,Special Tag,4535,4497,99.2%,,
+Brazil,Bruno,2026-10-14,T1 - Categorization (Front End),1570,1410,89.8%,,
+Brazil,Bruno,2026-10-14,Frontend Category,4045,4249,105.0%,,
+Brazil,Carla,2026-10-14,Backend Category,3006,2955,98.3%,,
+Brazil,Carla,2026-10-14,Frontend Category,3427,3277,95.6%,,
+Brazil,Diego,2026-10-14,T3 - Weight&Volumes,3105,3105,100.0%,,
+Brazil,Elisa,2026-10-14,T3 - Weight&Volumes,2522,2522,100.0%,,
+Brazil,Felipe,2026-10-14,Special Tag,9266,7739,83.5%,,
+Brazil,Gabriela,2026-10-14,Frontend Category,5636,4481,79.5%,,
+Brazil,Henrique,2026-10-14,T3 - Weight&Volumes,2925,2925,100.0%,,
+Brazil,Isabela,2026-10-14,Backend Category,6606,6452,97.7%,,
+Brazil,João,2026-10-14,Frontend Category,8934,6772,75.8%,,
+Brazil,Larissa,2026-10-14,Special Tag,10907,13225,121.3%,,
+Brazil,Marcos,2026-10-14,Backend Category,7033,6165,87.7%,,
+China,Li Wei,2026-10-14,T1 - Categorization (Front End),2099,2082,99.2%,,
+China,Wang Fang,2026-10-14,T1 - Categorization (Front End),336,351,104.5%,,
+China,Wang Fang,2026-10-14,T2 - Image Optimisation,132,143,108.3%,74,58
+China,Chen Jie,2026-10-14,T1 - Categorization (Front End),1149,1146,99.7%,,
+Brazil,Ana,2026-10-15,Special Tag,11471,12489,108.9%,,
+Brazil,Bruno,2026-10-15,T1 - Categorization (Front End),1311,1157,88.3%,,
+Brazil,Bruno,2026-10-15,Frontend Category,2292,2202,96.1%,,
+Brazil,Carla,2026-10-15,Backend Category,2675,2481,92.7%,,
+Brazil,Carla,2026-10-15,Frontend Category,0,3220,,,
+Brazil,Diego,2026-10-15,T3 - Weight&Volumes,2209,2209,100.0%,,
+Brazil,Elisa,2026-10-15,T3 - Weight&Volumes,2756,2756,100.0%,,
+Brazil,Felipe,2026-10-15,Special Tag,9853,10296,104.5%,,
+Brazil,Gabriela,2026-10-15,Frontend Category,5714,5067,88.7%,,
+Brazil,Henrique,2026-10-15,T3 - Weight&Volumes,2938,2938,100.0%,,
+Brazil,Isabela,2026-10-15,Backend Category,0,5520,,,
+Brazil,João,2026-10-15,Frontend Category,6046,5004,82.8%,,
+Brazil,Larissa,2026-10-15,Special Tag,8767,8957,102.2%,,
+Brazil,Marcos,2026-10-15,Backend Category,7085,7808,110.2%,,
+China,Li Wei,2026-10-15,T1 - Categorization (Front End),1893,1603,84.7%,,
+China,Zhang Min,2026-10-15,T1 - Categorization (Front End),1178,1183,100.4%,,
+China,Zhang Min,2026-10-15,T2 - Image Optimisation,229,229,100.0%,105,123
+China,Wang Fang,2026-10-15,T1 - Categorization (Front End),677,731,108.0%,,
+China,Wang Fang,2026-10-15,T2 - Image Optimisation,234,216,92.3%,48,153
+China,Chen Jie,2026-10-15,T1 - Categorization (Front End),884,926,104.8%,,
+Brazil,Ana,2026-10-16,Special Tag,9142,9346,102.2%,,
+Brazil,Bruno,2026-10-16,T1 - Categorization (Front End),882,670,76.0%,,
+Brazil,Bruno,2026-10-16,Frontend Category,3829,3783,98.8%,,
+Brazil,Carla,2026-10-16,Backend Category,3340,3146,94.2%,,
+Brazil,Carla,2026-10-16,Frontend Category,5662,5808,102.6%,,
+Brazil,Elisa,2026-10-16,T3 - Weight&Volumes,2323,2323,100.0%,,
+Brazil,Felipe,2026-10-16,Special Tag,9746,10140,104.0%,,
+Brazil,Gabriela,2026-10-16,Frontend Category,5856,4477,76.5%,,
+Brazil,Henrique,2026-10-16,T3 - Weight&Volumes,2326,2326,100.0%,,
+Brazil,Isabela,2026-10-16,Backend Category,6447,5523,85.7%,,
+Brazil,João,2026-10-16,Frontend Category,8310,7195,86.6%,,
+Brazil,Larissa,2026-10-16,Special Tag,9759,10777,110.4%,,
+China,Li Wei,2026-10-16,T1 - Categorization (Front End),2286,2160,94.5%,,
+China,Zhang Min,2026-10-16,T1 - Categorization (Front End),90,81,90.0%,,
+China,Zhang Min,2026-10-16,T2 - Image Optimisation,212,243,114.6%,87,154
+China,Wang Fang,2026-10-16,T1 - Categorization (Front End),813,856,105.3%,,
+China,Wang Fang,2026-10-16,T2 - Image Optimisation,193,202,104.7%,60,139
+China,Chen Jie,2026-10-16,T1 - Categorization (Front End),733,747,101.9%,,
+Brazil,Ana,2026-10-19,Special Tag,8812,8232,93.4%,,
+Brazil,Bruno,2026-10-19,T1 - Categorization (Front End),552,593,107.4%,,
+Brazil,Bruno,2026-10-19,Frontend Category,3836,3936,102.6%,,
+Brazil,Carla,2026-10-19,Backend Category,3039,2305,75.8%,,
+Brazil,Carla,2026-10-19,Frontend Category,4351,4266,98.0%,,
+Brazil,Diego,2026-10-19,T3 - Weight&Volumes,2419,2419,100.0%,,
+Brazil,Elisa,2026-10-19,Special Tag,4917,4237,86.2%,,
+Brazil,Elisa,2026-10-19,Backend Category,3301,3667,111.1%,,
+Brazil,Felipe,2026-10-19,T2 - Image Optimisation,496,539,108.7%,266,267
+Brazil,Gabriela,2026-10-19,Frontend Category,7865,6925,88.0%,,
+Brazil,Henrique,2026-10-19,T3 - Weight&Volumes,2059,2059,100.0%,,
+Brazil,Isabela,2026-10-19,T3 - Weight&Volumes,2521,2521,100.0%,,
+Brazil,João,2026-10-19,Frontend Category,6947,6229,89.7%,,
+Brazil,Larissa,2026-10-19,Special Tag,10754,10394,96.7%,,
+Brazil,Marcos,2026-10-19,Frontend Category,2580,2272,88.1%,,
+Brazil,Marcos,2026-10-19,T1 - Categorization (Front End),340,298,87.6%,,
+China,Li Wei,2026-10-19,T1 - Categorization (Front End),549,572,104.2%,,
+China,Li Wei,2026-10-19,T2 - Image Optimisation,226,202,89.4%,60,129
+China,Zhang Min,2026-10-19,T1 - Categorization (Front End),238,223,93.7%,,
+China,Zhang Min,2026-10-19,T2 - Image Optimisation,187,200,107.0%,80,112
+China,Wang Fang,2026-10-19,T1 - Categorization (Front End),494,489,99.0%,,
+China,Wang Fang,2026-10-19,T2 - Image Optimisation,204,217,106.4%,51,154
+China,Chen Jie,2026-10-19,T1 - Categorization (Front End),1161,988,85.1%,,
+Brazil,Ana,2026-10-20,Special Tag,7796,9727,124.8%,,
+Brazil,Bruno,2026-10-20,T1 - Categorization (Front End),792,623,78.7%,,
+Brazil,Bruno,2026-10-20,Frontend Category,2830,2702,95.5%,,
+Brazil,Carla,2026-10-20,Backend Category,2625,2601,99.1%,,
+Brazil,Carla,2026-10-20,Frontend Category,3851,3314,86.1%,,
+Brazil,Elisa,2026-10-20,Special Tag,5498,5561,101.1%,,
+Brazil,Elisa,2026-10-20,Backend Category,3584,3668,102.3%,,
+Brazil,Felipe,2026-10-20,T2 - Image Optimisation,348,343,98.6%,192,130
+Brazil,Gabriela,2026-10-20,Frontend Category,7846,6753,86.1%,,
+Brazil,Henrique,2026-10-20,T3 - Weight&Volumes,2313,2313,100.0%,,
+Brazil,Isabela,2026-10-20,T3 - Weight&Volumes,2841,2841,100.0%,,
+Brazil,João,2026-10-20,Frontend Category,9836,9241,94.0%,,
+Brazil,Larissa,2026-10-20,Special Tag,7453,8233,110.5%,,
+Brazil,Marcos,2026-10-20,Frontend Category,4880,4556,93.4%,,
+Brazil,Marcos,2026-10-20,T1 - Categorization (Front End),1469,1573,107.1%,,
+China,Li Wei,2026-10-20,T1 - Categorization (Front End),932,910,97.6%,,
+China,Li Wei,2026-10-20,T2 - Image Optimisation,198,150,75.8%,69,79
+China,Zhang Min,2026-10-20,T1 - Categorization (Front End),1117,1077,96.4%,,
+China,Zhang Min,2026-10-20,T2 - Image Optimisation,243,240,98.8%,126,99
+China,Chen Jie,2026-10-20,T1 - Categorization (Front End),1614,1452,90.0%,,
+Brazil,Ana,2026-10-21,Special Tag,5399,5235,97.0%,,
+Brazil,Bruno,2026-10-21,T1 - Categorization (Front End),317,301,95.0%,,
+Brazil,Bruno,2026-10-21,Frontend Category,3183,2887,90.7%,,
+Brazil,Carla,2026-10-21,Backend Category,2685,1993,74.2%,,
+Brazil,Carla,2026-10-21,Frontend Category,4075,4519,110.9%,,
+Brazil,Diego,2026-10-21,T3 - Weight&Volumes,2556,2556,100.0%,,
+Brazil,Elisa,2026-10-21,Special Tag,4948,3888,78.6%,,
+Brazil,Elisa,2026-10-21,Backend Category,2427,2540,104.7%,,
+Brazil,Felipe,2026-10-21,T2 - Image Optimisation,417,427,102.4%,162,257
+Brazil,Henrique,2026-10-21,T3 - Weight&Volumes,2315,2315,100.0%,,
+Brazil,Isabela,2026-10-21,T3 - Weight&Volumes,2632,2632,100.0%,,
+Brazil,João,2026-10-21,Frontend Category,6393,5330,83.4%,,
+Brazil,Larissa,2026-10-21,Special Tag,6557,7812,119.1%,,
+Brazil,Marcos,2026-10-21,Frontend Category,3657,3476,95.1%,,
+Brazil,Marcos,2026-10-21,T1 - Categorization (Front End),1302,1266,97.2%,,
+China,Li Wei,2026-10-21,T1 - Categorization (Front End),1028,809,78.7%,,
+China,Li Wei,2026-10-21,T2 - Image Optimisation,0,175,,59,104
+China,Zhang Min,2026-10-21,T1 - Categorization (Front End),0,162,,,
+China,Zhang Min,2026-10-21,T2 - Image Optimisation,177,209,118.1%,82,115
+China,Wang Fang,2026-10-21,T1 - Categorization (Front End),397,318,80.1%,,
+China,Wang Fang,2026-10-21,T2 - Image Optimisation,187,179,95.7%,60,102
+China,Chen Jie,2026-10-21,T1 - Categorization (Front End),1836,1885,102.7%,,
+Brazil,Ana,2026-10-22,Special Tag,12618,12515,99.2%,,
+Brazil,Bruno,2026-10-22,T1 - Categorization (Front End),1237,1182,95.6%,,
+Brazil,Bruno,2026-10-22,Frontend Category,3977,4093,102.9%,,
+Brazil,Carla,2026-10-22,Backend Category,3265,2911,89.2%,,
+Brazil,Carla,2026-10-22,Frontend Category,3682,3359,91.2%,,
+Brazil,Diego,2026-10-22,T3 - Weight&Volumes,2963,2963,100.0%,,
+Brazil,Elisa,2026-10-22,Special Tag,4954,4193,84.6%,,
+Brazil,Elisa,2026-10-22,Backend Category,2380,2367,99.5%,,
+Brazil,Felipe,2026-10-22,T2 - Image Optimisation,416,464,111.5%,179,242
+Brazil,Gabriela,2026-10-22,Frontend Category,9457,8912,94.2%,,
+Brazil,Henrique,2026-10-22,T3 - Weight&Volumes,2324,2324,100.0%,,
+Brazil,Isabela,2026-10-22,T3 - Weight&Volumes,2705,2705,100.0%,,
+Brazil,João,2026-10-22,Frontend Category,8032,7043,87.7%,,
+Brazil,Larissa,2026-10-22,Special Tag,9318,9789,105.1%,,
+Brazil,Marcos,2026-10-22,Frontend Category,3912,3284,83.9%,,
+Brazil,Marcos,2026-10-22,T1 - Categorization (Front End),471,446,94.7%,,
+China,Li Wei,2026-10-22,T1 - Categorization (Front End),446,400,89.7%,,
+China,Li Wei,2026-10-22,T2 - Image Optimisation,234,250,106.8%,62,187
+China,Zhang Min,2026-10-22,T1 - Categorization (Front End),1375,1411,102.6%,,
+China,Zhang Min,2026-10-22,T2 - Image Optimisation,172,188,109.3%,69,103
+China,Wang Fang,2026-10-22,T1 - Categorization (Front End),486,546,112.3%,,
+China,Wang Fang,2026-10-22,T2 - Image Optimisation,187,149,79.7%,53,91
+China,Chen Jie,2026-10-22,T1 - Categorization (Front End),2758,2768,100.4%,,
+Brazil,Ana,2026-10-23,Special Tag,7746,9100,117.5%,,
+Brazil,Bruno,2026-10-23,T1 - Categorization (Front End),641,639,99.7%,,
+Brazil,Bruno,2026-10-23,Frontend Category,2582,2420,93.7%,,
+Brazil,Carla,2026-10-23,Backend Category,3160,2864,90.6%,,
+Brazil,Carla,2026-10-23,Frontend Category,3847,3852,100.1%,,
+Brazil,Diego,2026-10-23,T3 - Weight&Volumes,2119,2119,100.0%,,
+Brazil,Elisa,2026-10-23,Special Tag,6020,5468,90.8%,,
+Brazil,Elisa,2026-10-23,Backend Category,2944,2780,94.4%,,
+Brazil,Felipe,2026-10-23,T2 - Image Optimisation,470,436,92.8%,71,353
+Brazil,Gabriela,2026-10-23,Frontend Category,5798,5090,87.8%,,
+Brazil,Henrique,2026-10-23,T3 - Weight&Volumes,2275,2275,100.0%,,
+Brazil,Isabela,2026-10-23,T3 - Weight&Volumes,2774,2774,100.0%,,
+Brazil,João,2026-10-23,Frontend Category,5231,3683,70.4%,,
+Brazil,Larissa,2026-10-23,Special Tag,6770,6554,96.8%,,
+Brazil,Marcos,2026-10-23,Frontend Category,3921,2786,71.1%,,
+Brazil,Marcos,2026-10-23,T1 - Categorization (Front End),825,731,88.6%,,
+China,Li Wei,2026-10-23,T1 - Categorization (Front End),1133,1056,93.2%,,
+China,Li Wei,2026-10-23,T2 - Image Optimisation,237,224,94.5%,95,113
+China,Zhang Min,2026-10-23,T1 - Categorization (Front End),865,752,86.9%,,
+China,Zhang Min,2026-10-23,T2 - Image Optimisation,176,207,117.6%,77,118
+China,Wang Fang,2026-10-23,T1 - Categorization (Front End),816,788,96.6%,,
+China,Wang Fang,2026-10-23,T2 - Image Optimisation,232,234,100.9%,86,145
+China,Chen Jie,2026-10-23,T1 - Categorization (Front End),1602,1609,100.4%,,
+Brazil,Ana,2026-10-26,Special Tag,10584,11160,105.4%,,
+Brazil,Bruno,2026-10-26,T1 - Categorization (Front End),952,909,95.5%,,
+Brazil,Bruno,2026-10-26,Frontend Category,3571,3474,97.3%,,
+Brazil,Carla,2026-10-26,Backend Category,3126,2566,82.1%,,
+Brazil,Carla,2026-10-26,Frontend Category,3352,3473,103.6%,,
+Brazil,Diego,2026-10-26,T3 - Weight&Volumes,2790,2790,100.0%,,
+Brazil,Elisa,2026-10-26,T2 - Image Optimisation,207,193,93.2%,53,128
+Brazil,Elisa,2026-10-26,Backend Category,2317,2295,99.1%,,
+Brazil,Felipe,2026-10-26,T2 - Image Optimisation,452,427,94.5%,181,207
+Brazil,Henrique,2026-10-26,T3 - Weight&Volumes,2251,2251,100.0%,,
+Brazil,Isabela,2026-10-26,Backend Category,0,5131,,,
+Brazil,João,2026-10-26,Frontend Category,9378,8513,90.8%,,
+Brazil,Larissa,2026-10-26,T3 - Weight&Volumes,3133,3133,100.0%,,
+Brazil,Marcos,2026-10-26,Frontend Category,2184,1895,86.8%,,
+Brazil,Marcos,2026-10-26,T1 - Categorization (Front End),285,254,89.1%,,
+China,Li Wei,2026-10-26,T1 - Categorization (Front End),1793,2095,116.8%,,
+China,Zhang Min,2026-10-26,T1 - Categorization (Front End),2309,2114,91.6%,,
+China,Wang Fang,2026-10-26,T1 - Categorization (Front End),1064,1000,94.0%,,
+China,Wang Fang,2026-10-26,T2 - Image Optimisation,204,202,99.0%,90,97
+China,Chen Jie,2026-10-26,T1 - Categorization (Front End),0,1703,,,
+Brazil,Bruno,2026-10-27,T1 - Categorization (Front End),993,956,96.3%,,
+Brazil,Bruno,2026-10-27,Frontend Category,4386,4303,98.1%,,
+Brazil,Carla,2026-10-27,Backend Category,0,2630,,,
+Brazil,Carla,2026-10-27,Frontend Category,2585,2468,95.5%,,
+Brazil,Diego,2026-10-27,T3 - Weight&Volumes,2164,2164,100.0%,,
+Brazil,Elisa,2026-10-27,T2 - Image Optimisation,239,223,93.3%,65,144
+Brazil,Elisa,2026-10-27,Backend Category,3160,3184,100.8%,,
+Brazil,Felipe,2026-10-27,T2 - Image Optimisation,286,262,91.6%,112,148
+Brazil,Gabriela,2026-10-27,Frontend Category,10180,8218,80.7%,,
+Brazil,Henrique,2026-10-27,T3 - Weight&Volumes,2902,2902,100.0%,,
+Brazil,Isabela,2026-10-27,Backend Category,5956,5668,95.2%,,
+Brazil,João,2026-10-27,Frontend Category,7951,8186,103.0%,,
+Brazil,Larissa,2026-10-27,T3 - Weight&Volumes,3129,3129,100.0%,,
+Brazil,Marcos,2026-10-27,Frontend Category,3752,3499,93.3%,,
+Brazil,Marcos,2026-10-27,T1 - Categorization (Front End),830,853,102.8%,,
+China,Zhang Min,2026-10-27,T1 - Categorization (Front End),1453,1438,99.0%,,
+China,Wang Fang,2026-10-27,T1 - Categorization (Front End),977,966,98.9%,,
+China,Wang Fang,2026-10-27,T2 - Image Optimisation,153,145,94.8%,19,125
+China,Chen Jie,2026-10-27,T1 - Categorization (Front End),1803,1616,89.6%,,
+Brazil,Ana,2026-10-28,Special Tag,9828,10527,107.1%,,
+Brazil,Bruno,2026-10-28,T1 - Categorization (Front End),663,477,71.9%,,
+Brazil,Bruno,2026-10-28,Frontend Category,2869,2827,98.5%,,
+Brazil,Carla,2026-10-28,Backend Category,3116,3067,98.4%,,
+Brazil,Carla,2026-10-28,Frontend Category,4109,4220,102.7%,,
+Brazil,Elisa,2026-10-28,T2 - Image Optimisation,251,212,84.5%,85,111
+Brazil,Elisa,2026-10-28,Backend Category,2444,2519,103.1%,,
+Brazil,Felipe,2026-10-28,T2 - Image Optimisation,399,393,98.5%,155,226
+Brazil,Gabriela,2026-10-28,Frontend Category,7731,6165,79.7%,,
+Brazil,Henrique,2026-10-28,T3 - Weight&Volumes,3016,3016,100.0%,,
+Brazil,Isabela,2026-10-28,Backend Category,6518,6673,102.4%,,
+Brazil,João,2026-10-28,Frontend Category,7797,7823,100.3%,,
+Brazil,Larissa,2026-10-28,T3 - Weight&Volumes,2430,2430,100.0%,,
+Brazil,Marcos,2026-10-28,Frontend Category,3980,3298,82.9%,,
+Brazil,Marcos,2026-10-28,T1 - Categorization (Front End),1239,1065,86.0%,,
+China,Li Wei,2026-10-28,T1 - Categorization (Front End),1901,1889,99.4%,,
+China,Zhang Min,2026-10-28,T1 - Categorization (Front End),1807,1674,92.6%,,
+China,Wang Fang,2026-10-28,T1 - Categorization (Front End),388,450,116.0%,,
+China,Wang Fang,2026-10-28,T2 - Image Optimisation,208,220,105.8%,90,124
+China,Chen Jie,2026-10-28,T1 - Categorization (Front End),0,2556,,,
+Brazil,Ana,2026-10-29,Special Tag,11068,11606,104.9%,,
+Brazil,Bruno,2026-10-29,T1 - Categorization (Front End),957,872,91.1%,,
+Brazil,Bruno,2026-10-29,Frontend Category,3936,3659,93.0%,,
+Brazil,Carla,2026-10-29,Backend Category,2281,2303,101.0%,,
+Brazil,Carla,2026-10-29,Frontend Category,4182,4144,99.1%,,
+Brazil,Diego,2026-10-29,T3 - Weight&Volumes,2429,2429,100.0%,,
+Brazil,Elisa,2026-10-29,T2 - Image Optimisation,0,238,,155,61
+Brazil,Elisa,2026-10-29,Backend Category,2789,2702,96.9%,,
+Brazil,Felipe,2026-10-29,T2 - Image Optimisation,479,445,92.9%,137,270
+Brazil,Gabriela,2026-10-29,Frontend Category,8287,7463,90.1%,,
+Brazil,Henrique,2026-10-29,T3 - Weight&Volumes,2900,2900,100.0%,,
+Brazil,Isabela,2026-10-29,Backend Category,7043,5798,82.3%,,
+Brazil,João,2026-10-29,Frontend Category,7793,7397,94.9%,,
+Brazil,Larissa,2026-10-29,T3 - Weight&Volumes,2547,2547,100.0%,,
+Brazil,Marcos,2026-10-29,Frontend Category,4232,4527,107.0%,,
+Brazil,Marcos,2026-10-29,T1 - Categorization (Front End),1386,1169,84.3%,,
+China,Li Wei,2026-10-29,T1 - Categorization (Front End),2049,1957,95.5%,,
+China,Zhang Min,2026-10-29,T1 - Categorization (Front End),1537,1454,94.6%,,
+China,Wang Fang,2026-10-29,T1 - Categorization (Front End),1277,1236,96.8%,,
+China,Wang Fang,2026-10-29,T2 - Image Optimisation,160,159,99.4%,73,74
+China,Chen Jie,2026-10-29,T1 - Categorization (Front End),2640,2948,111.7%,,
+Brazil,Ana,2026-10-30,Special Tag,12705,13563,106.8%,,
+Brazil,Bruno,2026-10-30,T1 - Categorization (Front End),0,354,,,
+Brazil,Bruno,2026-10-30,Frontend Category,3826,3508,91.7%,,
+Brazil,Carla,2026-10-30,Backend Category,3359,2793,83.1%,,
+Brazil,Carla,2026-10-30,Frontend Category,4037,4312,106.8%,,
+Brazil,Diego,2026-10-30,T3 - Weight&Volumes,2439,2439,100.0%,,
+Brazil,Elisa,2026-10-30,T2 - Image Optimisation,212,220,103.8%,43,164
+Brazil,Elisa,2026-10-30,Backend Category,3283,3161,96.3%,,
+Brazil,Felipe,2026-10-30,T2 - Image Optimisation,493,457,92.7%,195,240
+Brazil,Gabriela,2026-10-30,Frontend Category,8641,6974,80.7%,,
+Brazil,Henrique,2026-10-30,T3 - Weight&Volumes,2092,2092,100.0%,,
+Brazil,Isabela,2026-10-30,Backend Category,5421,5289,97.6%,,
+Brazil,João,2026-10-30,Frontend Category,0,5500,,,
+Brazil,Larissa,2026-10-30,T3 - Weight&Volumes,2229,2229,100.0%,,
+China,Li Wei,2026-10-30,T1 - Categorization (Front End),2617,2096,80.1%,,
+China,Zhang Min,2026-10-30,T1 - Categorization (Front End),2646,2900,109.6%,,
+China,Wang Fang,2026-10-30,T1 - Categorization (Front End),930,1101,118.4%,,
+China,Wang Fang,2026-10-30,T2 - Image Optimisation,249,291,116.9%,98,191
+China,Chen Jie,2026-10-30,T1 - Categorization (Front End),1912,1833,95.9%,,
+Brazil,Ana,2026-11-02,T1 - Categorization (Front End),783,835,106.6%,,
+Brazil,Ana,2026-11-02,T2 - Image Optimisation,218,194,89.0%,81,108
+Brazil,Bruno,2026-11-02,T3 - Weight&Volumes,2444,2444,100.0%,,
+Brazil,Diego,2026-11-02,T3 - Weight&Volumes,2179,2179,100.0%,,
+Brazil,Elisa,2026-11-02,T2 - Image Optimisation,208,210,101.0%,21,177
+Brazil,Elisa,2026-11-02,Backend Category,3449,3552,103.0%,,
+Brazil,Felipe,2026-11-02,T2 - Image Optimisation,478,480,100.4%,197,253
+Brazil,Gabriela,2026-11-02,T4 - CPG Brand,1230,1230,100.0%,,
+Brazil,Henrique,2026-11-02,Special Tag,11250,9612,85.4%,,
+Brazil,Isabela,2026-11-02,Backend Category,6164,5652,91.7%,,
+Brazil,João,2026-11-02,Frontend Category,9138,8030,87.9%,,
+Brazil,Larissa,2026-11-02,T3 - Weight&Volumes,2233,2233,100.0%,,
+Brazil,Marcos,2026-11-02,Frontend Category,5640,5185,91.9%,,
+Brazil,Marcos,2026-11-02,T1 - Categorization (Front End),1140,1274,111.8%,,
+China,Li Wei,2026-11-02,T1 - Categorization (Front End),3772,3761,99.7%,,
+China,Zhang Min,2026-11-02,T1 - Categorization (Front End),1092,1291,118.2%,,
+China,Wang Fang,2026-11-02,T2 - Image Optimisation,375,300,80.0%,138,154
+China,Chen Jie,2026-11-02,T1 - Categorization (Front End),2211,2008,90.8%,,
+Brazil,Ana,2026-11-03,T1 - Categorization (Front End),721,694,96.3%,,
+Brazil,Ana,2026-11-03,T2 - Image Optimisation,216,192,88.9%,62,124
+Brazil,Bruno,2026-11-03,T3 - Weight&Volumes,2654,2654,100.0%,,
+Brazil,Carla,2026-11-03,Backend Category,2454,2343,95.5%,,
+Brazil,Carla,2026-11-03,Frontend Category,3795,3409,89.8%,,
+Brazil,Diego,2026-11-03,T3 - Weight&Volumes,1936,1936,100.0%,,
+Brazil,Elisa,2026-11-03,T2 - Image Optimisation,184,190,103.3%,24,161
+Brazil,Elisa,2026-11-03,Backend Category,3354,3566,106.3%,,
+Brazil,Felipe,2026-11-03,T2 - Image Optimisation,479,452,94.4%,116,327
+Brazil,Gabriela,2026-11-03,T4 - CPG Brand,1416,1416,100.0%,,
+Brazil,Henrique,2026-11-03,Special Tag,8169,8169,100.0%,,
+Brazil,Isabela,2026-11-03,Backend Category,6185,6243,100.9%,,
+Brazil,João,2026-11-03,Frontend Category,9032,8354,92.5%,,
+Brazil,Larissa,2026-11-03,T3 - Weight&Volumes,2965,2965,100.0%,,
+Brazil,Marcos,2026-11-03,Frontend Category,3941,4220,107.1%,,
+Brazil,Marcos,2026-11-03,T1 - Categorization (Front End),1014,988,97.4%,,
+China,Zhang Min,2026-11-03,T1 - Categorization (Front End),678,722,106.5%,,
+China,Wang Fang,2026-11-03,T2 - Image Optimisation,322,363,112.7%,84,261
+China,Chen Jie,2026-11-03,T1 - Categorization (Front End),2555,2375,93.0%,,
+Brazil,Ana,2026-11-04,T1 - Categorization (Front End),455,445,97.8%,,
+Brazil,Ana,2026-11-04,T2 - Image Optimisation,0,230,,64,146
+Brazil,Bruno,2026-11-04,T3 - Weight&Volumes,2766,2766,100.0%,,
+Brazil,Carla,2026-11-04,Backend Category,3175,2378,74.9%,,
+Brazil,Carla,2026-11-04,Frontend Category,4228,4112,97.3%,,
+Brazil,Diego,2026-11-04,T3 - Weight&Volumes,2527,2527,100.0%,,
+Brazil,Elisa,2026-11-04,T2 - Image Optimisation,245,221,90.2%,68,152
+Brazil,Elisa,2026-11-04,Backend Category,3307,3334,100.8%,,
+Brazil,Felipe,2026-11-04,T2 - Image Optimisation,0,353,,166,174
+Brazil,Gabriela,2026-11-04,T4 - CPG Brand,1532,1532,100.0%,,
+Brazil,Henrique,2026-11-04,Special Tag,10530,9634,91.5%,,
+Brazil,Isabela,2026-11-04,Backend Category,6648,7370,110.9%,,
+Brazil,João,2026-11-04,Frontend Category,5268,4445,84.4%,,
+Brazil,Larissa,2026-11-04,T3 - Weight&Volumes,2405,2405,100.0%,,
+Brazil,Marcos,2026-11-04,Frontend Category,3645,3746,102.8%,,
+Brazil,Marcos,2026-11-04,T1 - Categorization (Front End),385,355,92.2%,,
+China,Li Wei,2026-11-04,T1 - Categorization (Front End),3060,3140,102.6%,,
+China,Zhang Min,2026-11-04,T1 - Categorization (Front End),2131,2209,103.7%,,
+China,Wang Fang,2026-11-04,T2 - Image Optimisation,386,374,96.9%,92,259
+Brazil,Ana,2026-11-05,T1 - Categorization (Front End),1325,1430,107.9%,,
+Brazil,Ana,2026-11-05,T2 - Image Optimisation,220,167,75.9%,112,53
+Brazil,Bruno,2026-11-05,T3 - Weight&Volumes,2478,2478,100.0%,,
+Brazil,Carla,2026-11-05,Backend Category,2652,2538,95.7%,,
+Brazil,Carla,2026-11-05,Frontend Category,5198,5644,108.6%,,
+Brazil,Diego,2026-11-05,T3 - Weight&Volumes,2442,2442,100.0%,,
+Brazil,Felipe,2026-11-05,T2 - Image Optimisation,415,403,97.1%,166,205
+Brazil,Gabriela,2026-11-05,T4 - CPG Brand,1178,1178,100.0%,,
+Brazil,Henrique,2026-11-05,Special Tag,8844,8453,95.6%,,
+Brazil,Isabela,2026-11-05,Backend Category,8041,7335,91.2%,,
+Brazil,Larissa,2026-11-05,T3 - Weight&Volumes,3135,3135,100.0%,,
+Brazil,Marcos,2026-11-05,Frontend Category,4162,3625,87.1%,,
+Brazil,Marcos,2026-11-05,T1 - Categorization (Front End),419,368,87.8%,,
+China,Li Wei,2026-11-05,T1 - Categorization (Front End),2148,2009,93.5%,,
+China,Zhang Min,2026-11-05,T1 - Categorization (Front End),1458,1488,102.1%,,
+China,Wang Fang,2026-11-05,T2 - Image Optimisation,472,511,108.3%,106,376
+China,Chen Jie,2026-11-05,T1 - Categorization (Front End),640,544,85.0%,,
+Brazil,Ana,2026-11-06,T1 - Categorization (Front End),956,898,93.9%,,
+Brazil,Ana,2026-11-06,T2 - Image Optimisation,176,142,80.7%,51,78
+Brazil,Bruno,2026-11-06,T3 - Weight&Volumes,1813,1813,100.0%,,
+Brazil,Carla,2026-11-06,Backend Category,3324,2907,87.5%,,
+Brazil,Carla,2026-11-06,Frontend Category,4140,4523,109.3%,,
+Brazil,Diego,2026-11-06,T3 - Weight&Volumes,2348,2348,100.0%,,
+Brazil,Elisa,2026-11-06,T2 - Image Optimisation,202,170,84.2%,80,84
+Brazil,Elisa,2026-11-06,Backend Category,2997,3072,102.5%,,
+Brazil,Felipe,2026-11-06,T2 - Image Optimisation,374,437,116.8%,206,205
+Brazil,Gabriela,2026-11-06,T4 - CPG Brand,821,821,100.0%,,
+Brazil,Henrique,2026-11-06,Special Tag,9695,9470,97.7%,,
+Brazil,Isabela,2026-11-06,Backend Category,6602,5544,84.0%,,
+Brazil,João,2026-11-06,Frontend Category,12559,10071,80.2%,,
+Brazil,Larissa,2026-11-06,T3 - Weight&Volumes,2652,2652,100.0%,,
+Brazil,Marcos,2026-11-06,Frontend Category,5009,4358,87.0%,,
+Brazil,Marcos,2026-11-06,T1 - Categorization (Front End),813,806,99.1%,,
+China,Li Wei,2026-11-06,T1 - Categorization (Front End),1738,1560,89.8%,,
+China,Zhang Min,2026-11-06,T1 - Categorization (Front End),1922,1687,87.8%,,
+China,Wang Fang,2026-11-06,T2 - Image Optimisation,322,324,100.6%,165,157
+China,Chen Jie,2026-11-06,T1 - Categorization (Front End),2425,2480,102.3%,,
+Brazil,Bruno,2026-11-09,T1 - Categorization (Front End),891,742,83.3%,,
+Brazil,Bruno,2026-11-09,Frontend Category,3521,3153,89.5%,,
+Brazil,Carla,2026-11-09,Frontend Category,7596,6549,86.2%,,
+Brazil,Elisa,2026-11-09,T2 - Image Optimisation,285,285,100.0%,162,97
+Brazil,Elisa,2026-11-09,Backend Category,3587,3699,103.1%,,
+Brazil,Felipe,2026-11-09,T2 - Image Optimisation,437,445,101.8%,183,252
+Brazil,Gabriela,2026-11-09,T4 - CPG Brand,1079,1079,100.0%,,
+Brazil,Henrique,2026-11-09,Special Tag,9024,8342,92.4%,,
+Brazil,Isabela,2026-11-09,Backend Category,6144,5336,86.8%,,
+Brazil,João,2026-11-09,Frontend Category,5836,5684,97.4%,,
+Brazil,Larissa,2026-11-09,T3 - Weight&Volumes,2487,2487,100.0%,,
+Brazil,Marcos,2026-11-09,Frontend Category,3269,2765,84.6%,,
+Brazil,Marcos,2026-11-09,T1 - Categorization (Front End),916,812,88.6%,,
+China,Li Wei,2026-11-09,T1 - Categorization (Front End),1568,1166,74.4%,,
+China,Zhang Min,2026-11-09,T1 - Categorization (Front End),1285,1356,105.5%,,
+China,Wang Fang,2026-11-09,T2 - Image Optimisation,399,426,106.8%,126,261
+China,Chen Jie,2026-11-09,T1 - Categorization (Front End),50,40,80.0%,,
+Brazil,Ana,2026-11-10,T1 - Categorization (Front End),955,974,102.0%,,
+Brazil,Ana,2026-11-10,T2 - Image Optimisation,161,124,77.0%,52,64
+Brazil,Bruno,2026-11-10,T1 - Categorization (Front End),0,978,,,
+Brazil,Bruno,2026-11-10,Frontend Category,3005,2834,94.3%,,
+Brazil,Carla,2026-11-10,Frontend Category,5619,4730,84.2%,,
+Brazil,Elisa,2026-11-10,T2 - Image Optimisation,176,192,109.1%,99,80
+Brazil,Elisa,2026-11-10,Backend Category,3257,3535,108.5%,,
+Brazil,Gabriela,2026-11-10,T4 - CPG Brand,1352,1352,100.0%,,
+Brazil,Henrique,2026-11-10,Special Tag,11200,9019,80.5%,,
+Brazil,Isabela,2026-11-10,Backend Category,5214,4779,91.7%,,
+Brazil,João,2026-11-10,Frontend Category,5578,4249,76.2%,,
+Brazil,Larissa,2026-11-10,T3 - Weight&Volumes,2745,2745,100.0%,,
+Brazil,Marcos,2026-11-10,Frontend Category,3509,3104,88.5%,,
+Brazil,Marcos,2026-11-10,T1 - Categorization (Front End),1109,775,69.9%,,
+China,Li Wei,2026-11-10,T1 - Categorization (Front End),1818,1755,96.5%,,
+China,Zhang Min,2026-11-10,T1 - Categorization (Front End),2347,2224,94.8%,,
+China,Wang Fang,2026-11-10,T2 - Image Optimisation,484,518,107.0%,159,350
+China,Chen Jie,2026-11-10,T1 - Categorization (Front End),0,2635,,,
+Brazil,Ana,2026-11-11,T1 - Categorization (Front End),1041,1030,98.9%,,
+Brazil,Ana,2026-11-11,T2 - Image Optimisation,195,156,80.0%,36,109
+Brazil,Bruno,2026-11-11,T1 - Categorization (Front End),1161,982,84.6%,,
+Brazil,Bruno,2026-11-11,Frontend Category,3220,3190,99.1%,,
+Brazil,Carla,2026-11-11,Frontend Category,7843,8080,103.0%,,
+Brazil,Elisa,2026-11-11,T2 - Image Optimisation,201,188,93.5%,45,127
+Brazil,Elisa,2026-11-11,Backend Category,3311,3960,119.6%,,
+Brazil,Felipe,2026-11-11,T2 - Image Optimisation,539,537,99.6%,186,303
+Brazil,Gabriela,2026-11-11,T4 - CPG Brand,1637,1637,100.0%,,
+Brazil,Henrique,2026-11-11,Special Tag,8683,9259,106.6%,,
+Brazil,Isabela,2026-11-11,Backend Category,6209,6292,101.3%,,
+Brazil,João,2026-11-11,Frontend Category,9621,7347,76.4%,,
+Brazil,Larissa,2026-11-11,T3 - Weight&Volumes,2220,2220,100.0%,,
+Brazil,Marcos,2026-11-11,Frontend Category,4422,3552,80.3%,,
+Brazil,Marcos,2026-11-11,T1 - Categorization (Front End),657,582,88.6%,,
+China,Li Wei,2026-11-11,T1 - Categorization (Front End),2820,2601,92.2%,,
+China,Zhang Min,2026-11-11,T1 - Categorization (Front End),2078,1875,90.2%,,
+China,Wang Fang,2026-11-11,T2 - Image Optimisation,317,330,104.1%,116,181
+China,Chen Jie,2026-11-11,T1 - Categorization (Front End),1988,1845,92.8%,,
+Brazil,Ana,2026-11-12,T1 - Categorization (Front End),538,496,92.2%,,
+Brazil,Ana,2026-11-12,T2 - Image Optimisation,201,159,79.1%,70,87
+Brazil,Bruno,2026-11-12,T1 - Categorization (Front End),1241,1283,103.4%,,
+Brazil,Bruno,2026-11-12,Frontend Category,3764,3615,96.0%,,
+Brazil,Carla,2026-11-12,Frontend Category,7049,6689,94.9%,,
+Brazil,Diego,2026-11-12,T3 - Weight&Volumes,3067,3067,100.0%,,
+Brazil,Elisa,2026-11-12,T2 - Image Optimisation,235,205,87.2%,86,99
+Brazil,Elisa,2026-11-12,Backend Category,2841,2770,97.5%,,
+Brazil,Felipe,2026-11-12,T2 - Image Optimisation,413,399,96.6%,155,224
+Brazil,Gabriela,2026-11-12,T4 - CPG Brand,1388,1388,100.0%,,
+Brazil,Henrique,2026-11-12,Special Tag,10523,10103,96.0%,,
+Brazil,Isabela,2026-11-12,Backend Category,5166,4616,89.4%,,
+Brazil,João,2026-11-12,Frontend Category,6973,5699,81.7%,,
+Brazil,Larissa,2026-11-12,T3 - Weight&Volumes,2107,2107,100.0%,,
+Brazil,Marcos,2026-11-12,Frontend Category,4191,3832,91.4%,,
+Brazil,Marcos,2026-11-12,T1 - Categorization (Front End),1047,1002,95.7%,,
+China,Li Wei,2026-11-12,T1 - Categorization (Front End),1651,1409,85.3%,,
+China,Zhang Min,2026-11-12,T1 - Categorization (Front End),2202,2046,92.9%,,
+China,Wang Fang,2026-11-12,T2 - Image Optimisation,371,396,106.7%,140,236
+China,Chen Jie,2026-11-12,T1 - Categorization (Front End),1490,1364,91.5%,,
+Brazil,Ana,2026-11-13,T1 - Categorization (Front End),1616,1651,102.2%,,
+Brazil,Ana,2026-11-13,T2 - Image Optimisation,208,181,87.0%,67,104
+Brazil,Bruno,2026-11-13,T1 - Categorization (Front End),1020,950,93.1%,,
+Brazil,Bruno,2026-11-13,Frontend Category,3367,2725,80.9%,,
+Brazil,Carla,2026-11-13,Frontend Category,6495,6231,95.9%,,
+Brazil,Diego,2026-11-13,T3 - Weight&Volumes,2662,2662,100.0%,,
+Brazil,Elisa,2026-11-13,T2 - Image Optimisation,164,151,92.1%,52,86
+Brazil,Elisa,2026-11-13,Backend Category,3283,3522,107.3%,,
+Brazil,Felipe,2026-11-13,T2 - Image Optimisation,382,293,76.7%,72,192
+Brazil,Gabriela,2026-11-13,T4 - CPG Brand,1220,1220,100.0%,,
+Brazil,Henrique,2026-11-13,Special Tag,12678,11188,88.2%,,
+Brazil,Isabela,2026-11-13,Backend Category,5677,5410,95.3%,,
+Brazil,João,2026-11-13,Frontend Category,12125,10846,89.5%,,
+Brazil,Larissa,2026-11-13,T3 - Weight&Volumes,2721,2721,100.0%,,
+Brazil,Marcos,2026-11-13,Frontend Category,4684,4598,98.2%,,
+Brazil,Marcos,2026-11-13,T1 - Categorization (Front End),844,853,101.1%,,
+China,Li Wei,2026-11-13,T1 - Categorization (Front End),3434,3496,101.8%,,
+China,Zhang Min,2026-11-13,T1 - Categorization (Front End),1064,1135,106.7%,,
+China,Wang Fang,2026-11-13,T2 - Image Optimisation,380,408,107.4%,115,269
+China,Chen Jie,2026-11-13,T1 - Categorization (Front End),1726,1720,99.7%,,
