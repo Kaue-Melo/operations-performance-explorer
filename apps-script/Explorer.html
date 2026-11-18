@@ -113,7 +113,7 @@ $("#wow").innerHTML='<div class="sc"><table><tr><th class="l">Activity</th><th>P
 if(sel){const rs=R.filter(r=>r.user==sel);$("#at").textContent="Agent detail · "+nm(sel);
 let s=tk.map(x=>{const q=rs.filter(r=>r.task==x),a=q.reduce((s,r)=>s+r.a,0),d=q.reduce((s,r)=>s+r.d,0);return`<div class="row"><span>${esc(x)}</span><div class="tr" title="${fmt(d)} of ${fmt(a)}"><span style="width:${Math.min(100,pc(d,a))}%;background:${tcol[x]}"></span></div><b>${q.length?pc(d,a)+"%":"gap"}</b></div>`}).join("");
 const W={};rs.forEach(r=>W[wk(r.date)]=(W[wk(r.date)]||0)+r.d);const k=Object.keys(W).sort(),m=Math.max(...k.map(x=>W[x]),1);
-s+=`<p class="hint" style="margin-top:14px">Completed items per week</p><svg viewBox="0 0 300 70" width="100%" role="img" aria-label="Weekly completed items"><polyline fill="none" stroke="var(--ac)" stroke-width="2.5" points="${k.map((x,i)=>`${k.length>1?i*290/(k.length-1)+5:150},${65-W[x]/m*58}`).join(" ")}"/></svg>`;$("#ag").innerHTML=s}
+s+=`<p class="hint" style="margin-top:14px">Completed items per week (week starting Monday)</p>`+spark(k,W);$("#ag").innerHTML=s}
 else{$("#at").textContent="Agent detail";$("#ag").innerHTML='<p class="hint">Select an agent in the matrix or the timeline.</p>'}
 // timeline
 const wks=[...new Set(R.map(r=>wk(r.date)))].sort();
@@ -149,4 +149,20 @@ document.querySelectorAll("#tabs button").forEach(b=>b.onclick=()=>{document.que
 const EMBED=<?!= data ?>,META=<?!= meta ?>;
 load(EMBED,true);
 if(META.refreshed){const ok=META.status==="ok";$("#bd").textContent+=" · refreshed "+META.refreshed+(ok?"":" · last run: "+META.status);if(!ok)$("#bd").className="badge"}
+
+// weekly line chart for the agent detail: value on every point (or on first, last, min and max when
+// there are many weeks), week labels on the x axis and a tooltip on each point
+function spark(k,W){if(!k.length)return'<p class="hint">No completed items in the selected period.</p>';
+const w=Math.max(300,Math.round(($("#ag")||{}).clientWidth||600)),h=190,L=14,Rr=14,T=26,B=34,n=k.length,v=k.map(x=>W[x]),mx=Math.max(...v,1),
+X=i=>n>1?L+i*(w-L-Rr)/(n-1):w/2,Y=y=>T+(1-y/mx)*(h-T-B),
+lab=x=>new Date(x+"T00:00:00Z").toLocaleDateString("en",{month:"short",day:"numeric",timeZone:"UTC"}),
+all=n<=Math.floor(w/60),imx=v.indexOf(Math.max(...v)),imn=v.indexOf(Math.min(...v)),pick=[],keep=i=>all||pick.includes(i),
+step=Math.max(1,Math.ceil(n/Math.max(2,Math.floor(w/80)))),anc=i=>n>1&&i==0?"start":n>1&&i==n-1?"end":"middle";
+if(!all)[imx,n-1,0,imn].forEach(i=>{if(!pick.includes(i)&&pick.every(j=>Math.abs(X(i)-X(j))>=58))pick.push(i)});
+let g=`<line x1="${L}" x2="${w-Rr}" y1="${h-B}" y2="${h-B}" stroke="var(--bd)"/>`;
+g+=`<polyline fill="none" stroke="var(--ac)" stroke-width="2.5" stroke-linejoin="round" points="${k.map((x,i)=>X(i)+","+Y(v[i])).join(" ")}"/>`;
+k.forEach((x,i)=>{g+=`<g><title>Week of ${lab(x)}: ${fmt(v[i])} completed items</title><circle cx="${X(i)}" cy="${Y(v[i])}" r="${keep(i)?4:3}" fill="var(--ac)" stroke="var(--card)" stroke-width="1.5"/><circle cx="${X(i)}" cy="${Y(v[i])}" r="12" fill="transparent"/></g>`;
+if(keep(i))g+=`<text x="${X(i)}" y="${Y(v[i])-9}" text-anchor="${anc(i)}" font-size="12" font-weight="600" fill="var(--tx)">${fmt(v[i])}</text>`;
+if(i==n-1||i%step==0&&n-1-i>=step*0.75)g+=`<text x="${X(i)}" y="${h-B+18}" text-anchor="${anc(i)}" font-size="11" fill="var(--mu)">${lab(x)}</text>`});
+return`<svg viewBox="0 0 ${w} ${h}" width="100%" role="img" aria-label="Completed items per week: ${k.map((x,i)=>lab(x)+" "+fmt(v[i])).join(", ")}" style="overflow:visible;font-family:inherit">${g}</svg>`}
 </script></body></html>
