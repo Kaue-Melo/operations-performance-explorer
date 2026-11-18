@@ -6,7 +6,7 @@ An automated pipeline and interactive dashboard for an operations team that prep
 > **All data in this repository is fictitious.** Agent names, volumes and dates were generated for the demo.
 > Spreadsheet IDs were replaced with placeholders.
 
-**Live demo:** `https://<your-github-user>.github.io/operations-performance-explorer/`
+**Live demo:** `https://<Kaue-Melo>.github.io/operations-performance-explorer/`
 
 ![Overview tab](docs/overview.png)
 
